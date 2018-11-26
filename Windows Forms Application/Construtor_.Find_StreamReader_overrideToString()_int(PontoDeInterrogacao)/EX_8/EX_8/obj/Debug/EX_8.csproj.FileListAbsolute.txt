@@ -1,0 +1,9 @@
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_8\EX_8\EX_8\bin\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_8\EX_8\EX_8\bin\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_8\EX_8\EX_8\obj\Debug\ResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_8\EX_8\EX_8\obj\Debug\EX_8.Form1.resources
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_8\EX_8\EX_8\obj\Debug\EX_8.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_8\EX_8\EX_8\obj\Debug\EX_8.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_8\EX_8\EX_8\obj\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_8\EX_8\EX_8\obj\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_8\EX_8\EX_8\bin\Debug\Categorias.txt

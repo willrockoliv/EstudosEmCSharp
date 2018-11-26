@@ -1,0 +1,38 @@
+C:\EDUARDO\POO\EX_8\EX_8\EX_8\bin\Debug\EX_8.exe.config
+C:\EDUARDO\POO\EX_8\EX_8\EX_8\bin\Debug\Categorias.txt
+C:\EDUARDO\POO\EX_8\EX_8\EX_8\bin\Debug\EX_8.exe
+C:\EDUARDO\POO\EX_8\EX_8\EX_8\bin\Debug\EX_8.pdb
+C:\EDUARDO\POO\EX_8\EX_8\EX_8\obj\Debug\EX_8.csprojResolveAssemblyReference.cache
+C:\EDUARDO\POO\EX_8\EX_8\EX_8\obj\Debug\EX_8.Form1.resources
+C:\EDUARDO\POO\EX_8\EX_8\EX_8\obj\Debug\EX_8.Properties.Resources.resources
+C:\EDUARDO\POO\EX_8\EX_8\EX_8\obj\Debug\EX_8.csproj.GenerateResource.Cache
+C:\EDUARDO\POO\EX_8\EX_8\EX_8\obj\Debug\EX_8.exe
+C:\EDUARDO\POO\EX_8\EX_8\EX_8\obj\Debug\EX_8.pdb
+Z:\AULAS\2013-S1\POO\EX_8\EX_8\bin\Debug\EX_8.exe.config
+Z:\AULAS\2013-S1\POO\EX_8\EX_8\obj\Debug\EX_8.exe
+Z:\AULAS\2013-S1\POO\EX_8\EX_8\obj\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_8\EX_8\bin\Debug\EX_8.exe.config
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_8\EX_8\obj\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_8\EX_8\obj\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_8\EX_8\bin\Debug\Categorias.txt
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_8\EX_8\bin\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_8\EX_8\bin\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_8\EX_8\obj\Debug\EX_8.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_8\EX_8\obj\Debug\EX_8.Form1.resources
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_8\EX_8\obj\Debug\EX_8.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_8\EX_8\obj\Debug\EX_8.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2015-S1\POO\EX_8\EX_8\bin\Debug\EX_8.exe.config
+X:\Professores\Prof. Eduardo\2015-S1\POO\EX_8\EX_8\obj\Debug\EX_8.exe
+X:\Professores\Prof. Eduardo\2015-S1\POO\EX_8\EX_8\obj\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_15\EX_8\bin\Debug\Categorias.txt
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_15\EX_8\bin\Debug\EX_8.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_15\EX_8\bin\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_15\EX_8\bin\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_15\EX_8\obj\Debug\EX_8.Form1.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_15\EX_8\obj\Debug\EX_8.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_15\EX_8\obj\Debug\EX_8.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_15\EX_8\obj\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_15\EX_8\obj\Debug\EX_8.pdb
+E:\Construtor_.Find_StreamReader_overrideToString()_int(PontoDeInterrogacao)\EX_8\bin\Debug\EX_8.exe.config
+E:\Construtor_.Find_StreamReader_overrideToString()_int(PontoDeInterrogacao)\EX_8\obj\Debug\EX_8.exe
+E:\Construtor_.Find_StreamReader_overrideToString()_int(PontoDeInterrogacao)\EX_8\obj\Debug\EX_8.pdb

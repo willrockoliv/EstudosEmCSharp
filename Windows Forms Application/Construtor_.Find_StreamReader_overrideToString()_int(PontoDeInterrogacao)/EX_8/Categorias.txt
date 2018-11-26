@@ -1,0 +1,5 @@
+﻿1,brinquedos
+2,alimentos
+3,bebidas
+4,eletrodomésticos
+5,eletrônicos
