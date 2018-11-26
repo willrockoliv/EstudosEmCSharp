@@ -1,0 +1,5 @@
+c:\eduardo\EC2\EX_4\EX_4\bin\Debug\EX_4.exe.config
+c:\eduardo\EC2\EX_4\EX_4\bin\Debug\EX_4.exe
+c:\eduardo\EC2\EX_4\EX_4\bin\Debug\EX_4.pdb
+c:\eduardo\EC2\EX_4\EX_4\obj\Debug\EX_4.exe
+c:\eduardo\EC2\EX_4\EX_4\obj\Debug\EX_4.pdb

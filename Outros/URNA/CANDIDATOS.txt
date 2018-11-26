@@ -1,0 +1,24 @@
+13
+Dilma Rousseff
+PT
+P
+13
+Alexandre Padilha
+PT
+G
+45
+Aécio Neves
+PSDB
+P
+45
+José Serra
+PSDB
+G
+56
+Enéas Carneiro
+PRONA
+P
+56
+Havanir Tavares
+PRONA
+G

@@ -1,0 +1,5 @@
+C:\Users\William.Rocha\Desktop\ViniTimer\ViniTimer\bin\Debug\ViniTimer.exe.config
+C:\Users\William.Rocha\Desktop\ViniTimer\ViniTimer\bin\Debug\ViniTimer.exe
+C:\Users\William.Rocha\Desktop\ViniTimer\ViniTimer\bin\Debug\ViniTimer.pdb
+C:\Users\William.Rocha\Desktop\ViniTimer\ViniTimer\obj\Debug\ViniTimer.exe
+C:\Users\William.Rocha\Desktop\ViniTimer\ViniTimer\obj\Debug\ViniTimer.pdb

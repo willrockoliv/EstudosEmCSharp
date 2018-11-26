@@ -1,0 +1,11 @@
+﻿$1;Reino;Animalia
+$1;Filo;Chordata
+$1;Classe;Aves
+$1;Ordem;Sphenisciformes
+$1;Família;Spheniscidae
+$2;Pinguim
+$3;característica do Hemisfério Sul, em especial na Antárctida e ilhas dos mares $3;austrais, chegado à Terra do Fogo, Ilhas Malvinas e África do Sul, entre outros.
+$3;Os pinguins alimentam-se de pequenos peixes, krill e outras formas de vida marinha
+$3;O pinguim é uma ave marinha e excelente nadadora. Chega a nadar com uma velocidade de $3;até 45 km/h e passa a maior parte do tempo na água. Suas asas não servem para voo.
+$3;- Estas aves vivem, em média, de 25 a 32 anos.
+$3;- O tamanho varia de acordo com a espécie, podendo chegar até 1, 2 metro de altura $3;(caso do pingüim-imperador). No caso desta espécie, podem pesar até 30 quilos.

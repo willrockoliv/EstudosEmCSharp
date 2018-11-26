@@ -1,0 +1,5 @@
+﻿1|Sonic|easy|3,5|7 – SEGA
+2|Metal Slug|normal|7|1 – Konami
+3|Mario|hard|10|1 – Konami
+4|Donkie Kong|normal|2|2 – Capcom
+5|teste|easy|1|3  - Nintendo

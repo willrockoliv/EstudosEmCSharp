@@ -1,0 +1,9 @@
+C:\Users\William.Rocha\Desktop\POO e ED\Ex13\Ex13\bin\Debug\Ex13.exe.config
+C:\Users\William.Rocha\Desktop\POO e ED\Ex13\Ex13\bin\Debug\Ex13.exe
+C:\Users\William.Rocha\Desktop\POO e ED\Ex13\Ex13\bin\Debug\Ex13.pdb
+C:\Users\William.Rocha\Desktop\POO e ED\Ex13\Ex13\obj\Debug\Ex13.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\POO e ED\Ex13\Ex13\obj\Debug\Ex13.Form1.resources
+C:\Users\William.Rocha\Desktop\POO e ED\Ex13\Ex13\obj\Debug\Ex13.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\POO e ED\Ex13\Ex13\obj\Debug\Ex13.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\POO e ED\Ex13\Ex13\obj\Debug\Ex13.exe
+C:\Users\William.Rocha\Desktop\POO e ED\Ex13\Ex13\obj\Debug\Ex13.pdb

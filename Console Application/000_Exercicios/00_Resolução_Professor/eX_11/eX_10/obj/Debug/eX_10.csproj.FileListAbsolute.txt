@@ -1,0 +1,10 @@
+c:\eduardo\EC2\eX_10\eX_10\bin\Debug\eX_10.exe.config
+c:\eduardo\EC2\eX_10\eX_10\bin\Debug\eX_10.exe
+c:\eduardo\EC2\eX_10\eX_10\bin\Debug\eX_10.pdb
+c:\eduardo\EC2\eX_10\eX_10\obj\Debug\eX_10.exe
+c:\eduardo\EC2\eX_10\eX_10\obj\Debug\eX_10.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\eX_11\eX_10\bin\Debug\eX_10.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\eX_11\eX_10\obj\Debug\eX_10.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\eX_11\eX_10\obj\Debug\eX_10.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\eX_11\eX_10\bin\Debug\eX_10.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\eX_11\eX_10\bin\Debug\eX_10.pdb

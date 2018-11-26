@@ -1,0 +1,18 @@
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_5_WF\EX_5_WF\bin\Debug\EX_5_WF.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_5_WF\EX_5_WF\bin\Debug\EX_5_WF.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_5_WF\EX_5_WF\bin\Debug\EX_5_WF.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_5_WF\EX_5_WF\obj\Debug\EX_5_WF.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_5_WF\EX_5_WF\obj\Debug\EX_5_WF.Form1.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_5_WF\EX_5_WF\obj\Debug\EX_5_WF.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_5_WF\EX_5_WF\obj\Debug\EX_5_WF.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_5_WF\EX_5_WF\obj\Debug\EX_5_WF.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_5_WF\EX_5_WF\obj\Debug\EX_5_WF.pdb
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\EX_5_WF\EX_5_WF\bin\Debug\EX_5_WF.exe.config
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\EX_5_WF\EX_5_WF\bin\Debug\EX_5_WF.exe
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\EX_5_WF\EX_5_WF\bin\Debug\EX_5_WF.pdb
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\EX_5_WF\EX_5_WF\obj\Debug\EX_5_WF.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\EX_5_WF\EX_5_WF\obj\Debug\EX_5_WF.Form1.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\EX_5_WF\EX_5_WF\obj\Debug\EX_5_WF.Properties.Resources.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\EX_5_WF\EX_5_WF\obj\Debug\EX_5_WF.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\EX_5_WF\EX_5_WF\obj\Debug\EX_5_WF.exe
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\EX_5_WF\EX_5_WF\obj\Debug\EX_5_WF.pdb

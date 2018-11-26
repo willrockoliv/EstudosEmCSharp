@@ -1,0 +1,42 @@
+C:\eduardo\2012_S1\POO\CustomExceptions\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe
+C:\eduardo\2012_S1\POO\CustomExceptions\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.pdb
+C:\eduardo\2012_S1\POO\CustomExceptions\CustomExceptions\CustomExceptions\obj\Debug\ResolveAssemblyReference.cache
+C:\eduardo\2012_S1\POO\CustomExceptions\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.Form1.resources
+C:\eduardo\2012_S1\POO\CustomExceptions\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.Properties.Resources.resources
+C:\eduardo\2012_S1\POO\CustomExceptions\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.csproj.GenerateResource.Cache
+C:\eduardo\2012_S1\POO\CustomExceptions\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.exe
+C:\eduardo\2012_S1\POO\CustomExceptions\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.pdb
+X:\Professores\Prof. Eduardo\2012-S1\POO\CustomExceptions\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.exe
+X:\Professores\Prof. Eduardo\2012-S1\POO\CustomExceptions\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.pdb
+X:\Professores\Prof. Eduardo\2012-S1\POO\CustomExceptions\CustomExceptions\CustomExceptions\obj\Debug\ResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2012-S1\POO\CustomExceptions\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.Form1.resources
+X:\Professores\Prof. Eduardo\2012-S1\POO\CustomExceptions\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2012-S1\POO\CustomExceptions\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2012-S1\POO\CustomExceptions\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe
+X:\Professores\Prof. Eduardo\2012-S1\POO\CustomExceptions\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.pdb
+W:\Professores\Prof. Eduardo\2012-s2\POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.exe
+W:\Professores\Prof. Eduardo\2012-s2\POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.pdb
+X:\Professores\Prof. Eduardo\2012-s2\POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.exe
+X:\Professores\Prof. Eduardo\2012-s2\POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.pdb
+W:\Professores\Prof. Eduardo\2013-S1\POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.exe
+W:\Professores\Prof. Eduardo\2013-S1\POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.pdb
+W:\Professores\Prof. Eduardo\2013-S1\POO\CustomExceptions1\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe
+W:\Professores\Prof. Eduardo\2013-S1\POO\CustomExceptions1\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.pdb
+W:\Professores\Prof. Eduardo\2013-S1\POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2013-S1\POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.Form1.resources
+W:\Professores\Prof. Eduardo\2013-S1\POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2013-S1\POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2013-S1\POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.exe
+X:\Professores\Prof. Eduardo\2013-S1\POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.pdb
+W:\Professores\Prof. Eduardo\2015-S1\POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.exe
+W:\Professores\Prof. Eduardo\2015-S1\POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.pdb
+X:\Professores\Prof. Eduardo\2015-S1\POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.exe
+X:\Professores\Prof. Eduardo\2015-S1\POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\CustomExceptions1\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\CustomExceptions1\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.csprojResolveAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.Form1.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.Properties.Resources.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\CustomExceptions1\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.csproj.GenerateResource.Cache

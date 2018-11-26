@@ -1,0 +1,5 @@
+c:\eduardo\EC2\eX_10\eX_10\bin\Debug\eX_10.exe.config
+c:\eduardo\EC2\eX_10\eX_10\bin\Debug\eX_10.exe
+c:\eduardo\EC2\eX_10\eX_10\bin\Debug\eX_10.pdb
+c:\eduardo\EC2\eX_10\eX_10\obj\Debug\eX_10.exe
+c:\eduardo\EC2\eX_10\eX_10\obj\Debug\eX_10.pdb

@@ -1,0 +1,9 @@
+W:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\ManipulandoArquivoTexto\ManipulandoArquivoTexto\bin\Debug\ManipulandoArquivoTexto.exe
+W:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\ManipulandoArquivoTexto\ManipulandoArquivoTexto\bin\Debug\ManipulandoArquivoTexto.pdb
+W:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\ManipulandoArquivoTexto\ManipulandoArquivoTexto\obj\Debug\ManipulandoArquivoTexto.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\ManipulandoArquivoTexto\ManipulandoArquivoTexto\obj\Debug\ManipulandoArquivoTexto.exe
+W:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\ManipulandoArquivoTexto\ManipulandoArquivoTexto\obj\Debug\ManipulandoArquivoTexto.pdb
+X:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\ManipulandoArquivoTexto\ManipulandoArquivoTexto\obj\Debug\ManipulandoArquivoTexto.exe
+X:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\ManipulandoArquivoTexto\ManipulandoArquivoTexto\obj\Debug\ManipulandoArquivoTexto.pdb
+X:\Professores\Prof. Eduardo\2017-S1\EC-1 - Algoritmos I\ManipulandoArquivoTexto\ManipulandoArquivoTexto\obj\Debug\ManipulandoArquivoTexto.exe
+X:\Professores\Prof. Eduardo\2017-S1\EC-1 - Algoritmos I\ManipulandoArquivoTexto\ManipulandoArquivoTexto\obj\Debug\ManipulandoArquivoTexto.pdb

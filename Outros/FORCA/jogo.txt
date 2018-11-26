@@ -1,0 +1,13 @@
+P:corinthians
+D:maior time de todos
+D:preto e branco
+D:campeao 2013
+P:superman
+D:super heroi
+D:voa
+D:tem medo de criptonita
+P:matematica
+D:faz contas
+D:dificil
+D:materia
+D:disciplina

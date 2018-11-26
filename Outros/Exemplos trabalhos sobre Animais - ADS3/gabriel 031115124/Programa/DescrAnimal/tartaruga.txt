@@ -1,0 +1,12 @@
+﻿$1;Reino;Animalia
+$1;Filo;Chordata
+$1;Classe;Reptilia
+$1;Ordem;Testudinata
+$1;Família;Cheloniidae
+$2;Tartaruga
+$3; texto lixo dos infernos 
+$3;O tamanho das tartarugas marinhas adultas pode variar de 1m até 2m de comprimento, $3;caso da tartaruga-de-couro ou tartaruga-gigante. Indivíduos adultos desta espécie $3;podem atingir até 600 kg.
+$3;Estes répteis se alimentam, principalmente, de medusas, camarões, esponjas e $3;águas-vivas.
+$3;As tartarugas marinham são répteis que vivem nos oceanos em áreas tropicais e $3;subtropicais.
+$3;Existem sete espécies de tartarugas marinhas (tartaruga-oliva, tartaruga-cabeçuda, $3;tartaruga-verde, tartaruga-de-pente, tartaruga-de-kemp, tartaruga-de-couro e natator $3;depressus).
+$3;Dependendo da espécie, a cor das tartarugas pode variar do marrom ao verde.

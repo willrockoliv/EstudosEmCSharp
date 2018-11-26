@@ -1,0 +1,12 @@
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_11\bin\Debug\AlunoENotas.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_11\bin\Debug\AlunoENotas.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_11\obj\Debug\AlunoENotas.csprojResolveAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_11\obj\Debug\AlunoENotas.Form1.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_11\obj\Debug\AlunoENotas.Properties.Resources.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_11\obj\Debug\AlunoENotas.csproj.GenerateResource.Cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_11\obj\Debug\AlunoENotas.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_11\obj\Debug\AlunoENotas.pdb
+C:\Users\082160033\Desktop\EX_11\obj\Debug\AlunoENotas.exe
+C:\Users\082160033\Desktop\EX_11\obj\Debug\AlunoENotas.pdb
+Z:\EX_11\obj\Debug\AlunoENotas.exe
+Z:\EX_11\obj\Debug\AlunoENotas.pdb

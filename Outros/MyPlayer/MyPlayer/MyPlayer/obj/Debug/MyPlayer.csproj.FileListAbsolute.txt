@@ -1,0 +1,67 @@
+E:\Backup New\Projects\MyPlayer\MyPlayer\bin\Debug\MyPlayer.exe
+E:\Backup New\Projects\MyPlayer\MyPlayer\bin\Debug\MyPlayer.pdb
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csprojResolveAssemblyReference.cache
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\MyPlayer.frmMyPlayer.resources
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\MyPlayer.Properties.Resources.resources
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.GenerateResource.Cache
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\MyPlayer.exe
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\MyPlayer.pdb
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\Interop.WMPLib.dll
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\AxInterop.WMPLib.dll
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.ResolveComReference.cache
+E:\Backup New\Projects\MyPlayer\MyPlayer\bin\Debug\Interop.WMPLib.dll
+E:\Backup New\Projects\MyPlayer\MyPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\082160010\Desktop\MyPlayer\MyPlayer\bin\Debug\MyPlayer.exe
+C:\Users\082160010\Desktop\MyPlayer\MyPlayer\bin\Debug\MyPlayer.pdb
+C:\Users\082160010\Desktop\MyPlayer\MyPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\082160010\Desktop\MyPlayer\MyPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\082160010\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csprojResolveAssemblyReference.cache
+C:\Users\082160010\Desktop\MyPlayer\MyPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\082160010\Desktop\MyPlayer\MyPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\082160010\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.ResolveComReference.cache
+C:\Users\082160010\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.frmMyPlayer.resources
+C:\Users\082160010\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.Properties.Resources.resources
+C:\Users\082160010\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.GenerateResource.Cache
+C:\Users\082160010\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.exe
+C:\Users\082160010\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.pdb
+F:\MyPlayer\MyPlayer\obj\Debug\Interop.WMPLib.dll
+F:\MyPlayer\MyPlayer\obj\Debug\AxInterop.WMPLib.dll
+F:\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.ResolveComReference.cache
+F:\MyPlayer\MyPlayer\obj\Debug\MyPlayer.exe
+F:\MyPlayer\MyPlayer\obj\Debug\MyPlayer.pdb
+D:\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csprojResolveAssemblyReference.cache
+D:\MyPlayer\MyPlayer\obj\Debug\Interop.WMPLib.dll
+D:\MyPlayer\MyPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.ResolveComReference.cache
+D:\MyPlayer\MyPlayer\obj\Debug\MyPlayer.frmMyPlayer.resources
+D:\MyPlayer\MyPlayer\obj\Debug\MyPlayer.Properties.Resources.resources
+D:\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.GenerateResource.Cache
+D:\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.CoreCompileInputs.cache
+D:\MyPlayer\MyPlayer\obj\Debug\MyPlayer.exe
+D:\MyPlayer\MyPlayer\obj\Debug\MyPlayer.pdb
+D:\MyPlayer\MyPlayer\bin\Debug\MyPlayer.exe.config
+D:\MyPlayer\MyPlayer\bin\Debug\MyPlayer.exe
+D:\MyPlayer\MyPlayer\bin\Debug\MyPlayer.pdb
+D:\MyPlayer\MyPlayer\bin\Debug\Library.Classes.dll
+D:\MyPlayer\MyPlayer\bin\Debug\Library.Classes.pdb
+D:\MyPlayer\MyPlayer\bin\Debug\Interop.WMPLib.dll
+D:\MyPlayer\MyPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\MyPlayer\MyPlayer\bin\Debug\NAudio.dll
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\bin\Debug\MyPlayer.exe.config
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\bin\Debug\MyPlayer.exe
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\bin\Debug\MyPlayer.pdb
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\bin\Debug\Library.Classes.dll
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\bin\Debug\NAudio.dll
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\bin\Debug\Library.Classes.pdb
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csprojResolveAssemblyReference.cache
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.ResolveComReference.cache
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.frmMyPlayer.resources
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.Properties.Resources.resources
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.GenerateResource.Cache
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.CoreCompileInputs.cache
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.exe
+C:\Users\tnp98\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.pdb

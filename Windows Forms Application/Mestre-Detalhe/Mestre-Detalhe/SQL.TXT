@@ -1,0 +1,106 @@
+﻿CREATE TABLE [dbo].[Clientes](
+	[ClienteId] [int] NOT NULL,
+	[ClienteNome] [varchar](50) NULL,
+ CONSTRAINT [PK_Clientes] PRIMARY KEY CLUSTERED 
+(
+	[ClienteId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+
+CREATE TABLE [dbo].[Pedidos](
+	[PedidoId] [int] NOT NULL,
+	[Data] [datetime] NULL,
+	[ClienteId] [int] NULL,
+ CONSTRAINT [PK_Pedido] PRIMARY KEY CLUSTERED 
+(
+	[PedidoId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+
+CREATE TABLE [dbo].[Produtos](
+	[Produtoid] [int] NOT NULL,
+	[ProdutoDescricao] [varchar](50) NULL,
+	[Valor_unitario] [decimal](18, 2) NULL,
+	[imagem] [varchar](max) NULL,
+ CONSTRAINT [PK_Produtos] PRIMARY KEY CLUSTERED 
+(
+	[Produtoid] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+
+
+
+CREATE TABLE [dbo].[PedidoItem](
+	[PedidoId] [int] NOT NULL,
+	[ProdutoId] [int] NOT NULL,
+	[Qtde] [int] NOT NULL,
+	[ValorUnitario] [decimal](18, 2) NOT NULL,
+ CONSTRAINT [PK_PedidoItem] PRIMARY KEY CLUSTERED 
+(
+	[PedidoId] ASC,
+	[ProdutoId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+
+ALTER TABLE [dbo].[Pedidos]  WITH CHECK ADD  CONSTRAINT [FK_Pedido_Clientes] FOREIGN KEY([ClienteId])
+REFERENCES [dbo].[Clientes] ([ClienteId])
+GO
+
+ALTER TABLE [dbo].[Pedidos] CHECK CONSTRAINT [FK_Pedido_Clientes]
+GO
+
+ALTER TABLE [dbo].[PedidoItem]  WITH CHECK ADD  CONSTRAINT [FK_PedidoItem_Pedido] FOREIGN KEY([PedidoId])
+REFERENCES [dbo].[Pedidos] ([PedidoId])
+GO
+
+ALTER TABLE [dbo].[PedidoItem] CHECK CONSTRAINT [FK_PedidoItem_Pedido]
+GO
+
+ALTER TABLE [dbo].[PedidoItem]  WITH CHECK ADD  CONSTRAINT [FK_PedidoItem_Produtos] FOREIGN KEY([ProdutoId])
+REFERENCES [dbo].[Produtos] ([Produtoid])
+GO
+
+ALTER TABLE [dbo].[PedidoItem] CHECK CONSTRAINT [FK_PedidoItem_Produtos]
+GO
+
+
+
+INSERT [dbo].[Produtos] ([Produtoid], [ProdutoDescricao], [Valor_unitario], [imagem]) VALUES (1, N'Borracha', CAST(1.50 AS Decimal(18, 2)), N'')
+GO
+INSERT [dbo].[Produtos] ([Produtoid], [ProdutoDescricao], [Valor_unitario], [imagem]) VALUES (2, N'Lápis', CAST(1.00 AS Decimal(18, 2)), N'~/imagens/lapis.png')
+GO
+INSERT [dbo].[Produtos] ([Produtoid], [ProdutoDescricao], [Valor_unitario], [imagem]) VALUES (3, N'Caneta', CAST(3.50 AS Decimal(18, 2)), N'')
+GO
+INSERT [dbo].[Produtos] ([Produtoid], [ProdutoDescricao], [Valor_unitario], [imagem]) VALUES (4, N'Caderno', CAST(7.00 AS Decimal(18, 2)), N'~/imagens/caderno.png')
+GO
+INSERT [dbo].[Produtos] ([Produtoid], [ProdutoDescricao], [Valor_unitario], [imagem]) VALUES (5, N'Cola', CAST(3.50 AS Decimal(18, 2)), NULL)
+GO
+INSERT [dbo].[Produtos] ([Produtoid], [ProdutoDescricao], [Valor_unitario], [imagem]) VALUES (6, N'Canetinha preta', CAST(1.00 AS Decimal(18, 2)), NULL)
+GO
+INSERT [dbo].[Produtos] ([Produtoid], [ProdutoDescricao], [Valor_unitario], [imagem]) VALUES (7, N'Canetinha azul', CAST(1.00 AS Decimal(18, 2)), NULL)
+GO
+INSERT [dbo].[Produtos] ([Produtoid], [ProdutoDescricao], [Valor_unitario], [imagem]) VALUES (8, N'Canetinha rosa', CAST(1.00 AS Decimal(18, 2)), NULL)
+GO
+INSERT [dbo].[Produtos] ([Produtoid], [ProdutoDescricao], [Valor_unitario], [imagem]) VALUES (9, N'Canetinha amarela', CAST(1.00 AS Decimal(18, 2)), NULL)
+GO
+INSERT [dbo].[Produtos] ([Produtoid], [ProdutoDescricao], [Valor_unitario], [imagem]) VALUES (10, N'Pincel atômico', CAST(6.00 AS Decimal(18, 2)), NULL)
+GO
+INSERT [dbo].[Produtos] ([Produtoid], [ProdutoDescricao], [Valor_unitario], [imagem]) VALUES (11, N'Clips', CAST(0.20 AS Decimal(18, 2)), NULL)
+GO
+INSERT [dbo].[Produtos] ([Produtoid], [ProdutoDescricao], [Valor_unitario], [imagem]) VALUES (12, N'Grampeador', CAST(25.00 AS Decimal(18, 2)), NULL)
+GO
+
+insert into Clientes (ClienteId, ClienteNome) values (1, 'Paola Oliveira')
+insert into Clientes (ClienteId, ClienteNome) values (2, 'Cristiane Silva')
+GO

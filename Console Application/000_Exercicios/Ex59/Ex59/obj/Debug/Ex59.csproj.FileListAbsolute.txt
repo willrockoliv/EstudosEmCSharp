@@ -1,0 +1,6 @@
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Ex59\Ex59\bin\Debug\Ex59.exe.config
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Ex59\Ex59\bin\Debug\Ex59.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Ex59\Ex59\bin\Debug\Ex59.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Ex59\Ex59\obj\Debug\Ex59.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Ex59\Ex59\obj\Debug\Ex59.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Ex59\Ex59\obj\Debug\Ex59.pdb

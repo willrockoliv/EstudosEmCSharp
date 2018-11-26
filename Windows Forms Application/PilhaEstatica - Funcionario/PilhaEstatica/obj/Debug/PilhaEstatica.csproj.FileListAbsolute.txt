@@ -1,0 +1,15 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.exe.config
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica - Funcionario\PilhaEstatica\bin\Debug\PilhaEstatica.exe.config
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica - Funcionario\PilhaEstatica\obj\Debug\PilhaEstatica.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica - Funcionario\PilhaEstatica\obj\Debug\PilhaEstatica.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica - Funcionario\PilhaEstatica\obj\Debug\PilhaEstatica.csprojResolveAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica - Funcionario\PilhaEstatica\bin\Debug\PilhaEstatica.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica - Funcionario\PilhaEstatica\bin\Debug\PilhaEstatica.pdb

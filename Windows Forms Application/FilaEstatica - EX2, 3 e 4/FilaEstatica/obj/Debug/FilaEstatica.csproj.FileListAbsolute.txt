@@ -1,0 +1,21 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.exe.config
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.exe.config
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica - EX2, 3 e 4\FilaEstatica\bin\Debug\FilaEstatica.exe.config
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica - EX2, 3 e 4\FilaEstatica\obj\Debug\FilaEstatica.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica - EX2, 3 e 4\FilaEstatica\obj\Debug\FilaEstatica.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica - EX2, 3 e 4\FilaEstatica\bin\Debug\FilaEstatica.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica - EX2, 3 e 4\FilaEstatica\bin\Debug\FilaEstatica.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica - EX2, 3 e 4\FilaEstatica\obj\Debug\FilaEstatica.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica - EX2, 3 e 4\FilaEstatica\bin\Debug\FilaEstatica.exe.config
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica - EX2, 3 e 4\FilaEstatica\obj\Debug\FilaEstatica.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica - EX2, 3 e 4\FilaEstatica\obj\Debug\FilaEstatica.pdb

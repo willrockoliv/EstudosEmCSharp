@@ -1,0 +1,6 @@
+Número -1 é inválido pois não é positivo!Em: 11/11/2011 19:54:57: Número -5 é inválido pois não é positivo!Em: 11/11/2011 19:55:47: Presta atenção! Digite só números positivos!Em: 11/11/2011 19:58:33: Número -5 é inválido pois não é positivo!
+Em: 11/11/2011 19:58:52: Número -5 é inválido pois não é positivo!
+Em: 11/11/2011 20:05:25: Presta atenção! Digite só números positivos!
+Em: 12/4/2012 20:01:58: Presta atenção! Digite só números positivos!
+Em: 12/4/2012 20:02:13: Número -1 é inválido pois não é positivo!
+Em: 06/05/2015 20:24:50: Número -50 é inválido pois não é positivo!

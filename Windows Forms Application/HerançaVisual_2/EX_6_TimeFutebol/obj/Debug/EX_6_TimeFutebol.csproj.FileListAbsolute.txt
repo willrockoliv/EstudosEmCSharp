@@ -1,0 +1,160 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Form1.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csprojResolveAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Form1.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsulta.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsultaTimes.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Properties.Resources.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+E:\FTT - S5\LP I - S5\Professor\EX_9_TimeFutebol - Consulta\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+E:\FTT - S5\LP I - S5\Professor\EX_9_TimeFutebol - Consulta\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+E:\FTT - S5\LP I - S5\Professor\EX_9_TimeFutebol - Consulta\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+E:\FTT - S5\LP I - S5\Professor\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+E:\FTT - S5\LP I - S5\Professor\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+E:\FTT - S5\LP I - S5\Professor\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+F:\FTT - S5\LP I - S5\Professor\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+F:\FTT - S5\LP I - S5\Professor\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+F:\FTT - S5\LP I - S5\Professor\EX_8_TimeFutebol - Consulta\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csprojResolveAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Form1.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsulta.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsultaTimes.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Properties.Resources.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Form1.resources
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsulta.resources
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsultaTimes.resources
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csproj.GenerateResource.Cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+C:\Transfer-Arquivos\eduardorm\Downloads\EX_9_TimeFutebol-consulta-time - Herança\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+C:\Transfer-Arquivos\eduardorm\Downloads\EX_9_TimeFutebol-consulta-time - Herança\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+C:\Transfer-Arquivos\eduardorm\Downloads\EX_9_TimeFutebol-consulta-time - Herança\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csprojResolveAssemblyReference.cache
+C:\Transfer-Arquivos\eduardorm\Downloads\EX_9_TimeFutebol-consulta-time - Herança\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Form1.resources
+C:\Transfer-Arquivos\eduardorm\Downloads\EX_9_TimeFutebol-consulta-time - Herança\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsulta.resources
+C:\Transfer-Arquivos\eduardorm\Downloads\EX_9_TimeFutebol-consulta-time - Herança\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsultaTimes.resources
+C:\Transfer-Arquivos\eduardorm\Downloads\EX_9_TimeFutebol-consulta-time - Herança\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frPadrao.resources
+C:\Transfer-Arquivos\eduardorm\Downloads\EX_9_TimeFutebol-consulta-time - Herança\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Properties.Resources.resources
+C:\Transfer-Arquivos\eduardorm\Downloads\EX_9_TimeFutebol-consulta-time - Herança\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csproj.GenerateResource.Cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csprojResolveAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Form1.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsulta.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsultaTimes.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frPadrao.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Properties.Resources.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csproj.GenerateResource.Cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.pdb
+C:\Transfer-Arquivos\eduardorm\Downloads\EX_9_TimeFutebol-consulta-time - Herança\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe
+C:\Transfer-Arquivos\eduardorm\Downloads\EX_9_TimeFutebol-consulta-time - Herança\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.pdb
+C:\Transfer-Arquivos\eduardorm\Downloads\EX_9_TimeFutebol-consulta-time - Herança\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Form1.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsulta.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsultaTimes.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frPadrao.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+Z:\AULAS\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+Z:\AULAS\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe
+Z:\AULAS\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.pdb
+Z:\AULAS\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frCadJogador.resources
+Z:\AULAS\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frCadTecnicoSemHeranca.resources
+Z:\AULAS\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsulta.resources
+Z:\AULAS\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsultaTimes.resources
+Z:\AULAS\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frPadrao.resources
+Z:\AULAS\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Properties.Resources.resources
+Z:\AULAS\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csproj.GenerateResource.Cache
+Z:\AULAS\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+Z:\AULAS\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+Z:\AULAS\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csprojResolveAssemblyReference.cache
+Z:\AULAS\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frCadTecnicoComHeranca.resources
+Z:\AULAS\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsultaTecnico.resources
+Z:\AULAS\2017-S2\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frCadJogador.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frCadTecnicoComHeranca.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frCadTecnicoSemHeranca.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsulta.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsultaTecnico.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsultaTimes.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frPadrao.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.pdb
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frCadJogador.resources
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frCadTecnicoComHeranca.resources
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frCadTecnicoSemHeranca.resources
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsulta.resources
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsultaTecnico.resources
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsultaTimes.resources
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frPadrao.resources
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_9_TimeFutebol-consulta-time - Herança - apostila\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadTecnicoDaoVOPadrao - FORM\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadTecnicoDaoVOPadrao - FORM\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadTecnicoDaoVOPadrao - FORM\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.pdb
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadTecnicoDaoVOPadrao - FORM\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csprojAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadTecnicoDaoVOPadrao - FORM\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frCadJogador.resources
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadTecnicoDaoVOPadrao - FORM\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frCadTecnicoComHeranca.resources
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadTecnicoDaoVOPadrao - FORM\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frCadTecnicoSemHeranca.resources
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadTecnicoDaoVOPadrao - FORM\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsulta.resources
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadTecnicoDaoVOPadrao - FORM\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsultaTecnico.resources
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadTecnicoDaoVOPadrao - FORM\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frConsultaTimes.resources
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadTecnicoDaoVOPadrao - FORM\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.frPadrao.resources
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadTecnicoDaoVOPadrao - FORM\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadTecnicoDaoVOPadrao - FORM\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csproj.GenerateResource.cache
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadTecnicoDaoVOPadrao - FORM\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadTecnicoDaoVOPadrao - FORM\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadTecnicoDaoVOPadrao - FORM\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb

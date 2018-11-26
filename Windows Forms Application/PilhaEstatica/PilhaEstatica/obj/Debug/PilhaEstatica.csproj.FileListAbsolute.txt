@@ -1,0 +1,6 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.pdb

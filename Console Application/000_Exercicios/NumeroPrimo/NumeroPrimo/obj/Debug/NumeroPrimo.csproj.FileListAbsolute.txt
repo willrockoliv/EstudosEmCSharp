@@ -1,0 +1,6 @@
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\NumeroPrimo\NumeroPrimo\bin\Debug\NumeroPrimo.exe.config
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\NumeroPrimo\NumeroPrimo\bin\Debug\NumeroPrimo.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\NumeroPrimo\NumeroPrimo\bin\Debug\NumeroPrimo.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\NumeroPrimo\NumeroPrimo\obj\Debug\NumeroPrimo.pdb

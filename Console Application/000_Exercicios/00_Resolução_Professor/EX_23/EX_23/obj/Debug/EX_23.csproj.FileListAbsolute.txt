@@ -1,0 +1,6 @@
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_23\EX_23\bin\Debug\EX_23.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_23\EX_23\bin\Debug\EX_23.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_23\EX_23\bin\Debug\EX_23.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_23\EX_23\obj\Debug\EX_23.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_23\EX_23\obj\Debug\EX_23.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_23\EX_23\obj\Debug\EX_23.pdb

@@ -1,0 +1,6 @@
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\NomeInvertido\NomeInvertido\bin\Debug\NomeInvertido.exe.config
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\NomeInvertido\NomeInvertido\bin\Debug\NomeInvertido.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\NomeInvertido\NomeInvertido\bin\Debug\NomeInvertido.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\NomeInvertido\NomeInvertido\obj\Debug\NomeInvertido.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\NomeInvertido\NomeInvertido\obj\Debug\NomeInvertido.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\NomeInvertido\NomeInvertido\obj\Debug\NomeInvertido.pdb

@@ -1,0 +1,15 @@
+c:\users\082160023\documents\visual studio 2015\Projects\Library.Classes\Library.Classes\obj\Debug\Library.Classes.csprojResolveAssemblyReference.cache
+D:\Library.Classes\Library.Classes\bin\Debug\Library.Classes.dll
+D:\Library.Classes\Library.Classes\bin\Debug\Library.Classes.pdb
+D:\Library.Classes\Library.Classes\obj\Debug\Library.Classes.csprojResolveAssemblyReference.cache
+D:\Library.Classes\Library.Classes\obj\Debug\Library.Classes.csproj.CoreCompileInputs.cache
+D:\Library.Classes\Library.Classes\obj\Debug\Library.Classes.dll
+D:\Library.Classes\Library.Classes\obj\Debug\Library.Classes.pdb
+D:\Library.Classes\Library.Classes\bin\Debug\NAudio.dll
+C:\Users\tnp98\Desktop\Library.Classes\Library.Classes\bin\Debug\Library.Classes.dll
+C:\Users\tnp98\Desktop\Library.Classes\Library.Classes\bin\Debug\Library.Classes.pdb
+C:\Users\tnp98\Desktop\Library.Classes\Library.Classes\bin\Debug\NAudio.dll
+C:\Users\tnp98\Desktop\Library.Classes\Library.Classes\obj\Debug\Library.Classes.csprojResolveAssemblyReference.cache
+C:\Users\tnp98\Desktop\Library.Classes\Library.Classes\obj\Debug\Library.Classes.csproj.CoreCompileInputs.cache
+C:\Users\tnp98\Desktop\Library.Classes\Library.Classes\obj\Debug\Library.Classes.dll
+C:\Users\tnp98\Desktop\Library.Classes\Library.Classes\obj\Debug\Library.Classes.pdb

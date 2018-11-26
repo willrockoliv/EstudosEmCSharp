@@ -1,0 +1,6 @@
+Z:\William EC II\Ex. 57\Ex. 57\bin\Debug\Ex. 57.exe.config
+Z:\William EC II\Ex. 57\Ex. 57\bin\Debug\Ex. 57.exe
+Z:\William EC II\Ex. 57\Ex. 57\bin\Debug\Ex. 57.pdb
+Z:\William EC II\Ex. 57\Ex. 57\obj\Debug\Ex. 57.csprojResolveAssemblyReference.cache
+Z:\William EC II\Ex. 57\Ex. 57\obj\Debug\Ex. 57.exe
+Z:\William EC II\Ex. 57\Ex. 57\obj\Debug\Ex. 57.pdb

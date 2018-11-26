@@ -1,0 +1,5 @@
+c:\eduardo\EC2\EX_3\EX_3\bin\Debug\EX_3.exe.config
+c:\eduardo\EC2\EX_3\EX_3\bin\Debug\EX_3.exe
+c:\eduardo\EC2\EX_3\EX_3\bin\Debug\EX_3.pdb
+c:\eduardo\EC2\EX_3\EX_3\obj\Debug\EX_3.exe
+c:\eduardo\EC2\EX_3\EX_3\obj\Debug\EX_3.pdb

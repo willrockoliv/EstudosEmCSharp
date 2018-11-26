@@ -1,0 +1,37 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.exe.config
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.exe.config
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.pdb
+C:\Users\082160006\Desktop\FilaEstatica - Cópia\FilaEstatica\bin\Debug\FilaEstatica.exe.config
+C:\Users\082160006\Desktop\FilaEstatica - Cópia\FilaEstatica\obj\Debug\FilaEstatica.exe
+C:\Users\082160006\Desktop\FilaEstatica - Cópia\FilaEstatica\obj\Debug\FilaEstatica.pdb
+C:\Users\Alves\Desktop\EDUARDO_ENTREGAR\FilaEstatica - Cópia\FilaEstatica\bin\Debug\FilaEstatica.exe.config
+C:\Users\Alves\Desktop\EDUARDO_ENTREGAR\FilaEstatica - Cópia\FilaEstatica\obj\Debug\FilaEstatica.exe
+C:\Users\Alves\Desktop\EDUARDO_ENTREGAR\FilaEstatica - Cópia\FilaEstatica\obj\Debug\FilaEstatica.pdb
+C:\Users\Alves\Desktop\EDUARDO_ENTREGAR\FilaEstatica - Cópia\FilaEstatica\bin\Debug\FilaEstatica.exe
+C:\Users\Alves\Desktop\EDUARDO_ENTREGAR\FilaEstatica - Cópia\FilaEstatica\bin\Debug\FilaEstatica.pdb
+C:\Users\Alves\Desktop\EDUARDO_ENTREGAR\FilaEstatica - Cópia\FilaEstatica\bin\Debug\mscorlib.dll
+C:\Users\Alves\Desktop\EDUARDO_ENTREGAR\FilaEstatica - Cópia\FilaEstatica\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\Alves\Desktop\EDUARDO_ENTREGAR\FilaEstatica - Cópia\FilaEstatica\bin\Debug\normidna.nlp
+C:\Users\Alves\Desktop\EDUARDO_ENTREGAR\FilaEstatica - Cópia\FilaEstatica\bin\Debug\normnfc.nlp
+C:\Users\Alves\Desktop\EDUARDO_ENTREGAR\FilaEstatica - Cópia\FilaEstatica\bin\Debug\normnfd.nlp
+C:\Users\Alves\Desktop\EDUARDO_ENTREGAR\FilaEstatica - Cópia\FilaEstatica\bin\Debug\normnfkc.nlp
+C:\Users\Alves\Desktop\EDUARDO_ENTREGAR\FilaEstatica - Cópia\FilaEstatica\bin\Debug\normnfkd.nlp
+C:\Users\Alves\Desktop\EDUARDO_ENTREGAR\FilaEstatica - Cópia\FilaEstatica\obj\Debug\FilaEstatica.csprojResolveAssemblyReference.cache
+C:\Users\Alves\Desktop\EDUARDO_ENTREGAR\EX2\FilaEstatica\bin\Debug\FilaEstatica.exe.config
+C:\Users\Alves\Desktop\EDUARDO_ENTREGAR\EX2\FilaEstatica\obj\Debug\FilaEstatica.exe
+C:\Users\Alves\Desktop\EDUARDO_ENTREGAR\EX2\FilaEstatica\obj\Debug\FilaEstatica.pdb
+C:\Users\William.Rocha\Desktop\POO e ED\Pra sabado\Rodriguera\EX2\FilaEstatica\bin\Debug\FilaEstatica.exe.config
+C:\Users\William.Rocha\Desktop\POO e ED\Pra sabado\Rodriguera\EX2\FilaEstatica\bin\Debug\FilaEstatica.exe
+C:\Users\William.Rocha\Desktop\POO e ED\Pra sabado\Rodriguera\EX2\FilaEstatica\bin\Debug\FilaEstatica.pdb
+C:\Users\William.Rocha\Desktop\POO e ED\Pra sabado\Rodriguera\EX2\FilaEstatica\obj\Debug\FilaEstatica.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\POO e ED\Pra sabado\Rodriguera\EX2\FilaEstatica\obj\Debug\FilaEstatica.exe
+C:\Users\William.Rocha\Desktop\POO e ED\Pra sabado\Rodriguera\EX2\FilaEstatica\obj\Debug\FilaEstatica.pdb

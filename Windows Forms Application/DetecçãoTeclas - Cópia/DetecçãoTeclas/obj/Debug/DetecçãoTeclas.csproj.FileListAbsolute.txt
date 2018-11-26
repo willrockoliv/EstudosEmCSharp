@@ -1,0 +1,8 @@
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\DetecçãoTeclas\DetecçãoTeclas\bin\Debug\DetecçãoTeclas.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\DetecçãoTeclas\DetecçãoTeclas\bin\Debug\DetecçãoTeclas.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\DetecçãoTeclas\DetecçãoTeclas\bin\Debug\DetecçãoTeclas.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\DetecçãoTeclas\DetecçãoTeclas\obj\Debug\DetecçãoTeclas.Form1.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\DetecçãoTeclas\DetecçãoTeclas\obj\Debug\DetecçãoTeclas.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\DetecçãoTeclas\DetecçãoTeclas\obj\Debug\DetecçãoTeclas.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\DetecçãoTeclas\DetecçãoTeclas\obj\Debug\DetecçãoTeclas.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\DetecçãoTeclas\DetecçãoTeclas\obj\Debug\DetecçãoTeclas.pdb

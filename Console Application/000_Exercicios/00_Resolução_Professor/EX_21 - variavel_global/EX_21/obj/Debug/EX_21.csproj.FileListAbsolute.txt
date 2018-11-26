@@ -1,0 +1,12 @@
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_21\EX_21\bin\Debug\EX_21.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_21\EX_21\bin\Debug\EX_21.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_21\EX_21\bin\Debug\EX_21.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_21\EX_21\obj\Debug\EX_21.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_21\EX_21\obj\Debug\EX_21.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_21\EX_21\obj\Debug\EX_21.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_21 - variavel_global\EX_21\bin\Debug\EX_21.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_21 - variavel_global\EX_21\obj\Debug\EX_21.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_21 - variavel_global\EX_21\obj\Debug\EX_21.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_21 - variavel_global\EX_21\bin\Debug\EX_21.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_21 - variavel_global\EX_21\bin\Debug\EX_21.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_21 - variavel_global\EX_21\obj\Debug\EX_21.csprojResolveAssemblyReference.cache

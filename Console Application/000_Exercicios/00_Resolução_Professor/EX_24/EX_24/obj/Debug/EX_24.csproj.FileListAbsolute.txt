@@ -1,0 +1,5 @@
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_24\EX_24\bin\Debug\EX_24.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_24\EX_24\bin\Debug\EX_24.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_24\EX_24\bin\Debug\EX_24.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_24\EX_24\obj\Debug\EX_24.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_24\EX_24\obj\Debug\EX_24.pdb

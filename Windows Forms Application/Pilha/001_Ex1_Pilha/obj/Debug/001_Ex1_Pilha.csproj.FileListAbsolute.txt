@@ -1,0 +1,8 @@
+C:\Users\William.Rocha\Desktop\001_Ex1_Pilha\001_Ex1_Pilha\bin\Debug\001_Ex1_Pilha.exe.config
+C:\Users\William.Rocha\Desktop\001_Ex1_Pilha\001_Ex1_Pilha\bin\Debug\001_Ex1_Pilha.exe
+C:\Users\William.Rocha\Desktop\001_Ex1_Pilha\001_Ex1_Pilha\bin\Debug\001_Ex1_Pilha.pdb
+C:\Users\William.Rocha\Desktop\001_Ex1_Pilha\001_Ex1_Pilha\bin\Debug\ClassLibrary.dll
+C:\Users\William.Rocha\Desktop\001_Ex1_Pilha\001_Ex1_Pilha\bin\Debug\ClassLibrary.pdb
+C:\Users\William.Rocha\Desktop\001_Ex1_Pilha\001_Ex1_Pilha\obj\Debug\001_Ex1_Pilha.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\001_Ex1_Pilha\001_Ex1_Pilha\obj\Debug\001_Ex1_Pilha.exe
+C:\Users\William.Rocha\Desktop\001_Ex1_Pilha\001_Ex1_Pilha\obj\Debug\001_Ex1_Pilha.pdb

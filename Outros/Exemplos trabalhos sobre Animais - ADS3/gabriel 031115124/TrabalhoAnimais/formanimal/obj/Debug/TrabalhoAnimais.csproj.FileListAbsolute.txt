@@ -1,0 +1,11 @@
+Z:\AULAS\Exemplos trabalhos sobre Animais - ADS3\gabriel 031115124\TrabalhoAnimais\formanimal\bin\Debug\formanimal.exe
+Z:\AULAS\Exemplos trabalhos sobre Animais - ADS3\gabriel 031115124\TrabalhoAnimais\formanimal\bin\Debug\formanimal.pdb
+Z:\AULAS\Exemplos trabalhos sobre Animais - ADS3\gabriel 031115124\TrabalhoAnimais\formanimal\obj\Debug\TrabalhoAnimais.csprojResolveAssemblyReference.cache
+Z:\AULAS\Exemplos trabalhos sobre Animais - ADS3\gabriel 031115124\TrabalhoAnimais\formanimal\obj\Debug\formanimal.Agradecimentos.resources
+Z:\AULAS\Exemplos trabalhos sobre Animais - ADS3\gabriel 031115124\TrabalhoAnimais\formanimal\obj\Debug\formanimal.Desenvolvedor.resources
+Z:\AULAS\Exemplos trabalhos sobre Animais - ADS3\gabriel 031115124\TrabalhoAnimais\formanimal\obj\Debug\formanimal.Form1.resources
+Z:\AULAS\Exemplos trabalhos sobre Animais - ADS3\gabriel 031115124\TrabalhoAnimais\formanimal\obj\Debug\formanimal.JanelaInfoAnimais.resources
+Z:\AULAS\Exemplos trabalhos sobre Animais - ADS3\gabriel 031115124\TrabalhoAnimais\formanimal\obj\Debug\formanimal.Properties.Resources.resources
+Z:\AULAS\Exemplos trabalhos sobre Animais - ADS3\gabriel 031115124\TrabalhoAnimais\formanimal\obj\Debug\TrabalhoAnimais.csproj.GenerateResource.Cache
+Z:\AULAS\Exemplos trabalhos sobre Animais - ADS3\gabriel 031115124\TrabalhoAnimais\formanimal\obj\Debug\formanimal.exe
+Z:\AULAS\Exemplos trabalhos sobre Animais - ADS3\gabriel 031115124\TrabalhoAnimais\formanimal\obj\Debug\formanimal.pdb

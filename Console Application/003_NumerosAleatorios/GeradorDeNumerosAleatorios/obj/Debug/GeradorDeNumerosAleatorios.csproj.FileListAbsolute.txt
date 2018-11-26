@@ -1,0 +1,6 @@
+Z:\William EC II\Algoritmos II\GeradorDeNumerosAleatorios\GeradorDeNumerosAleatorios\bin\Debug\GeradorDeNumerosAleatorios.exe.config
+Z:\William EC II\Algoritmos II\GeradorDeNumerosAleatorios\GeradorDeNumerosAleatorios\obj\Debug\GeradorDeNumerosAleatorios.csprojResolveAssemblyReference.cache
+Z:\William EC II\Algoritmos II\GeradorDeNumerosAleatorios\GeradorDeNumerosAleatorios\bin\Debug\GeradorDeNumerosAleatorios.exe
+Z:\William EC II\Algoritmos II\GeradorDeNumerosAleatorios\GeradorDeNumerosAleatorios\bin\Debug\GeradorDeNumerosAleatorios.pdb
+Z:\William EC II\Algoritmos II\GeradorDeNumerosAleatorios\GeradorDeNumerosAleatorios\obj\Debug\GeradorDeNumerosAleatorios.exe
+Z:\William EC II\Algoritmos II\GeradorDeNumerosAleatorios\GeradorDeNumerosAleatorios\obj\Debug\GeradorDeNumerosAleatorios.pdb

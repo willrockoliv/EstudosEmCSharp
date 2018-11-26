@@ -1,0 +1,6 @@
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\002\002\bin\Debug\002.exe.config
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\002\002\bin\Debug\002.exe
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\002\002\bin\Debug\002.pdb
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\002\002\obj\Debug\002.csprojResolveAssemblyReference.cache
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\002\002\obj\Debug\002.exe
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\002\002\obj\Debug\002.pdb

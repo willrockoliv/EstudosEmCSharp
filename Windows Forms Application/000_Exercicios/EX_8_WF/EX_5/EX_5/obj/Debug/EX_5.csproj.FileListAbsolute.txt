@@ -1,0 +1,112 @@
+c:\Eduardo\2012_S1\TecProg\EX_5\EX_5\EX_5\obj\Debug\ResolveAssemblyReference.cache
+c:\Eduardo\2012_S1\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.Form1.resources
+c:\Eduardo\2012_S1\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.Properties.Resources.resources
+c:\Eduardo\2012_S1\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.csproj.GenerateResource.Cache
+c:\Eduardo\2012_S1\TecProg\EX_5\EX_5\EX_5\bin\Debug\EX_5.exe
+c:\Eduardo\2012_S1\TecProg\EX_5\EX_5\EX_5\bin\Debug\EX_5.pdb
+c:\Eduardo\2012_S1\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.exe
+c:\Eduardo\2012_S1\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.pdb
+X:\Professores\Prof. Eduardo\2012-S1\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.exe
+X:\Professores\Prof. Eduardo\2012-S1\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.pdb
+Z:\AULAS\2012-S1\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.exe
+Z:\AULAS\2012-S1\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2013-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2013-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2013-S1\Tecprog\EX_5\EX_5\EX_5\bin\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2013-S1\Tecprog\EX_5\EX_5\EX_5\bin\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2013-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\ResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2013-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.Form1.resources
+W:\Professores\Prof. Eduardo\2013-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2013-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2013-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.exe
+X:\Professores\Prof. Eduardo\2013-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.Form1.resources
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\EX_5\EX_5\EX_5\bin\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\EX_5\EX_5\EX_5\bin\Debug\EX_5.pdb
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.exe
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.pdb
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\EX_5\EX_5\EX_5\bin\Debug\EX_5.exe
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\EX_5\EX_5\EX_5\bin\Debug\EX_5.pdb
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.Form1.resources
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2014-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2014-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2014-S1\Tecprog\EX_5\EX_5\EX_5\bin\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2014-S1\Tecprog\EX_5\EX_5\EX_5\bin\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2014-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2014-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.Form1.resources
+W:\Professores\Prof. Eduardo\2014-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2014-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.exe
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.pdb
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\EX_5\EX_5\EX_5\bin\Debug\EX_5.exe
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\EX_5\EX_5\EX_5\bin\Debug\EX_5.pdb
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.Form1.resources
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\EX_5\EX_5\EX_5\obj\Debug\EX_5.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\EX_5\EX_5\EX_5\bin\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\EX_5\EX_5\EX_5\bin\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.Form1.resources
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2014-S2\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.exe
+X:\Professores\Prof. Eduardo\2014-S2\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.pdb
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.exe
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\EX_5\EX_5\EX_5\bin\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\EX_5\EX_5\EX_5\bin\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.Form1.resources
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.exe
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\EX_5\EX_5\EX_5\obj\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_5_WF\EX_5\EX_5\obj\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_5_WF\EX_5\EX_5\obj\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_5_WF\EX_5\EX_5\bin\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_5_WF\EX_5\EX_5\bin\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_5_WF\EX_5\EX_5\obj\Debug\EX_5.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_5_WF\EX_5\EX_5\obj\Debug\EX_5.Form1.resources
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_5_WF\EX_5\EX_5\obj\Debug\EX_5.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_5_WF\EX_5\EX_5\obj\Debug\EX_5.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_5_WF\EX_5\EX_5\obj\Debug\EX_5.exe
+X:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_5_WF\EX_5\EX_5\obj\Debug\EX_5.pdb
+X:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_5_WF\EX_5\EX_5\bin\Debug\EX_5.exe
+X:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_5_WF\EX_5\EX_5\bin\Debug\EX_5.pdb
+X:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_5_WF\EX_5\EX_5\obj\Debug\EX_5.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_5_WF\EX_5\EX_5\obj\Debug\EX_5.Form1.resources
+X:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_5_WF\EX_5\EX_5\obj\Debug\EX_5.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_5_WF\EX_5\EX_5\obj\Debug\EX_5.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\obj\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\obj\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\bin\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\bin\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\obj\Debug\EX_5.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\obj\Debug\EX_5.Form1.resources
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\obj\Debug\EX_5.frMovimentacao.resources
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\obj\Debug\EX_5.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\obj\Debug\EX_5.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\obj\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\obj\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\bin\Debug\EX_5.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\bin\Debug\EX_5.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\obj\Debug\EX_5.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\obj\Debug\EX_5.Form1.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\obj\Debug\EX_5.frMovimentacao.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\obj\Debug\EX_5.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_8_WF\EX_5\EX_5\obj\Debug\EX_5.csproj.GenerateResource.Cache

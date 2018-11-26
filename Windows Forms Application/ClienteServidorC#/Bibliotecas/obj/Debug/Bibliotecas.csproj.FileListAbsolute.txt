@@ -1,0 +1,15 @@
+C:\eduardo\ADS5\Servidor\Bibliotecas\bin\Debug\Bibliotecas.dll
+C:\eduardo\ADS5\Servidor\Bibliotecas\bin\Debug\Bibliotecas.pdb
+C:\eduardo\ADS5\Servidor\Bibliotecas\obj\Debug\Bibliotecas.dll
+C:\eduardo\ADS5\Servidor\Bibliotecas\obj\Debug\Bibliotecas.pdb
+C:\eduardo\ADS5\Servidor\Bibliotecas\obj\Debug\Bibliotecas.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\ClienteServidorC#\Bibliotecas\bin\Debug\Bibliotecas.dll
+X:\Professores\Prof. Eduardo\ClienteServidorC#\Bibliotecas\bin\Debug\Bibliotecas.pdb
+X:\Professores\Prof. Eduardo\ClienteServidorC#\Bibliotecas\obj\Debug\Bibliotecas.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\ClienteServidorC#\Bibliotecas\obj\Debug\Bibliotecas.dll
+X:\Professores\Prof. Eduardo\ClienteServidorC#\Bibliotecas\obj\Debug\Bibliotecas.pdb
+W:\Professores\Prof. Eduardo\ClienteServidorC#\Bibliotecas\bin\Debug\Bibliotecas.dll
+W:\Professores\Prof. Eduardo\ClienteServidorC#\Bibliotecas\bin\Debug\Bibliotecas.pdb
+W:\Professores\Prof. Eduardo\ClienteServidorC#\Bibliotecas\obj\Debug\Bibliotecas.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\ClienteServidorC#\Bibliotecas\obj\Debug\Bibliotecas.dll
+W:\Professores\Prof. Eduardo\ClienteServidorC#\Bibliotecas\obj\Debug\Bibliotecas.pdb

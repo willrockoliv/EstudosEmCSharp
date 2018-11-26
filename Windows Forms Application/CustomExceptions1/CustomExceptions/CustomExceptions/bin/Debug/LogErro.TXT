@@ -1,0 +1,7 @@
+Numero não pode ser negativo. Número: -10
+Numero não pode ser negativo. Número: -5
+Numero não pode ser negativo. Número: -5
+Numero não pode ser negativo. Número: -1
+Numero não pode ser negativo. Número: -1
+Numero não pode ser negativo. Número: -1
+Numero não pode ser negativo. Número: -41

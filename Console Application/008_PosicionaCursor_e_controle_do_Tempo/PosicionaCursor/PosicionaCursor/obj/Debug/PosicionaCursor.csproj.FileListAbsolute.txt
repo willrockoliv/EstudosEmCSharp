@@ -1,0 +1,54 @@
+e:\eduardo\Algoritmos\PosicionaCursor\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.exe
+e:\eduardo\Algoritmos\PosicionaCursor\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.pdb
+e:\eduardo\Algoritmos\PosicionaCursor\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.csprojResolveAssemblyReference.cache
+e:\eduardo\Algoritmos\PosicionaCursor\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.exe
+e:\eduardo\Algoritmos\PosicionaCursor\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.pdb
+X:\Professores\Prof. Eduardo\2013-S2\Algoritmos\PosicionaCursor\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.exe
+X:\Professores\Prof. Eduardo\2013-S2\Algoritmos\PosicionaCursor\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.pdb
+W:\Professores\Prof. Eduardo\2013-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.exe
+W:\Professores\Prof. Eduardo\2013-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.pdb
+W:\Professores\Prof. Eduardo\2013-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.exe
+W:\Professores\Prof. Eduardo\2013-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.pdb
+W:\Professores\Prof. Eduardo\2013-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2013-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.exe
+X:\Professores\Prof. Eduardo\2013-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.pdb
+X:\Professores\Prof. Eduardo\2013-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.exe
+X:\Professores\Prof. Eduardo\2013-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.pdb
+X:\Professores\Prof. Eduardo\2013-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2014-S1\Algoritmos\CarregarArquivoTextoVariasLinhas\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.exe
+X:\Professores\Prof. Eduardo\2014-S1\Algoritmos\CarregarArquivoTextoVariasLinhas\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.pdb
+X:\Professores\Prof. Eduardo\2014-S1\Algoritmos\CarregarArquivoTextoVariasLinhas\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.exe
+X:\Professores\Prof. Eduardo\2014-S1\Algoritmos\CarregarArquivoTextoVariasLinhas\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.pdb
+X:\Professores\Prof. Eduardo\2014-S1\Algoritmos\CarregarArquivoTextoVariasLinhas\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2014-S2\Algoritmos\CarregarArquivoTextoVariasLinhas\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.exe
+X:\Professores\Prof. Eduardo\2014-S2\Algoritmos\CarregarArquivoTextoVariasLinhas\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.pdb
+X:\Professores\Prof. Eduardo\2014-S2\Algoritmos\CarregarArquivoTextoVariasLinhas\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.exe
+X:\Professores\Prof. Eduardo\2014-S2\Algoritmos\CarregarArquivoTextoVariasLinhas\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.pdb
+X:\Professores\Prof. Eduardo\2014-S2\Algoritmos\CarregarArquivoTextoVariasLinhas\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2014-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.exe
+X:\Professores\Prof. Eduardo\2014-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.pdb
+X:\Professores\Prof. Eduardo\2014-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.exe
+X:\Professores\Prof. Eduardo\2014-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.pdb
+X:\Professores\Prof. Eduardo\2014-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2015-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.exe
+X:\Professores\Prof. Eduardo\2015-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.pdb
+X:\Professores\Prof. Eduardo\2015-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.exe
+X:\Professores\Prof. Eduardo\2015-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.pdb
+X:\Professores\Prof. Eduardo\2015-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2015-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.exe
+W:\Professores\Prof. Eduardo\2015-S2\Algoritmos\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.pdb
+W:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.exe
+W:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.pdb
+W:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.exe
+W:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.pdb
+X:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.exe
+X:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.pdb
+X:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.exe
+X:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.pdb
+X:\Professores\Prof. Eduardo\2016-S2\EC-1 - Algoritmos I\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2017-S1\EC-1 - Algoritmos I\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.exe
+X:\Professores\Prof. Eduardo\2017-S1\EC-1 - Algoritmos I\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.pdb
+X:\Professores\Prof. Eduardo\2017-S1\EC-1 - Algoritmos I\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.exe
+X:\Professores\Prof. Eduardo\2017-S1\EC-1 - Algoritmos I\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\bin\Debug\PosicionaCursor.pdb
+X:\Professores\Prof. Eduardo\2017-S1\EC-1 - Algoritmos I\PosicionaCursor_e_controle_do_Tempo\PosicionaCursor\PosicionaCursor\obj\Debug\PosicionaCursor.csprojResolveAssemblyReference.cache

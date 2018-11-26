@@ -1,0 +1,114 @@
+*** Trabalho para N1 - 2º  Bimestre ***
+
+*Deve ser enviado até o dia 15/11/2014 (sábado)
+*Trabalho deve ser feito individualmente.
+*Trabalhos iguais terão a nota dividida
+
+
+* Postar no EAD apenas o arquivo Program.CS
+
+*** A primeira informação que o sistema deverá exibir é:
+Nome e RA do aluno.
+
+
+
+Descrição do sistema:
+
+
+Sistema de eleição.
+
+O sistema deve ter uma etapa onde os candidados serão cadastrados. No nosso programa, apenas 2 tipos de candidados poderão 
+ser cadastrados: Candidados a Presidência da  Republica e Candidados ao governo do estado de SP.
+
+Os dados que deverão ser solicitados para um candidato são:
+
+int numero  (número do canditato, não pode ser repetido)
+string nome (nome do candidato)
+string Legenda (Para simplificar, vamos limitar a PT, PSDB, PL, PRONA, DEMOCRATAS, PV, PMDB, PCO).
+char Tipo (P -> presidente  ou G->Governador)
+
+Obs: O cadastro de candidatos pode ser "importado" de um arquivo texto, cujo nome deve ser CANDIDATOS.TXT
+
+obs2: não pode haver mais de um candidato para o mesmo cargo na mesma legenda!
+
+O formato do arquivo será:
+1º linha: codigo
+2º linha: nome
+3º linha: legenda.
+4º linha: tipo
+
+
+O seu sistema deve ser capaz de importar o seguinte conteúdo:
+
+
+1
+Professor Pardal
+PT
+P
+2
+Dona Neves
+PSDB
+G
+3
+Cosmo
+PL
+G
+4
+Wanda
+PL
+P
+5
+Viki
+PT
+G
+6
+Tesoura Filho
+PSDB
+P
+
+
+Ou seja, sempre que entrar no sistema, caso o arquivo de candidados exista na mesma pasta da aplicação, o sistema deverá 
+perguntar se o usuário deseja importar os candidados. E, caso deseje, eles deverão ser importados para o vetor.
+
+Depois, o sistema deve perguntar se o usuário deseja cadastrar mais candidados ou se ele deseja ir para a votação.
+
+
+Após o usuário cadastrar os candidatos (e ele pode cadastrar até 16 candidatos), o sistema deve perguntar se o usuário deseja
+exportar o cadastro de candidatos para o arquivo texto CANDIDATOS.TXT.
+
+
+E então, o sistema deve entrar em MODO DE VOTAÇÃO:
+
+
+Neste modo, a tela deverá exibir a seguinte informação:
+
+Digite o código do candidato a Presidência ou a legenda:
+
+Caso o usuário tenha digitado o código, o sistema deverá verificar se este candidado está cadastrado realmente. Se estiver, compute o voto. 
+Se não existir, solicite o código novamente.
+
+Caso o usuário tenha digitado uma das legendas, compute o voto para o presidente daquela legenda.
+
+Se o voto for por LEGENDA, considere o mesmo voto para o governador da mesma LEGENDA.
+Se não houver candidato na legenda, dê um erro e solicite novamente.
+
+Caso contrário, solicite os dados abaixo:
+
+Depois solicite o voto a candidato a Governador e obedeça as mesmas regras.
+
+Ao final da votação, exiba um "Obrigado" e limpe a tela para que outra pessoa possa votar.
+
+Por questões didáticas, vamos perguntar se o usuário deseja continuar votando, e, caso ele diga não, iremos para o MODO DE APURAÇÃO.
+
+
+Neste modo, o sistema irá informar qual foi o total de votos por candidato, informando ao final os 2 ganhadores.
+Se houver empate, exiba os N canditatos que empataram.
+
+
+Até 100 pessoas podem votar.
+
+
+* O uso de GOTO anula o trabalho!
+* O uso de métodos é imperativo!
+* Utilize controle de exceção quando for apliado!
+* Idente o código

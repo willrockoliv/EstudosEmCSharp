@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TrabalhoAnimais.Animal" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kQAAEIAAgACAAAAAgAAAAAABAAAAAQAAAAAAAAEAAAA=</HashCode>
+      <FileName>Animal\Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoAnimais.Ave" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAAAACAAAAAAAAQAAAAAEIAARAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Reino\Ave.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TrabalhoAnimais.Mamifero" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEAAACBAAAABAAAAAAAAAAAAAIAABACAAAQAAAAAAA=</HashCode>
+      <FileName>Reino\Mamifero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoAnimais.Reptil" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgAAAAAAAAAAAAQAAoAAAIAABAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Reino\Reptil.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TrabalhoAnimais.Classes.Baleia" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAgAAABAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Baleia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoAnimais.Classes.Cachorro" Collapsed="true">
+    <Position X="20.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAgAAABAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Cachorro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoAnimais.Classes.Camaleao">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAAAAAgAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Camaleao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoAnimais.Classes.Coruja" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAAAAAgAAAAAAAAAAAAEIAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Classes\Coruja.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TrabalhoAnimais.Classes.Gato">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAgAAABAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Gato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoAnimais.Classes.Morcego" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAgAAABAAAAAAAAAAAAAAAAAACAAAIAAAAAAA=</HashCode>
+      <FileName>Classes\Morcego.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TrabalhoAnimais.Classes.Ornitorrinco" Collapsed="true">
+    <Position X="23" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAAAAAgAAABAAQAAAAAAIAABAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Ornitorrinco.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TrabalhoAnimais.Classes.Pato" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAAAAAgAAAAAAAAAAAAEIAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Classes\Pato.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TrabalhoAnimais.Classes.Pinguim" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAAAAAgAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Pinguim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrabalhoAnimais.Classes.Pombo" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAAAAAgAAAAAAAAAAAAEIAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Classes\Pombo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TrabalhoAnimais.Classes.Tartaruga" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAAAAAgAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Tartaruga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="formanimal.Lista" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAgBEAgBBAEAASAAAAAAAgAABgAIAAEAAAAAAA=</HashCode>
+      <FileName>EstruturaDados\Lista.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="formanimal.Nodo" Collapsed="true">
+    <Position X="27.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAQAAAAAAAAAABAAAAAQAAAA=</HashCode>
+      <FileName>EstruturaDados\Nodo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="formanimal.Form1" Collapsed="true">
+    <Position X="25.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/7QkMc1EmnThftj2RHfNYF5TJdpmdSdiCD5ZCzT/jzQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="formanimal.JanelaInfoAnimais" Collapsed="true">
+    <Position X="27.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AxAgBAAEgiSIAAAQAADBAABKAVAEACAQQQkQAQBEACE=</HashCode>
+      <FileName>JanelaInfoAnimais.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="formanimal.MensagemPersonalizada" Collapsed="true">
+    <Position X="25.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABAAEAAACAAAACAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>MensagemPersonalizada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="formanimal.Program" Collapsed="true">
+    <Position X="29" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="formanimal.Properties.Resources" Collapsed="true">
+    <Position X="25.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="formanimal.Properties.Settings" Collapsed="true">
+    <Position X="27.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TrabalhoAnimais.IOviparo" Collapsed="true">
+    <Position X="25.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAIAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IOviparo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TrabalhoAnimais.IVoar" Collapsed="true">
+    <Position X="27.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Interfaces\IVoar.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

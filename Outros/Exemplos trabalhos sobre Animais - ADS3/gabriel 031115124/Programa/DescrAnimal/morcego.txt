@@ -1,0 +1,10 @@
+﻿$1;Reino;Animalia
+$1;Filo;Chordata
+$1;Classe;Mammalia
+$1;Infraclasse;Placentalia
+$1;Ordem;Chiroptera
+$2;Morcego
+$3;Os morcegos, também chamados andirás, guandiras e orelhudos
+$3;Alimentam-se, principalmente, de frutas, insetos, sangue de animais (poucas espécies $3;hematófagas), peixes, néctar e pólem.
+$3;Dependendo da espécie, a vida de um morcego vai de 10 a 25 anos de idade.
+$3;Habitam locais úmidos e escuros, principalmente cavernas e construções abandonadas.

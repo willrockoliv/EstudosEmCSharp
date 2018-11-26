@@ -1,0 +1,9 @@
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\001_Exercícios_Estr_Dados\Ex1\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\001_Exercícios_Estr_Dados\Ex1\Ex1\bin\Debug\Ex1.exe
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\001_Exercícios_Estr_Dados\Ex1\Ex1\bin\Debug\Ex1.pdb
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\001_Exercícios_Estr_Dados\Ex1\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\001_Exercícios_Estr_Dados\Ex1\Ex1\obj\Debug\Ex1.Form1.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\001_Exercícios_Estr_Dados\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\001_Exercícios_Estr_Dados\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\001_Exercícios_Estr_Dados\Ex1\Ex1\obj\Debug\Ex1.exe
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\001_Exercícios_Estr_Dados\Ex1\Ex1\obj\Debug\Ex1.pdb

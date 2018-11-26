@@ -1,0 +1,17 @@
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\ImagensCSharp\ImagensCSharp\bin\Debug\ImagensCSharp.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\ImagensCSharp\ImagensCSharp\bin\Debug\ImagensCSharp.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\ImagensCSharp\ImagensCSharp\obj\Debug\ImagensCSharp.Form1.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\ImagensCSharp\ImagensCSharp\obj\Debug\ImagensCSharp.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\ImagensCSharp\ImagensCSharp\obj\Debug\ImagensCSharp.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\ImagensCSharp\ImagensCSharp\obj\Debug\ImagensCSharp.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\ImagensCSharp\ImagensCSharp\obj\Debug\ImagensCSharp.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\ImagensCSharp\ImagensCSharp\obj\Debug\ImagensCSharp.pdb
+W:\Professores\Prof. Eduardo\2018-S2\DP_ LP I\ImagensCSharp\ImagensCSharp\bin\Debug\ImagensCSharp.exe
+W:\Professores\Prof. Eduardo\2018-S2\DP_ LP I\ImagensCSharp\ImagensCSharp\bin\Debug\ImagensCSharp.pdb
+W:\Professores\Prof. Eduardo\2018-S2\DP_ LP I\ImagensCSharp\ImagensCSharp\obj\Debug\ImagensCSharp.csprojAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2018-S2\DP_ LP I\ImagensCSharp\ImagensCSharp\obj\Debug\ImagensCSharp.Form1.resources
+W:\Professores\Prof. Eduardo\2018-S2\DP_ LP I\ImagensCSharp\ImagensCSharp\obj\Debug\ImagensCSharp.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2018-S2\DP_ LP I\ImagensCSharp\ImagensCSharp\obj\Debug\ImagensCSharp.csproj.GenerateResource.cache
+W:\Professores\Prof. Eduardo\2018-S2\DP_ LP I\ImagensCSharp\ImagensCSharp\obj\Debug\ImagensCSharp.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S2\DP_ LP I\ImagensCSharp\ImagensCSharp\obj\Debug\ImagensCSharp.exe
+W:\Professores\Prof. Eduardo\2018-S2\DP_ LP I\ImagensCSharp\ImagensCSharp\obj\Debug\ImagensCSharp.pdb

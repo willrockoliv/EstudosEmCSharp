@@ -1,0 +1,10 @@
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\Formularios_CEP\Formularios_CEP\bin\Debug\Formularios_CEP.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\Formularios_CEP\Formularios_CEP\bin\Debug\Formularios_CEP.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\Formularios_CEP\Formularios_CEP\bin\Debug\Formularios_CEP.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\Formularios_CEP\Formularios_CEP\obj\Debug\Formularios_CEP.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\Formularios_CEP\Formularios_CEP\obj\Debug\Formularios_CEP.frTelaBuscaCEP.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\Formularios_CEP\Formularios_CEP\obj\Debug\Formularios_CEP.frTelaPrincipal.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\Formularios_CEP\Formularios_CEP\obj\Debug\Formularios_CEP.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\Formularios_CEP\Formularios_CEP\obj\Debug\Formularios_CEP.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\Formularios_CEP\Formularios_CEP\obj\Debug\Formularios_CEP.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\Formularios_CEP\Formularios_CEP\obj\Debug\Formularios_CEP.pdb

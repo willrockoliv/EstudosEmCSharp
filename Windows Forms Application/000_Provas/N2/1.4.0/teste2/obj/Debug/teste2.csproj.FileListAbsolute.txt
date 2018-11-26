@@ -1,0 +1,9 @@
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\bin\Debug\teste2.exe.config
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\bin\Debug\teste2.exe
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\bin\Debug\teste2.pdb
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.csprojResolveAssemblyReference.cache
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.Form1.resources
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.Properties.Resources.resources
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.csproj.GenerateResource.Cache
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.exe
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.pdb

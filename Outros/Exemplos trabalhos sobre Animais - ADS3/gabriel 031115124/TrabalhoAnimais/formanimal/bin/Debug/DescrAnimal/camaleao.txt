@@ -1,0 +1,14 @@
+﻿$1;Reino;Animalia
+$1;Filo;Chordata
+$1;Classe;Reptilia
+$1;Ordem;Squamata
+$1;Subordem;Sauria
+$1;Família;Chamaeleonidae
+$2;Cachorro
+$3;A cor dos camaleões, dependendo da espécie, varia do marrom ao verde. Algumas espécies $3;são listradas. Quanto à cor, um recurso importante, usado pelos camaleões para $3;despistar os predadores, é a mudança de cor (mimetismo).
+$3;Eles vivem , principalmente, na África, Madagascar e sul do Saara. Algumas espécies $3;também são encontradas em continente europeu e na Índia.
+$3;Os camaleões se alimentam, principalmente, de insetos tais como moscas, joaninhas, $3;mariposas, pequenos besouros e gafanhotos. Para pegas estes insetos, ele utiliza um $3;importante recurso: uma língua comprida, elástica e pegajosa.
+$3;Peso: o peso de um animal adulto, dependendo da espécie, pode variar entre 1 a 3 $3;quilos.
+$3;Comprimento: um camaleão adulto pode ter, em média, de 40 a 60 cm.
+
+

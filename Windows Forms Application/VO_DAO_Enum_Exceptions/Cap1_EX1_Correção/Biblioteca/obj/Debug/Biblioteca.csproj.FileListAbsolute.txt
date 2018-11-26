@@ -1,0 +1,12 @@
+Z:\CadAlunosDB_1\Biblioteca\bin\Debug\Biblioteca.dll
+Z:\CadAlunosDB_1\Biblioteca\bin\Debug\Biblioteca.pdb
+Z:\CadAlunosDB_1\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+Z:\CadAlunosDB_1\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+Z:\CadAlunosDB_1\Biblioteca\obj\Debug\Biblioteca.dll
+Z:\CadAlunosDB_1\Biblioteca\obj\Debug\Biblioteca.pdb
+Z:\LP-I\VO_DAO_Enum_Exceptions\CadAlunosDB_1\Biblioteca\bin\Debug\Biblioteca.dll
+Z:\LP-I\VO_DAO_Enum_Exceptions\CadAlunosDB_1\Biblioteca\bin\Debug\Biblioteca.pdb
+Z:\LP-I\VO_DAO_Enum_Exceptions\CadAlunosDB_1\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+Z:\LP-I\VO_DAO_Enum_Exceptions\CadAlunosDB_1\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+Z:\LP-I\VO_DAO_Enum_Exceptions\CadAlunosDB_1\Biblioteca\obj\Debug\Biblioteca.dll
+Z:\LP-I\VO_DAO_Enum_Exceptions\CadAlunosDB_1\Biblioteca\obj\Debug\Biblioteca.pdb

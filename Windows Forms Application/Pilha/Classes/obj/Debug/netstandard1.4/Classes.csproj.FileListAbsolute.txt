@@ -1,0 +1,7 @@
+C:\Users\William.Rocha\Desktop\001_Ex1_Pilha\Classes\bin\Debug\netstandard1.4\Classes.deps.json
+C:\Users\William.Rocha\Desktop\001_Ex1_Pilha\Classes\bin\Debug\netstandard1.4\Classes.dll
+C:\Users\William.Rocha\Desktop\001_Ex1_Pilha\Classes\bin\Debug\netstandard1.4\Classes.pdb
+C:\Users\William.Rocha\Desktop\001_Ex1_Pilha\Classes\obj\Debug\netstandard1.4\Classes.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\001_Ex1_Pilha\Classes\obj\Debug\netstandard1.4\Classes.AssemblyInfo.cs
+C:\Users\William.Rocha\Desktop\001_Ex1_Pilha\Classes\obj\Debug\netstandard1.4\Classes.dll
+C:\Users\William.Rocha\Desktop\001_Ex1_Pilha\Classes\obj\Debug\netstandard1.4\Classes.pdb

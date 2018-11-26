@@ -1,0 +1,9 @@
+c:\eduardo\jogo_velha\jogo_velha\bin\Debug\jogo_velha.exe.config
+c:\eduardo\jogo_velha\jogo_velha\bin\Debug\jogo_velha.exe
+c:\eduardo\jogo_velha\jogo_velha\bin\Debug\jogo_velha.pdb
+c:\eduardo\jogo_velha\jogo_velha\obj\Debug\jogo_velha.csprojResolveAssemblyReference.cache
+c:\eduardo\jogo_velha\jogo_velha\obj\Debug\jogo_velha.Form1.resources
+c:\eduardo\jogo_velha\jogo_velha\obj\Debug\jogo_velha.Properties.Resources.resources
+c:\eduardo\jogo_velha\jogo_velha\obj\Debug\jogo_velha.csproj.GenerateResource.Cache
+c:\eduardo\jogo_velha\jogo_velha\obj\Debug\jogo_velha.exe
+c:\eduardo\jogo_velha\jogo_velha\obj\Debug\jogo_velha.pdb

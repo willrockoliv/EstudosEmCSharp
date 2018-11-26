@@ -1,0 +1,13 @@
+﻿$1;Reino;Animalia
+$1;Filo;Chordata
+$1;Classe;Mammalia
+$1;Ordem;Cetacea
+$1;Subordem;Mysticeti
+$1;Família;Balaenopteridae
+$1;Género;Balaenoptera
+$1;Espécie;B. musculus
+$2;Baleia
+$3;Baleia-azul ou rorqual-azul ou gigante
+$3;A tonalidade azul aparece quando está submersa e o dia é ensolarado.
+$3;se alimenta de plâncton e peixes 
+$3;Depois que cresce, passa a medir até 34,5 metros e a pesar 150 toneladas 

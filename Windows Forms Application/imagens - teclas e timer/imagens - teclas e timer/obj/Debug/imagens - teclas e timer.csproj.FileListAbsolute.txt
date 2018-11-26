@@ -1,0 +1,27 @@
+c:\eduardo\tecprog\2015s2\imagens - teclas e timer\imagens - teclas e timer\bin\Debug\imagens - teclas e timer.exe.config
+c:\eduardo\tecprog\2015s2\imagens - teclas e timer\imagens - teclas e timer\bin\Debug\imagens - teclas e timer.exe
+c:\eduardo\tecprog\2015s2\imagens - teclas e timer\imagens - teclas e timer\bin\Debug\imagens - teclas e timer.pdb
+c:\eduardo\tecprog\2015s2\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens___teclas_e_timer.Form1.resources
+c:\eduardo\tecprog\2015s2\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens___teclas_e_timer.Properties.Resources.resources
+c:\eduardo\tecprog\2015s2\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens - teclas e timer.csproj.GenerateResource.Cache
+c:\eduardo\tecprog\2015s2\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens - teclas e timer.exe
+c:\eduardo\tecprog\2015s2\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens - teclas e timer.pdb
+c:\eduardo\tecprog\2015s2\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens - teclas e timer.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\imagens - teclas e timer\imagens - teclas e timer\bin\Debug\imagens - teclas e timer.exe.config
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens - teclas e timer.exe
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens - teclas e timer.pdb
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\imagens - teclas e timer\imagens - teclas e timer\bin\Debug\imagens - teclas e timer.exe
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\imagens - teclas e timer\imagens - teclas e timer\bin\Debug\imagens - teclas e timer.pdb
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens - teclas e timer.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens___teclas_e_timer.Form1.resources
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens___teclas_e_timer.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens - teclas e timer.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\imagens - teclas e timer\imagens - teclas e timer\bin\Debug\imagens - teclas e timer.exe.config
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens - teclas e timer.exe
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens - teclas e timer.pdb
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\imagens - teclas e timer\imagens - teclas e timer\bin\Debug\imagens - teclas e timer.exe
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\imagens - teclas e timer\imagens - teclas e timer\bin\Debug\imagens - teclas e timer.pdb
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens - teclas e timer.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens___teclas_e_timer.Form1.resources
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens___teclas_e_timer.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\imagens - teclas e timer\imagens - teclas e timer\obj\Debug\imagens - teclas e timer.csproj.GenerateResource.Cache

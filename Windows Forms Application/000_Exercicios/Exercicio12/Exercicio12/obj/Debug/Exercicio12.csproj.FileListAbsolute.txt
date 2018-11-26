@@ -1,0 +1,19 @@
+d:\users\dev02\documents\visual studio 2017\Projects\Exercicio12\Exercicio12\obj\Debug\Exercicio12.csprojResolveAssemblyReference.cache
+d:\users\dev02\documents\visual studio 2017\Projects\Exercicio12\Exercicio12\obj\Debug\Exercicio12.Form1.resources
+d:\users\dev02\documents\visual studio 2017\Projects\Exercicio12\Exercicio12\obj\Debug\Exercicio12.Properties.Resources.resources
+d:\users\dev02\documents\visual studio 2017\Projects\Exercicio12\Exercicio12\obj\Debug\Exercicio12.csproj.GenerateResource.Cache
+d:\users\dev02\documents\visual studio 2017\Projects\Exercicio12\Exercicio12\obj\Debug\Exercicio12.csproj.CoreCompileInputs.cache
+d:\users\dev02\documents\visual studio 2017\Projects\Exercicio12\Exercicio12\bin\Debug\Exercicio12.exe.config
+d:\users\dev02\documents\visual studio 2017\Projects\Exercicio12\Exercicio12\bin\Debug\Exercicio12.exe
+d:\users\dev02\documents\visual studio 2017\Projects\Exercicio12\Exercicio12\bin\Debug\Exercicio12.pdb
+d:\users\dev02\documents\visual studio 2017\Projects\Exercicio12\Exercicio12\obj\Debug\Exercicio12.exe
+d:\users\dev02\documents\visual studio 2017\Projects\Exercicio12\Exercicio12\obj\Debug\Exercicio12.pdb
+C:\Users\William.Rocha\Desktop\Exercicio12\Exercicio12\bin\Debug\Exercicio12.exe.config
+C:\Users\William.Rocha\Desktop\Exercicio12\Exercicio12\bin\Debug\Exercicio12.exe
+C:\Users\William.Rocha\Desktop\Exercicio12\Exercicio12\bin\Debug\Exercicio12.pdb
+C:\Users\William.Rocha\Desktop\Exercicio12\Exercicio12\obj\Debug\Exercicio12.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\Exercicio12\Exercicio12\obj\Debug\Exercicio12.Form1.resources
+C:\Users\William.Rocha\Desktop\Exercicio12\Exercicio12\obj\Debug\Exercicio12.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\Exercicio12\Exercicio12\obj\Debug\Exercicio12.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\Exercicio12\Exercicio12\obj\Debug\Exercicio12.exe
+C:\Users\William.Rocha\Desktop\Exercicio12\Exercicio12\obj\Debug\Exercicio12.pdb

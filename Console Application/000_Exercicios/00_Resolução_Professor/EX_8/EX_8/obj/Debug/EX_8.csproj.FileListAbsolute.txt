@@ -1,0 +1,6 @@
+c:\eduardo\EC2\EX_8\EX_8\bin\Debug\EX_8.exe.config
+c:\eduardo\EC2\EX_8\EX_8\bin\Debug\EX_8.exe
+c:\eduardo\EC2\EX_8\EX_8\bin\Debug\EX_8.pdb
+c:\eduardo\EC2\EX_8\EX_8\obj\Debug\EX_8.csprojResolveAssemblyReference.cache
+c:\eduardo\EC2\EX_8\EX_8\obj\Debug\EX_8.exe
+c:\eduardo\EC2\EX_8\EX_8\obj\Debug\EX_8.pdb

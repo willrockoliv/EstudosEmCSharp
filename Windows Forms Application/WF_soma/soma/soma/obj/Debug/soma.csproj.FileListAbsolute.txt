@@ -1,0 +1,18 @@
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\WF_soma\soma\soma\bin\Debug\soma.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\WF_soma\soma\soma\bin\Debug\soma.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\WF_soma\soma\soma\bin\Debug\soma.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\WF_soma\soma\soma\obj\Debug\soma.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\WF_soma\soma\soma\obj\Debug\soma.Form1.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\WF_soma\soma\soma\obj\Debug\soma.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\WF_soma\soma\soma\obj\Debug\soma.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\WF_soma\soma\soma\obj\Debug\soma.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\WF_soma\soma\soma\obj\Debug\soma.pdb
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\WF_soma\soma\soma\obj\Debug\soma.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\WF_soma\soma\soma\obj\Debug\soma.Form1.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\WF_soma\soma\soma\obj\Debug\soma.Properties.Resources.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\WF_soma\soma\soma\obj\Debug\soma.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\WF_soma\soma\soma\obj\Debug\soma.exe
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\WF_soma\soma\soma\obj\Debug\soma.pdb
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\WF_soma\soma\soma\bin\Debug\soma.exe.config
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\WF_soma\soma\soma\bin\Debug\soma.exe
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\WF_soma\soma\soma\bin\Debug\soma.pdb

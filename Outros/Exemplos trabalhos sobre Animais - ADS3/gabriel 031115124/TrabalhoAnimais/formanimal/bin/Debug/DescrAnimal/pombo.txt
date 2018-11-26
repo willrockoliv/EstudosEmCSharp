@@ -1,0 +1,15 @@
+﻿$1;Reino;Animalia
+$1;Filo;Chordata
+$1;Classe;Aves
+$1;Ordem;Columbiformes
+$1;Família;Columbidae
+$1;Género;Columba
+$1;Espécie;C. livia
+$2;Pombo
+$3;O pombo-comum, também conhecido como pombo-doméstico ou pombo-das-rochas
+$3;Sua plumagem é geralmente em tons cinzentos, Caracterizam-se, em geral, pelos $3;reflexos metálicos na plumagem, cabeça e pés pequenos, bicos com elevação na base e a $3;ponta deste em forma de gancho.
+$3;Vivem bem em ambientes abertos e semi-abertos
+$3;O adulto mede em média entre 32 e 37 cm de comprimento
+$3;A expectativa média de vida em qualquer parte do mundo é de 3-5 anos na selva a 15 $3;anos de cativeiro,
+$3;Comem grãos e alimentos verdes
+

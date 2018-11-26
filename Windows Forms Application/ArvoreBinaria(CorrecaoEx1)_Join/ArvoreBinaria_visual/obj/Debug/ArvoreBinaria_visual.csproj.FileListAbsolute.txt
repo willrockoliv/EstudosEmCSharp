@@ -1,0 +1,9 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria - Correção\ArvoreBinaria_visual\bin\Debug\ArvoreBinaria_visual.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria - Correção\ArvoreBinaria_visual\bin\Debug\ArvoreBinaria_visual.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria - Correção\ArvoreBinaria_visual\bin\Debug\ArvoreBinaria_visual.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria - Correção\ArvoreBinaria_visual\obj\Debug\ArvoreBinaria_visual.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria - Correção\ArvoreBinaria_visual\obj\Debug\ArvoreBinaria_visual.Form1.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria - Correção\ArvoreBinaria_visual\obj\Debug\ArvoreBinaria_visual.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria - Correção\ArvoreBinaria_visual\obj\Debug\ArvoreBinaria_visual.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria - Correção\ArvoreBinaria_visual\obj\Debug\ArvoreBinaria_visual.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria - Correção\ArvoreBinaria_visual\obj\Debug\ArvoreBinaria_visual.pdb

@@ -1,0 +1,6 @@
+c:\eduardo\EC2\EX_14\EX_14\bin\Debug\EX_14.exe.config
+c:\eduardo\EC2\EX_14\EX_14\bin\Debug\EX_14.exe
+c:\eduardo\EC2\EX_14\EX_14\bin\Debug\EX_14.pdb
+c:\eduardo\EC2\EX_14\EX_14\obj\Debug\EX_14.exe
+c:\eduardo\EC2\EX_14\EX_14\obj\Debug\EX_14.pdb
+C:\eduardo\EC2\EX_14\EX_14\obj\Debug\EX_14.csprojResolveAssemblyReference.cache

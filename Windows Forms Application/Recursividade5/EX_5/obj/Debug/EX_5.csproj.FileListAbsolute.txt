@@ -1,0 +1,12 @@
+Z:\AULAS\2017-S1\EC-3 - Estrutura de Dados\EX_5_recursividade\EX_5\bin\Debug\EX_5.exe.config
+Z:\AULAS\2017-S1\EC-3 - Estrutura de Dados\EX_5_recursividade\EX_5\bin\Debug\EX_5.exe
+Z:\AULAS\2017-S1\EC-3 - Estrutura de Dados\EX_5_recursividade\EX_5\bin\Debug\EX_5.pdb
+Z:\AULAS\2017-S1\EC-3 - Estrutura de Dados\EX_5_recursividade\EX_5\obj\Debug\EX_5.csprojResolveAssemblyReference.cache
+Z:\AULAS\2017-S1\EC-3 - Estrutura de Dados\EX_5_recursividade\EX_5\obj\Debug\EX_5.exe
+Z:\AULAS\2017-S1\EC-3 - Estrutura de Dados\EX_5_recursividade\EX_5\obj\Debug\EX_5.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\EX_5_recursividade\EX_5\bin\Debug\EX_5.exe.config
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\EX_5_recursividade\EX_5\obj\Debug\EX_5.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\EX_5_recursividade\EX_5\obj\Debug\EX_5.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\EX_5_recursividade\EX_5\bin\Debug\EX_5.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\EX_5_recursividade\EX_5\bin\Debug\EX_5.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\EX_5_recursividade\EX_5\obj\Debug\EX_5.csprojResolveAssemblyReference.cache

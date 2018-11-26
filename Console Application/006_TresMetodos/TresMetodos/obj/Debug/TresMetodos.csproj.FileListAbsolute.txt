@@ -1,0 +1,6 @@
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\TresMetodos\TresMetodos\bin\Debug\TresMetodos.exe.config
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\TresMetodos\TresMetodos\bin\Debug\TresMetodos.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\TresMetodos\TresMetodos\bin\Debug\TresMetodos.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\TresMetodos\TresMetodos\obj\Debug\TresMetodos.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\TresMetodos\TresMetodos\obj\Debug\TresMetodos.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\TresMetodos\TresMetodos\obj\Debug\TresMetodos.pdb

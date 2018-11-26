@@ -1,0 +1,12 @@
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria\ArvoreBinaria_visual\bin\Debug\ArvoreBinaria_visual.exe.config
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria\ArvoreBinaria_visual\bin\Debug\ArvoreBinaria_visual.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria\ArvoreBinaria_visual\bin\Debug\ArvoreBinaria_visual.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria\ArvoreBinaria_visual\obj\Debug\ArvoreBinaria_visual.csprojResolveAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria\ArvoreBinaria_visual\obj\Debug\ArvoreBinaria_visual.Form1.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria\ArvoreBinaria_visual\obj\Debug\ArvoreBinaria_visual.Properties.Resources.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria\ArvoreBinaria_visual\obj\Debug\ArvoreBinaria_visual.csproj.GenerateResource.Cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria\ArvoreBinaria_visual\obj\Debug\ArvoreBinaria_visual.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria\ArvoreBinaria_visual\obj\Debug\ArvoreBinaria_visual.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria\ArvoreBinaria_visual\bin\Debug\ArvoreBinaria_visual.exe.config
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria\ArvoreBinaria_visual\obj\Debug\ArvoreBinaria_visual.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ArvoreBinaria\ArvoreBinaria_visual\obj\Debug\ArvoreBinaria_visual.pdb

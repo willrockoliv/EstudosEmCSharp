@@ -1,0 +1,205 @@
+1-) Crie um cadastro de clientes que possua os seguintes campos:
+
+código do cliente
+nome do cliente
+data de nascimento
+
+todos os campos são obrigatórios
+a data de nascimento não pode superior a data atual (ignore)
+
+
+2-) Faça um jogo da velha, utilizando os componentes que você já conhece.
+O jogo da velha deve ser jogado a dois.
+
+
+
+3-) Crie um cadastro de funcionários, com os seguintes campos e validações:
+
+codigo do funcionário: não pode ser menor ou igual a 0
+nome : obrigatório nome e sobrenome 
+data de nascimento: não pode ser superior a data atual
+sexo : obrigatório
+possui casa: checkbox
+listbox com eletrodomesticos que ele possui na casa(preencha com umas 5 opções). multipla escolha. se possuir casa, deve selecionar pelo menos 1 opção.
+cidade: utilize um combobox. campo obrigatório.
+
+
+Crie 2 botoes: 1 botão deverá salvar todos os dados em um arquivo texto.
+O outro botão deverá recuperar as informações e preencher os campos na tela.
+
+
+
+
+4) Faça um programa que cadastre em um arquivo texto os seguintes dados:
+Nome  (obrigatório)
+Telefone Fixo (obrigatório apenas números no seguinte formato:  9999-9999)
+
+Deve haver um botão para salvar os dados em um arquivo em disco escolhido pelo usuário.
+
+
+Crie no formulário um botão para pesquisar um nome no arquivo. Caso o nome seja encontrado, preencha os campos da 
+tela com o nome e o telefone da primeira ocorrência encontrada no arquivo.
+
+
+
+
+
+5-) Faça um programa onde o usuário possa abrir diversos arquivos de imagem.
+A cada arquivo aberto, você deverá adicionar o caminho da imagem em um listbox.
+NÃO ADICIONE CAMINHOS REPETIDOS.
+Quando o usuário clicar em um item do listbox, você deverá exibir a imagem em um picturebox.
+
+"bitmap|*.bmp|jpg files|*.jpg"
+
+
+
+
+
+
+
+
+6-) Crie um cadastro de jogos.
+Os campos serão os seguintes:
+* Código do jogo deve ser positivo
+* nome do jogo deve ser informado
+* data de aquisição do jogo deve ser inferior à data atual
+* Categoria do jogo deve ser selecionada em radiobutton
+* Fabricante deve ser selecionado em um combobox
+* Valor de locação deve ser maior que zero.
+
+Crie 2 botões: 1 para salvar os dados em disco e outro para carregar. 
+Salve apenas 1 jogo
+no arquivo.
+Utilize controle de exceção.
+
+
+                                                                                                                                           
+
+7) Crie uma tela  para cadastrar um funcionário.
+Armazene os campos
+Código : int
+Nome : string
+Salario Base: double
+Descontos: double
+Hora Extra: double
+
+Crie um método para calcular o salário final (salario base - descontos + hora extra)
+Crie um formulário para exibir os dados.
+Valide os campos com try-catch
+
+
+
+
+
+8-) Crie um sistema de conta corrente que tenha os seguintes campos:
+
+cliente: (string)  (obrigatório)
+agencia (inteiro)  (inteiro >0)
+c.corrente (string)  (obrigatório pelo menos 5 caracteres)
+saldo (double)  (nao pode ser negativo)
+Foto do cliente.
+
+Deve haver um botão para fazer saque e um botão para fazer depósito. 
+(utilize uma caixa de texto para o usuário informar o valor do saque/depósito). 
+Atualize o saldo após a operação.
+Validação: O saldo não pode ficar negativo!!!!!!!
+
+
+Utilize o componente errorprovider para marcar os campos errados.
+
+
+
+
+9) Faça um programa que tenha um formulário tenha 4 botões:
+[ + ]   [ - ]   [ x ]   [ / ]
+
+Resposta:__________
+ 
+
+Quando o usuário clicar em um botão, abra um novo formulário que irá solicitar 2 números e terá um botão que, quando pressionado, irá fechar a tela.
+O valor do calculado será exibido no campo "resposta".
+
+
+
+10-) Exercício de formulários 
+
+* Crie um formulário que será o menu principal.
+
+* crie um outro formulário (frAgenda) que terá:
+   um textbox para Nome  
+   um TextBox para Telefone.
+   um botão para salvar em um arquivo Agenda.txt (adicionando) o dado escolhido pelo usuário
+
+* crie um outro formulário (frPesquisa ) para efetuar uma pesquisa na agenda 
+pelo nome.  A tela de pesquisa deverá possuir um campo texto para a pessoa 
+digitar o nome e um botao [pesquisar]. Após pesquisar, a tela deve ser fechada , 
+retornando automaticamente para a tela principal e o resultado da pesquisa 
+deverá ser preenchido um listbox na tela principal, exibindo o nome e o telefone que foram pesquisados.
+ Se não for encontrado, deverá ser exibido no listbox - "Não encontrado".
+
+
+11 - SISTEMA  de controle de estoque
+* faça uma tela principal com atalhos para:
+	* cadastro de produto:
+	 (codigo, descricao, saldo no estoque, estoque mínimo)]
+	Salvar em um arquivo texto.
+	permita a navegação nos registros, de forma que na tela se
+	possa ver todos os cadatros, um por vez.
+
+	* relatorio de produtos (exibir os dados dos produtos)
+	colocar os seguinte filtros: 
+      	( ) produtos que estão com saldo abaixo do mínimo
+	( ) filtro por descrição	
+
+
+
+***** Exercício - classes e objetos *****
+
+12-) 
+
+Crie uma classe para representar um funcionário.
+
+A classe deve ter os seguintes atributos:
+
+int Código.  (obrigatório > 0)
+string Nome  (obrigatório nome e sobrenome )
+double Salario  (obrigatório > 0)
+datetime Data Nascimento  (Obrigatório >= data atual)
+
+
+Crie também os seguintes métodos:
+
+double CalcularSalario()
+Este método deverá pegar o salário do funcionário e:
+subtrair 11% do inss e retornar o salário subtraído do inss.
+
+
+O método double GetINSS() deve calcular 
+o valor do inss (11% do salario) e devolver este valor.
+
+
+Crie um formulário para preencher os campos do cadastro.
+Crie no formulário botões para testar os 2 métodos.
+Crie um botão para exibir os valores gravados na classe, como foi feito no exemplo do aluno.
+
+
+
+13) Altere o Ex. 6 para utilizar encapsulamento.
+
+
+
+14-) Crie uma tela que tenha 9 botoes
+
+[  ]  [  ]  [  ]
+[  ]  [  ]  [  ]
+[  ]  [  ]  [  ]
+
+Em cada botão deverá aparecer um número aleatório de 1 a 9. Se um número já
+foi utilizado em um botão, ele nao deve mais ser utilizado. 
+Sendo assim, todos os 9 números serão distribuidos pelos 9 botões.
+
+Depois de 5s o texto dos botões devem desaparecer.
+Então, o usuário deverá clicar nos botões em sequencia. Caso ele pule a sequência o jogo para.
+
+Deve haver um contador de tempo. Ao final, exiba em quantos segundos ele
+desvendou os números. 

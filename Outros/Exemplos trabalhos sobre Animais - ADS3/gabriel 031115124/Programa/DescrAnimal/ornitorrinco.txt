@@ -1,0 +1,13 @@
+﻿$1;Reino;Animalia
+$1;Filo;Chordata
+$1;Classe;Mammalia
+$1;Subclasse;Prototheria
+$1;Ordem;Monotremata
+$1;Família;Ornithorhynchidae
+$1;Género;Ornithorhynchus
+$1;Espécie;O anatinus
+$2;Ornitorrinco
+$3;O ornitorrinco vive na beira de rios, córregos e riachos na Austrália e na Ilha da $3;Tasmânia.
+$3;O ornitorrinco alimenta-se de vermes, girinos, moluscos, crustáceos, peixinhos e $3;insetos que captura no fundo dos rios e córregos.
+$3;Possui pés palmados, cauda em forma de remo, tem a pele espessa, possuem bicos $3;semelhantes aos patos.
+$3;Considerando a cauda, o ornitorrinco pode chegar a medir 60 cm de comprimento. Ele $3;chega a viver por 15 anos.

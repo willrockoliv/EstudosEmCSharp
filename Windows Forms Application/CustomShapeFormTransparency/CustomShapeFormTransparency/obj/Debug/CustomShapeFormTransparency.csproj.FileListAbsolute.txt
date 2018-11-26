@@ -1,0 +1,8 @@
+C:\Users\pro6761\Downloads\CustomShapeFormTransparency\CustomShapeFormTransparency\bin\Debug\CustomShapeFormTransparency.exe
+C:\Users\pro6761\Downloads\CustomShapeFormTransparency\CustomShapeFormTransparency\bin\Debug\CustomShapeFormTransparency.pdb
+C:\Users\pro6761\Downloads\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.csprojResolveAssemblyReference.cache
+C:\Users\pro6761\Downloads\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.Form1.resources
+C:\Users\pro6761\Downloads\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.Properties.Resources.resources
+C:\Users\pro6761\Downloads\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.csproj.GenerateResource.Cache
+C:\Users\pro6761\Downloads\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.exe
+C:\Users\pro6761\Downloads\CustomShapeFormTransparency\CustomShapeFormTransparency\obj\Debug\CustomShapeFormTransparency.pdb

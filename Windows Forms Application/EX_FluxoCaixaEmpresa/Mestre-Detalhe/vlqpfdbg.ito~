@@ -1,0 +1,263 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Mestre_Detalhe
+{
+    public partial class Form1 : Form
+    {
+        DataTable tabelaTemporaria;
+
+        private void CriaTabelaTemporaria()
+        {
+            tabelaTemporaria = new DataTable();
+            DataColumn c;
+
+            c = new DataColumn("ProdutoId", typeof(int));
+            tabelaTemporaria.Columns.Add(c);
+
+            c = new DataColumn("ProdutoDescricao", typeof(string));
+            tabelaTemporaria.Columns.Add(c);
+
+            c = new DataColumn("Qtde", typeof(int));
+            tabelaTemporaria.Columns.Add(c);
+
+            c = new DataColumn("ValorUnitario", typeof(double));
+            tabelaTemporaria.Columns.Add(c);
+
+            c = new DataColumn("ValorTotal", typeof(Double));
+            tabelaTemporaria.Columns.Add(c);
+        }
+
+
+        private void ConfiguraColunasGridView()
+        {
+            #region criação dinâmica das colunas do DataGridView
+
+            #region Coluna ColProdutoId
+            DataGridViewTextBoxColumn colProdutoId = new DataGridViewTextBoxColumn();
+            colProdutoId.Name = "colProdutoId";
+            colProdutoId.ReadOnly = true;
+            colProdutoId.Width = 100;
+            colProdutoId.DataPropertyName = "ProdutoID"; // o nome do campo do datatable
+            colProdutoId.HeaderText = "Produto";
+            colProdutoId.DefaultCellStyle.BackColor = SystemColors.ButtonFace;
+
+            dataGridView1.Columns.Add(colProdutoId);
+
+            #endregion
+
+            DataGridViewTextBoxColumn colProdutoDescricao = new DataGridViewTextBoxColumn();
+            colProdutoDescricao.Name = "colProdutoDescricao";
+            colProdutoDescricao.ReadOnly = true;
+            colProdutoDescricao.Width = 200;
+            colProdutoDescricao.DataPropertyName = "ProdutoDescricao"; // o nome do campo do datatable            
+            colProdutoDescricao.HeaderText = "Descrição";
+            colProdutoDescricao.DefaultCellStyle.BackColor = SystemColors.ButtonFace;
+            dataGridView1.Columns.Add(colProdutoDescricao);
+
+            DataGridViewTextBoxColumn colQtde = new DataGridViewTextBoxColumn();
+            colQtde.Name = "colQtde";
+            colQtde.ReadOnly = false; // permite escrita nesse campo
+            colQtde.Width = 80;
+            colQtde.DataPropertyName = "Qtde"; // o nome do campo do datatable                                   
+            colQtde.HeaderText = "Quantidade";
+            colQtde.DefaultCellStyle.BackColor = Color.LightBlue;
+            dataGridView1.Columns.Add(colQtde);
+
+
+            DataGridViewTextBoxColumn colValorUnitario = new DataGridViewTextBoxColumn();
+            colValorUnitario.Name = "colValorUnitario";
+            colValorUnitario.ReadOnly = true; // permite escrita nesse campo
+            colValorUnitario.Width = 100;
+            colValorUnitario.DataPropertyName = "ValorUnitario"; // o nome do campo do datatable                                   
+            colValorUnitario.HeaderText = "Valor Unitário";
+            colValorUnitario.DefaultCellStyle.BackColor = SystemColors.ButtonFace;
+            dataGridView1.Columns.Add(colValorUnitario);
+
+
+            DataGridViewTextBoxColumn colValorTotal = new DataGridViewTextBoxColumn();
+            colValorTotal.Name = "colValorTotal";
+            colValorTotal.ReadOnly = true; // permite escrita nesse campo
+            colValorTotal.Width = 100;
+            colValorTotal.DataPropertyName = "ValorTotal"; // o nome do campo do datatable                                   
+            colValorTotal.HeaderText = "Valor Total";
+            colValorTotal.DefaultCellStyle.BackColor = SystemColors.ButtonFace;
+            dataGridView1.Columns.Add(colValorTotal);
+
+            dataGridView1.AllowUserToAddRows = false;
+            dataGridView1.AllowUserToDeleteRows = false;
+            dataGridView1.AllowUserToResizeRows = false;
+            dataGridView1.MultiSelect = false;
+            dataGridView1.AutoGenerateColumns = false;
+
+            dataGridView1.DataSource = tabelaTemporaria;
+
+            #endregion
+
+        }
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            CriaTabelaTemporaria(); // para ser o "carrinho" com os produtos selecionados
+            ConfiguraColunasGridView();
+
+            try
+            {
+                cbProduto.DisplayMember = "ProdutoDescricao";
+                cbProduto.ValueMember = "ProdutoId";
+                cbProduto.DataSource = ProdutoDAO.ConsultaProdutos();
+            }
+            catch
+            {
+                MessageBox.Show("Banco de dados inacessível");
+            }
+        }
+
+
+
+
+
+        private DataRow PesquisaCarrinhoCompra(int produto)
+        {
+            /*
+            foreach (DataRow registro in tabelaTemporaria.Rows)
+            {
+                if (Convert.ToInt32(registro["ProdutoId"]) == produto)
+                    return registro;
+            }
+            return null;
+             */
+
+            // ou simplesmente
+
+            DataRow[] registros = tabelaTemporaria.Select("ProdutoId = " + produto);
+            if (registros.Length == 1)
+                return registros[0];
+            else
+                return null;
+        }
+
+
+
+
+
+        private void btnAddProd_Click(object sender, EventArgs e)
+        {
+            //Pega o registro atualmente selecionado no combo de produto
+            int codigoProd = Convert.ToInt32(cbProduto.SelectedValue);
+
+            //valida para ver se o produto já estava no grid
+            DataRow produtoPesquisado = PesquisaCarrinhoCompra(codigoProd);
+            if (produtoPesquisado != null)
+            {
+                //MessageBox.Show("Produto já existe!");
+                produtoPesquisado["Qtde"] = Convert.ToInt32(produtoPesquisado["Qtde"]) + 1;
+                produtoPesquisado["ValorTotal"] = Convert.ToDouble(produtoPesquisado["ValorUnitario"]) * Convert.ToInt32(produtoPesquisado["Qtde"]);
+            }
+            else
+            {
+                //Pesquisa os dados do produto
+                ProdutoVO produtoSelecionado = ProdutoDAO.ConsultaProduto(codigoProd);
+
+                //Insere o produto no carrinho (item do pedido)
+                DataRow registro = tabelaTemporaria.NewRow();
+                registro["ProdutoId"] = produtoSelecionado.GetCodigo();
+                registro["ProdutoDescricao"] = produtoSelecionado.GetNome();
+                registro["ValorUnitario"] = produtoSelecionado.GetValor();
+                registro["ValorTotal"] = 0;
+                registro["Qtde"] = 1;
+                registro["ValorTotal"] = produtoSelecionado.GetValor();
+
+                tabelaTemporaria.Rows.Add(registro);
+            }
+        }
+
+        private void dataGridView1_CellEndEdit(object sender, DataGridViewCellEventArgs e)
+        {
+            //Pega o código do produto atualmente selecionado no grid
+            int produtoSelecionado =
+                Convert.ToInt32(dataGridView1.CurrentRow.Cells["colProdutoId"].Value);
+
+            //Pesquisa na tabela temporária qual registro deve-se alterado
+            DataRow registro = PesquisaCarrinhoCompra(produtoSelecionado);
+            registro["ValorTotal"] =
+                Convert.ToDouble(registro["ValorUnitario"]) *
+                Convert.ToInt16(registro["Qtde"]);
+        }
+
+
+        private void dataGridView1_CellValidating(object sender,
+            DataGridViewCellValidatingEventArgs e)
+        {
+            //Validação para a coluna quantidade 
+            if (e.ColumnIndex == dataGridView1.Columns["colQtde"].Index)
+            {
+                try
+                {
+                    Convert.ToInt32(e.FormattedValue);
+                    e.Cancel = false;
+                }
+                catch
+                {
+                    e.Cancel = true;
+                    MessageBox.Show("Valor inválido! Pressione ESC para cancelar.", "Atenção", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+        }
+
+
+        private void btnGravaPedido_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                PedidoVO pedido = new PedidoVO();
+                pedido.Id = Convert.ToInt32(txtPedidoID.Text);
+                pedido.Data = txtData.Value;
+                pedido.ClienteId = Convert.ToInt32(txtCodCliente.Text);
+
+                foreach (DataRow dr in tabelaTemporaria.Rows)
+                {
+                    PedidoItemVO item = new PedidoItemVO();
+                    item.PedidoId = Convert.ToInt32(txtPedidoID.Text);
+                    item.ProdutoId = Convert.ToInt32(dr["ProdutoId"]);
+                    item.Qtde = Convert.ToInt32(dr["Qtde"]);
+                    item.ValorUnitario = Convert.ToInt32(dr["ValorUnitario"]);
+                    pedido.ItensDoPedido.Add(item);
+                }
+
+                PedidoDAO.Insere(pedido);
+            }
+            catch(SqlException erro)
+            {
+                MessageBox.Show(erro.Message);
+            }
+            catch (Exception erro)
+            {
+                MessageBox.Show(erro.Message);
+            }
+        }
+
+        private void btnPesquisaCliente_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void grpDetalhe_Enter(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

@@ -1,0 +1,6 @@
+F|1|William
+F|2|Allan
+F|3|Jonathan
+P|1|Coca-Cola|3,50
+F|65|William
+P|123|Bala|1,00

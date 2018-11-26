@@ -1,0 +1,5 @@
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_27\EX_27\bin\Debug\EX_27.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_27\EX_27\bin\Debug\EX_27.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_27\EX_27\bin\Debug\EX_27.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_27\EX_27\obj\Debug\EX_27.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_27\EX_27\obj\Debug\EX_27.pdb

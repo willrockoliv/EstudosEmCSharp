@@ -1,0 +1,10 @@
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\004_Ex.4_(Ex.3_Propriedades)\Classes\bin\Debug\Classes.dll
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\004_Ex.4_(Ex.3_Propriedades)\Classes\bin\Debug\Classes.pdb
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\004_Ex.4_(Ex.3_Propriedades)\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\004_Ex.4_(Ex.3_Propriedades)\Classes\obj\Debug\Classes.dll
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\004_Ex.4_(Ex.3_Propriedades)\Classes\obj\Debug\Classes.pdb
+C:\Users\William.Rocha\Desktop\temp\004_Ex.4_(Ex.3_Propriedades)\Classes\bin\Debug\Classes.dll
+C:\Users\William.Rocha\Desktop\temp\004_Ex.4_(Ex.3_Propriedades)\Classes\bin\Debug\Classes.pdb
+C:\Users\William.Rocha\Desktop\temp\004_Ex.4_(Ex.3_Propriedades)\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\temp\004_Ex.4_(Ex.3_Propriedades)\Classes\obj\Debug\Classes.dll
+C:\Users\William.Rocha\Desktop\temp\004_Ex.4_(Ex.3_Propriedades)\Classes\obj\Debug\Classes.pdb

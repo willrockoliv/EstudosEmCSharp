@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Jogo_da_Velha">
+</Property><Property Name="Solution File" Value="E:\ADS_02\Eduardo\Exercicios_Teste\Jogo_da_Velha\Jogo_da_Velha.sln">
+</Property><Property Name="User Options File" Value="E:\ADS_02\Eduardo\Exercicios_Teste\Jogo_da_Velha\Jogo_da_Velha.suo">
+</Property><Property Name="Date" Value="domingo, 24 de fevereiro de 2013">
+</Property><Property Name="Time" Value="20:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Jogo_da_Velha.sln" Description="File successfully backed up as E:\ADS_02\Eduardo\Exercicios_Teste\Jogo_da_Velha\Backup\Jogo_da_Velha.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Jogo_da_Velha.suo" Description="File successfully backed up as E:\ADS_02\Eduardo\Exercicios_Teste\Jogo_da_Velha\Backup\Jogo_da_Velha.suo">
+</Event><Event ErrorLevel="0" Project="Jogo_da_Velha" Source="Jogo_da_Velha\Jogo_da_Velha.csproj" Description="Project file successfully backed up as E:\ADS_02\Eduardo\Exercicios_Teste\Jogo_da_Velha\Backup\Jogo_da_Velha\Jogo_da_Velha.csproj">
+</Event><Event ErrorLevel="0" Project="Jogo_da_Velha" Source="Jogo_da_Velha\Form1.cs" Description="File successfully backed up as E:\ADS_02\Eduardo\Exercicios_Teste\Jogo_da_Velha\Backup\Jogo_da_Velha\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Jogo_da_Velha" Source="Jogo_da_Velha\Form1.Designer.cs" Description="File successfully backed up as E:\ADS_02\Eduardo\Exercicios_Teste\Jogo_da_Velha\Backup\Jogo_da_Velha\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Jogo_da_Velha" Source="Jogo_da_Velha\Program.cs" Description="File successfully backed up as E:\ADS_02\Eduardo\Exercicios_Teste\Jogo_da_Velha\Backup\Jogo_da_Velha\Program.cs">
+</Event><Event ErrorLevel="0" Project="Jogo_da_Velha" Source="Jogo_da_Velha\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\ADS_02\Eduardo\Exercicios_Teste\Jogo_da_Velha\Backup\Jogo_da_Velha\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Jogo_da_Velha" Source="Jogo_da_Velha\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\ADS_02\Eduardo\Exercicios_Teste\Jogo_da_Velha\Backup\Jogo_da_Velha\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Jogo_da_Velha" Source="Jogo_da_Velha\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\ADS_02\Eduardo\Exercicios_Teste\Jogo_da_Velha\Backup\Jogo_da_Velha\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Jogo_da_Velha" Source="Jogo_da_Velha\Properties\Settings.settings" Description="File successfully backed up as E:\ADS_02\Eduardo\Exercicios_Teste\Jogo_da_Velha\Backup\Jogo_da_Velha\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Jogo_da_Velha" Source="Jogo_da_Velha\Form1.resx" Description="File successfully backed up as E:\ADS_02\Eduardo\Exercicios_Teste\Jogo_da_Velha\Backup\Jogo_da_Velha\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Jogo_da_Velha" Source="Jogo_da_Velha\Properties\Resources.resx" Description="File successfully backed up as E:\ADS_02\Eduardo\Exercicios_Teste\Jogo_da_Velha\Backup\Jogo_da_Velha\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Jogo_da_Velha" Source="Jogo_da_Velha\Jogo_da_Velha.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Jogo_da_Velha" Source="Jogo_da_Velha\Jogo_da_Velha.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Jogo_da_Velha.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Jogo_da_Velha.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Jogo_da_Velha" Source="Jogo_da_Velha\Jogo_da_Velha.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

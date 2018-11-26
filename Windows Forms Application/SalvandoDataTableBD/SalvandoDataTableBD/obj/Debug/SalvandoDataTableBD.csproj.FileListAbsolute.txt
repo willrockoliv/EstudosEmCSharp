@@ -1,0 +1,31 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\bin\Debug\SalvandoDataTableBD.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\bin\Debug\SalvandoDataTableBD.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\bin\Debug\SalvandoDataTableBD.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.frCadTimes.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\bin\Debug\SalvandoDataTableBD.exe.config
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.pdb
+Z:\AULAS\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\bin\Debug\SalvandoDataTableBD.exe.config
+Z:\AULAS\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.pdb
+Z:\AULAS\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\bin\Debug\SalvandoDataTableBD.exe
+Z:\AULAS\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\bin\Debug\SalvandoDataTableBD.pdb
+Z:\AULAS\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.csprojResolveAssemblyReference.cache
+Z:\AULAS\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.frCadTimes.resources
+Z:\AULAS\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.Properties.Resources.resources
+Z:\AULAS\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.csproj.GenerateResource.Cache
+Z:\AULAS\2017-S2\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\bin\Debug\SalvandoDataTableBD.exe.config
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\bin\Debug\SalvandoDataTableBD.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\bin\Debug\SalvandoDataTableBD.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.frCadTimes.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\SalvandoDataTableBD\SalvandoDataTableBD\obj\Debug\SalvandoDataTableBD.pdb

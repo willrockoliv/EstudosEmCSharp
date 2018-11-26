@@ -1,0 +1,6 @@
+Z:\PilhaDinamica\PilhaDinamica\bin\Debug\PilhaDinamica.exe.config
+Z:\PilhaDinamica\PilhaDinamica\bin\Debug\PilhaDinamica.exe
+Z:\PilhaDinamica\PilhaDinamica\bin\Debug\PilhaDinamica.pdb
+Z:\PilhaDinamica\PilhaDinamica\obj\Debug\PilhaDinamica.csprojResolveAssemblyReference.cache
+Z:\PilhaDinamica\PilhaDinamica\obj\Debug\PilhaDinamica.exe
+Z:\PilhaDinamica\PilhaDinamica\obj\Debug\PilhaDinamica.pdb

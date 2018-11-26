@@ -1,0 +1,9 @@
+C:\Users\Alves\Desktop\EX_12POO\EX_12POO\bin\Debug\EX_12POO.exe.config
+C:\Users\Alves\Desktop\EX_12POO\EX_12POO\obj\Debug\EX_12POO.csprojResolveAssemblyReference.cache
+C:\Users\Alves\Desktop\EX_12POO\EX_12POO\obj\Debug\EX_12POO.Form1.resources
+C:\Users\Alves\Desktop\EX_12POO\EX_12POO\obj\Debug\EX_12POO.Properties.Resources.resources
+C:\Users\Alves\Desktop\EX_12POO\EX_12POO\obj\Debug\EX_12POO.csproj.GenerateResource.Cache
+C:\Users\Alves\Desktop\EX_12POO\EX_12POO\bin\Debug\EX_12POO.exe
+C:\Users\Alves\Desktop\EX_12POO\EX_12POO\bin\Debug\EX_12POO.pdb
+C:\Users\Alves\Desktop\EX_12POO\EX_12POO\obj\Debug\EX_12POO.exe
+C:\Users\Alves\Desktop\EX_12POO\EX_12POO\obj\Debug\EX_12POO.pdb

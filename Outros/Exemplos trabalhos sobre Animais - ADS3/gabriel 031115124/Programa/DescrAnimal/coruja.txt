@@ -1,0 +1,11 @@
+﻿$1;Reino;Animal
+$1;Filo;Cordado
+$1;Classe;Aves
+$1;Ordem;Strigiformes
+$2;Coruja
+$3;O termo coruja é a designação comum das aves estrigiformes, das famílias dos $3;titonídeose estrigídeos.
+$3;são encontradas em quase todo o mundo, menos na Antártica, na maior parte da $3;Groenlândia $3;e em algumas ilhas remotas.
+$3;A coruja se alimenta de pequenos mamíferos (ratos e camundongos, por exemplo), $3;gafanhotos, grilos, aranhas e outras aves.
+$3;Sua plumagem é macia e densa, geralmente possui cores escuras misturadas com branco $3;e/ou amarelo.
+$3;Podem ter de 17 cm a 50 cm
+$3;As espécies maiores de corujas vivem de 15 a 20 anos.

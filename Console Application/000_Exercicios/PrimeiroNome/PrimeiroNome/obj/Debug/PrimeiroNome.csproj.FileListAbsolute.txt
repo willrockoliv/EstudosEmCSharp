@@ -1,0 +1,6 @@
+Z:\William EC II\Algoritmos II\PrimeiroNome\PrimeiroNome\bin\Debug\PrimeiroNome.exe.config
+Z:\William EC II\Algoritmos II\PrimeiroNome\PrimeiroNome\bin\Debug\PrimeiroNome.exe
+Z:\William EC II\Algoritmos II\PrimeiroNome\PrimeiroNome\bin\Debug\PrimeiroNome.pdb
+Z:\William EC II\Algoritmos II\PrimeiroNome\PrimeiroNome\obj\Debug\PrimeiroNome.csprojResolveAssemblyReference.cache
+Z:\William EC II\Algoritmos II\PrimeiroNome\PrimeiroNome\obj\Debug\PrimeiroNome.exe
+Z:\William EC II\Algoritmos II\PrimeiroNome\PrimeiroNome\obj\Debug\PrimeiroNome.pdb

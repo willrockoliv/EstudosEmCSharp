@@ -1,0 +1,17 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\bin\Debug\ExecutandoProcsBD.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\bin\Debug\ExecutandoProcsBD.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\bin\Debug\ExecutandoProcsBD.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\obj\Debug\ExecutandoProcsBD.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\obj\Debug\ExecutandoProcsBD.Form1.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\obj\Debug\ExecutandoProcsBD.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\obj\Debug\ExecutandoProcsBD.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\obj\Debug\ExecutandoProcsBD.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\obj\Debug\ExecutandoProcsBD.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\bin\Debug\ExecutandoProcsBD.exe.config
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\obj\Debug\ExecutandoProcsBD.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\obj\Debug\ExecutandoProcsBD.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\bin\Debug\ExecutandoProcsBD.exe.config
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\obj\Debug\ExecutandoProcsBD.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\obj\Debug\ExecutandoProcsBD.pdb
+Z:\AULAS\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\bin\Debug\ExecutandoProcsBD.exe.config
+Z:\AULAS\2017-S2\EC-5 - LP I\ExecutandoProcsBD\ExecutandoProcsBD\obj\Debug\ExecutandoProcsBD.pdb

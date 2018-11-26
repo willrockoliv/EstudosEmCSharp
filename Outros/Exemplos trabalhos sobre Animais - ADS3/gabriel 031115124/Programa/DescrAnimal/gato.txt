@@ -1,0 +1,12 @@
+﻿$1;Reino;Animalia
+$1;Filo;Chordata
+$1;Classe;Mammalia
+$1;Ordem;Carnivora
+$1;Família;Felidae
+$1;Género;Felis
+$1;Espécie;F. silvestris
+$2;Gato
+$3;O gato (Felis silvestris catus), também conhecido como gato caseiro, gato urbano ou $3;gato doméstico, é um animal da família dos felídeos, muito popular como animal de $3;estimação. Ocupando o topo da cadeia alimentar, é um predador natural de diversos $3;animais, como roedores, pássaros, lagartixas e alguns insetos.
+$3;A primeira associação com os humanos da qual se tem notícia ocorreu há cerca de 9.500 $3;anos, mas a domesticação dessa espécie oriunda do continente africano é muito 
+$3;mais antiga. Seu mais primitivo ancestral conhecido é o Miacis, mamífero que viveu há $3;cerca de 40 milhões de anos, no final do período Paleoceno, e que possuía o hábito de $3;caminhar sobre os galhos das árvores. A evolução do gato deu origem ao Dinictis, $3;espécie que já apresentava a maior parte das características presentes nos felinos $3;atuais. A sub-família Felinae, que agrupa os gatos domésticos, surgiu há cerca de $3;12 milhões de anos, expandindo-se a partir da África subsaariana até alcançar as $3;terras do atual Egito.
+$3;Existem cerca de 250 raças de gato-doméstico, cujo peso variável classifica a espécie $3;como animal doméstico de pequeno a médio porte.

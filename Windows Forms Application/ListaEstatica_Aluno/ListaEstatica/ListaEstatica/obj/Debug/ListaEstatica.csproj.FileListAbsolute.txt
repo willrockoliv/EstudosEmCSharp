@@ -1,0 +1,7 @@
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ListaEstatica_Aluno\ListaEstatica\ListaEstatica\bin\Debug\ListaEstatica.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ListaEstatica_Aluno\ListaEstatica\ListaEstatica\bin\Debug\ListaEstatica.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ListaEstatica_Aluno\ListaEstatica\ListaEstatica\obj\Debug\ListaEstatica.csprojResolveAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ListaEstatica_Aluno\ListaEstatica\ListaEstatica\obj\Debug\ListaEstatica.Form1.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ListaEstatica_Aluno\ListaEstatica\ListaEstatica\obj\Debug\ListaEstatica.csproj.GenerateResource.Cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ListaEstatica_Aluno\ListaEstatica\ListaEstatica\obj\Debug\ListaEstatica.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\ListaEstatica_Aluno\ListaEstatica\ListaEstatica\obj\Debug\ListaEstatica.pdb

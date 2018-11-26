@@ -1,0 +1,6 @@
+Z:\William EC II\Algoritmos II\000_Exercicios\Ex26_Ref_Out\Ex26_Ref_Out\bin\Debug\Ex26_Ref_Out.exe.config
+Z:\William EC II\Algoritmos II\000_Exercicios\Ex26_Ref_Out\Ex26_Ref_Out\bin\Debug\Ex26_Ref_Out.exe
+Z:\William EC II\Algoritmos II\000_Exercicios\Ex26_Ref_Out\Ex26_Ref_Out\bin\Debug\Ex26_Ref_Out.pdb
+Z:\William EC II\Algoritmos II\000_Exercicios\Ex26_Ref_Out\Ex26_Ref_Out\obj\Debug\Ex26_Ref_Out.csprojResolveAssemblyReference.cache
+Z:\William EC II\Algoritmos II\000_Exercicios\Ex26_Ref_Out\Ex26_Ref_Out\obj\Debug\Ex26_Ref_Out.exe
+Z:\William EC II\Algoritmos II\000_Exercicios\Ex26_Ref_Out\Ex26_Ref_Out\obj\Debug\Ex26_Ref_Out.pdb

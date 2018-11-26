@@ -1,0 +1,20 @@
+Z:\AULAS\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\obj\Debug\FluxoC aixa.csprojResolveAssemblyReference.cache
+Z:\AULAS\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Form1.resources
+Z:\AULAS\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Properties.Resources.resources
+Z:\AULAS\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\obj\Debug\FluxoC aixa.csproj.GenerateResource.Cache
+Z:\AULAS\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\obj\Debug\FluxoC aixa.csproj.CoreCompileInputs.cache
+Z:\AULAS\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.exe
+Z:\AULAS\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.pdb
+Z:\AULAS\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe.config
+Z:\AULAS\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe
+Z:\AULAS\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe.config
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\obj\Debug\FluxoC aixa.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Form1.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\obj\Debug\FluxoC aixa.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\obj\Debug\FluxoC aixa.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\EX_FluxoCaixaEmpresa\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.pdb

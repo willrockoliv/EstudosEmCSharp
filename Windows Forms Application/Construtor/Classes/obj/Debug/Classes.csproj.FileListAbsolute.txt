@@ -1,0 +1,15 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_5\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_5\Classes\bin\Debug\Classes.dll
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_5\Classes\bin\Debug\Classes.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_5\Classes\obj\Debug\Classes.dll
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_5\Classes\obj\Debug\Classes.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_5 - Construtor\Classes\bin\Debug\Classes.dll
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_5 - Construtor\Classes\bin\Debug\Classes.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_5 - Construtor\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_5 - Construtor\Classes\obj\Debug\Classes.dll
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_5 - Construtor\Classes\obj\Debug\Classes.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_5 - Construtor\Classes\bin\Debug\Classes.dll
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_5 - Construtor\Classes\bin\Debug\Classes.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_5 - Construtor\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_5 - Construtor\Classes\obj\Debug\Classes.dll
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_5 - Construtor\Classes\obj\Debug\Classes.pdb

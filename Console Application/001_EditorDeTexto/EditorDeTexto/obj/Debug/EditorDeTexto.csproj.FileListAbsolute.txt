@@ -1,0 +1,6 @@
+Z:\William EC II\Algoritmos II\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe.config
+Z:\William EC II\Algoritmos II\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe
+Z:\William EC II\Algoritmos II\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.pdb
+Z:\William EC II\Algoritmos II\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csprojResolveAssemblyReference.cache
+Z:\William EC II\Algoritmos II\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.exe
+Z:\William EC II\Algoritmos II\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.pdb

@@ -1,0 +1,110 @@
+Quem ganhou a copa do mundo de 2002| futebol | Brasil | Itália |Peru | Argentina | Brasil
+Quanto é 5+5?| matemática | 10 | 55 | 0 | 5+5 | 10
+Quanto é 3+3?| matemática | 6 | 23 | 0 | 2+3| 6
+Qual o maior inimigo do batman? | desenho | coringa | bozo | fura tripa|superman|coringa
+Quem da jogadora de futebol feminino que mais vezes ganhou o prêmio Bola de Ouro? | futebol | Marta | Cris | Formiga | Marta | Elaine
+Qual jogador ficou foi penalizado em uma Copa do Mundo por agredir outro jogador com uma cabeçada no peito? | futebol | Zidane | Ronaldo | Zidade | Roberto Carlos | Suarez
+Quem é o joador considerado Rei do Futebol? | futebol | Pelé | Messi | Neymar | Pelé | Maradona
+Quanto é 2^3? | matemática | 8 | 6 | 5 | 8 | 10
+Qual é a derivada de 2x^2 + 3 | matemática | 4x | 4x + 3 | 4x | 2x^3 | 5x
+Quanto é a derivada de e^2x | matemática | 2 * e^2x | e^2 | 2x * e | 2 * e^2x | 2 * e
+Melhor jogador do mundo ? | Esportes | Messi | Paulo Baier | Finazzi | Messi | Romero
+Nunca Ganhou Mundial | Esportes | Palmeiras | Rubinho | Palmeiras | Pink e Cerebro | Darth Vader
+Corredor mais lento do esporte | Esportes | Rubinho | Ganso | Rubinho | Felipe Massa | Valentino Rossi 
+Melhor time do Brasil | Esportes | Solteiros | IBIS | Solteiros | Casados | São Paulo 
+Seleção Campeã do Mundial de 2014 | Esportes | Alemanha | Argentina | Espanha | Brasil | China 
+10 + 10 | LUCKY | 20 | 50| 20 | 33 | 40
+10 + 10 | LUCKY | 20 | 50| 20 | 33 | 40
+10 + 10 | LUCKY | 20 | 50| 20 | 33 | 40
+10 + 10 | LUCKY | 20 | 50| 20 | 33 | 40
+10 + 10 | LUCKY | 20 | 50| 20 | 33 | 40
+10 + 10 | LUCKY | 20 | 50| 20 | 33 | 40
+10 + 10 | LUCKY | 20 | 50| 20 | 33 | 40
+Melhor triatleta do brasil (corre, pedala e nada)| Esportes | Robinho | Lucas Lima | Dudu | Robinho | Romero 
+Campeao Mundial de 2000 | Esportes | Ninguem | Gambá | Schumacher | Kelly Slater | Ninguem
+Eliminado pelo Tolima | Esportes | Corinthians | Corinthians | Santos| São Paulo | Parmera 
+Quem recebe o email e nao abre para ler? | FTT2 | Rodrigo | Prudente | Rodrigo | Lotto | Allan 
+Professor que se chama de Professor | FTT2 | Cabrini | Wuo | Cabrini | Calvo | Vianello 
+Quem faz perguntas estranhas na sala? | FTT2 | Jonatas | Rodrigo | Jefferson | Adriano | Patrick 
+1 + 1 | FTT2 | 2| 3 | 4 | 11 | 5 
+5 + 5 | FTT2 | 10 | 10 | 55 | 93 | 94
+10 + 10 | LUCKY | 20 | 50| 20 | 33 | 40
+10 + 10 | LUCKY | 20 | 50| 20 | 33 | 40
+10 + 10 | LUCKY | 20 | 50| 20 | 33 | 40
+10 + 10 | GABRIEL | 20 | 50| 20 | 33 | 40
+10 + 10 | GABRIEL | 20 | 50| 20 | 33 | 40
+10 + 10 | GABRIEL | 20 | 50| 20 | 33 | 40
+10 + 10 | GABRIEL | 20 | 50| 20 | 33 | 40
+10 + 10 | GABRIEL | 20 | 50| 20 | 33 | 40
+10 + 10 | GABRIEL | 20 | 50| 20 | 33 | 40
+10 + 10 | GABRIEL | 20 | 50| 20 | 33 | 40
+10 + 10 | GABRIEL | 20 | 50| 20 | 33 | 40
+10 + 10 | GABRIEL | 20 | 50| 20 | 33 | 40
+10 + 10 | GABRIEL | 20 | 50| 20 | 33 | 40
+10 + 10 | tema1 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema1 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema1 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema1 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema1 | 20 | 50| 20 | 33 | 40
+Só faz gol de Penalty| Esportes | TDA| Cristiano Ronaldo | CR7 | Penaldo | TDA
+Melhor atacante do Brasil | Esportes | Pratto | Borjsta | Kazim | Leandrao | Pratto
+10 + 10 | tema1 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema1 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema1 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema1 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema1 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema2 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema2 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema2 | 20 | 50| 20 | 33 | 40
+Quem trampa na ultragaz na hora da prova? | FTT2 | Matheus | Rodrigo | William | Corotinho | Jonatas 
+Quem veio de Jaú pro mundo? | FTT2 | William | Jefferson | William | Kaique | Leonardo 
+Melhor Mistura da FTT2? | FTT2 | Croquete de Frango | Croquete de Frango | Frango Assado | Bife acebolado | Torta de frango 
+Melhor sobremesa da FTT2? | FTT2 | Torta de maça | Pudim | Sorvete | Torta de maça | Laranja 
+Professor Speak English? | FTT2 | Vianello | Wuo | Vianello | Lamesa | Eduardo 
+10 + 10 | tema2 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema2 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema2 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema2 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema2 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema2 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema2 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema3 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema3 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema3 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema3 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema3 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema3 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema3 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema3 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema3 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema3 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema4 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema4 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema4 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema4 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema5 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema5 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema5 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema5 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema5 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema5 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema5 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema5 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema5 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema5 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema6 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema6 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema6 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema6 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema6 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema4 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema4 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema4 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema4 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema4 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema4 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema6 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema6 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema6 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema6 | 20 | 50| 20 | 33 | 40
+10 + 10 | tema6 | 20 | 50| 20 | 33 | 40

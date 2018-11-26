@@ -1,0 +1,119 @@
+c:\eduardo\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe.config
+c:\eduardo\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe
+c:\eduardo\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.pdb
+c:\eduardo\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csprojResolveAssemblyReference.cache
+c:\eduardo\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Form1.resources
+c:\eduardo\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Properties.Resources.resources
+c:\eduardo\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csproj.GenerateResource.Cache
+c:\eduardo\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.exe
+c:\eduardo\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.pdb
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe.config
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.exe
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.pdb
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Form1.resources
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.pdb
+X:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe.config
+X:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.exe
+X:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.pdb
+X:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe
+X:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.pdb
+X:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Form1.resources
+X:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe.config
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.exe
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.pdb
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.pdb
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Form1.resources
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe.config
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.exe
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.pdb
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.pdb
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Form1.resources
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe.config
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.pdb
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Form1.resources
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.exe
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.pdb
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe.config
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.exe
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.pdb
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.pdb
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Form1.resources
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csproj.GenerateResource.Cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe.config
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csprojResolveAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Form1.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Properties.Resources.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe.config
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Form1.resources
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Form1.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csproj.GenerateResource.Cache
+Z:\AULAS\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe.config
+Z:\AULAS\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.pdb
+Z:\AULAS\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe
+Z:\AULAS\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.pdb
+Z:\AULAS\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csprojResolveAssemblyReference.cache
+Z:\AULAS\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Form1.resources
+Z:\AULAS\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Properties.Resources.resources
+Z:\AULAS\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csproj.GenerateResource.Cache
+Z:\AULAS\2017-S2\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe.config
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Form1.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.pdb
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe.config
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.exe
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\bin\Debug\Mestre-Detalhe.pdb
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Form1.resources
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre_Detalhe.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.exe
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\Mestre-Detalhe\Mestre-Detalhe\obj\Debug\Mestre-Detalhe.pdb

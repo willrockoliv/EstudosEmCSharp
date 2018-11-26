@@ -1,0 +1,32 @@
+C:\Users\082160033\Desktop\TRABALHO N2 EC3\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\082160033\Desktop\TRABALHO N2 EC3\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\082160033\Desktop\TRABALHO N2 EC3\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\082160033\Desktop\TRABALHO N2 EC3\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.frAlbuns.resources
+C:\Users\082160033\Desktop\TRABALHO N2 EC3\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.frCadastro.resources
+C:\Users\082160033\Desktop\TRABALHO N2 EC3\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Telas.frPlaylist.resources
+C:\Users\082160033\Desktop\TRABALHO N2 EC3\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+C:\Users\082160033\Desktop\TRABALHO N2 EC3\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\082160033\Desktop\TRABALHO N2 EC3\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\082160033\Desktop\TRABALHO N2 EC3\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Users\082160033\Desktop\TRABALHO N2 EC3\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Users\082160033\Desktop\TRABALHO N2 EC3\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.frPrincipal.resources
+C:\Users\082160033\Desktop\TRABALHO N2 EC3\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Telas.Playlist.frCriarPlaylist.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\obj\Debug\MediaPlayer.frAlbuns.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\obj\Debug\MediaPlayer.frCadastro.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\obj\Debug\MediaPlayer.frPrincipal.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\obj\Debug\MediaPlayer.Telas.Playlist.frCriarPlaylist.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\obj\Debug\MediaPlayer.Telas.frPlaylist.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Trabalhos\TRABALHO N2 EC3\Nova pasta\MediaPlayer_0.1\MediaPlayer\obj\Debug\MediaPlayer.Telas.frPesquisa.resources

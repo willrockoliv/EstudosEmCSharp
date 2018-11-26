@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3F1E0AA6-DF35-4B33-B1B1-6AAD151B012F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CadFerramentas</RootNamespace>
+    <AssemblyName>CadFerramentas</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\ConexaoBD.cs" />
+    <Compile Include="DAO\FabricanteDAO.cs" />
+    <Compile Include="DAO\FerramentaDAO.cs" />
+    <Compile Include="Enumeradores\EnumModoOperacao.cs" />
+    <Compile Include="frCadFabricante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frCadFabricante.Designer.cs">
+      <DependentUpon>frCadFabricante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frCadFerramenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frCadFerramenta.Designer.cs">
+      <DependentUpon>frCadFerramenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frconsultaFabricante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frconsultaFabricante.Designer.cs">
+      <DependentUpon>frconsultaFabricante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frConsultaFerramenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frConsultaFerramenta.Designer.cs">
+      <DependentUpon>frConsultaFerramenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frMenu.Designer.cs">
+      <DependentUpon>frMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Metodos.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VO\FabricanteVO.cs" />
+    <Compile Include="VO\FerramentaVO.cs" />
+    <EmbeddedResource Include="frCadFabricante.resx">
+      <DependentUpon>frCadFabricante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frCadFerramenta.resx">
+      <DependentUpon>frCadFerramenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frconsultaFabricante.resx">
+      <DependentUpon>frconsultaFabricante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frConsultaFerramenta.resx">
+      <DependentUpon>frConsultaFerramenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frMenu.resx">
+      <DependentUpon>frMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\ferramentas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\engrenagem.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

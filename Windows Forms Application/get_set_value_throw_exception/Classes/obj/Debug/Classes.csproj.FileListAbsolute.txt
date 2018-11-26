@@ -1,0 +1,5 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_3\Classes\bin\Debug\Classes.dll
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_3\Classes\bin\Debug\Classes.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_3\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_3\Classes\obj\Debug\Classes.dll
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_3\Classes\obj\Debug\Classes.pdb

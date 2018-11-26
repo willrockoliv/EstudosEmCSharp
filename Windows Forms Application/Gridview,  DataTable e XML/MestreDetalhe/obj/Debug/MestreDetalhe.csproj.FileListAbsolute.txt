@@ -1,0 +1,85 @@
+c:\Eduardo\TecProg\MestreDetalhe\MestreDetalhe\MestreDetalhe\bin\Debug\MestreDetalhe.exe
+c:\Eduardo\TecProg\MestreDetalhe\MestreDetalhe\MestreDetalhe\bin\Debug\MestreDetalhe.pdb
+c:\Eduardo\TecProg\MestreDetalhe\MestreDetalhe\MestreDetalhe\obj\Debug\ResolveAssemblyReference.cache
+c:\Eduardo\TecProg\MestreDetalhe\MestreDetalhe\MestreDetalhe\obj\Debug\MestreDetalhe.Form1.resources
+c:\Eduardo\TecProg\MestreDetalhe\MestreDetalhe\MestreDetalhe\obj\Debug\MestreDetalhe.Properties.Resources.resources
+c:\Eduardo\TecProg\MestreDetalhe\MestreDetalhe\MestreDetalhe\obj\Debug\MestreDetalhe.csproj.GenerateResource.Cache
+c:\Eduardo\TecProg\MestreDetalhe\MestreDetalhe\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+c:\Eduardo\TecProg\MestreDetalhe\MestreDetalhe\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+X:\Professores\Prof. Eduardo\2011-S2\TECPROG\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+X:\Professores\Prof. Eduardo\2011-S2\TECPROG\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+W:\Professores\Prof. Eduardo\2012-S1\TecProg\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+W:\Professores\Prof. Eduardo\2012-S1\TecProg\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+W:\Professores\Prof. Eduardo\2012-S1\TecProg\DataTable e GridView\MestreDetalhe\bin\Debug\MestreDetalhe.exe
+W:\Professores\Prof. Eduardo\2012-S1\TecProg\DataTable e GridView\MestreDetalhe\bin\Debug\MestreDetalhe.pdb
+W:\Professores\Prof. Eduardo\2012-S1\TecProg\DataTable e GridView\MestreDetalhe\obj\Debug\ResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2012-S1\TecProg\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.Form1.resources
+W:\Professores\Prof. Eduardo\2012-S1\TecProg\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2012-S1\TecProg\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2012-S1\TecProg\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+X:\Professores\Prof. Eduardo\2012-S1\TecProg\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+X:\Professores\Prof. Eduardo\2012-s2\TecProg\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+X:\Professores\Prof. Eduardo\2012-s2\TecProg\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+W:\Professores\Prof. Eduardo\2013-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+W:\Professores\Prof. Eduardo\2013-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+X:\Professores\Prof. Eduardo\2013-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+X:\Professores\Prof. Eduardo\2013-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+W:\Professores\Prof. Eduardo\2013-S1\Tecprog\DataTable e GridView\MestreDetalhe\bin\Debug\MestreDetalhe.exe
+W:\Professores\Prof. Eduardo\2013-S1\Tecprog\DataTable e GridView\MestreDetalhe\bin\Debug\MestreDetalhe.pdb
+W:\Professores\Prof. Eduardo\2013-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.Form1.resources
+W:\Professores\Prof. Eduardo\2013-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2013-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2013-S1\Tecprog\DataTable e GridView\MestreDetalhe\bin\Debug\MestreDetalhe.exe
+X:\Professores\Prof. Eduardo\2013-S1\Tecprog\DataTable e GridView\MestreDetalhe\bin\Debug\MestreDetalhe.pdb
+X:\Professores\Prof. Eduardo\2013-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2013-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.Form1.resources
+X:\Professores\Prof. Eduardo\2013-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2013-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\DataTable e GridView\MestreDetalhe\bin\Debug\MestreDetalhe.exe
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\DataTable e GridView\MestreDetalhe\bin\Debug\MestreDetalhe.pdb
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.Form1.resources
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\DataTable e GridView\MestreDetalhe\bin\Debug\MestreDetalhe.exe
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\DataTable e GridView\MestreDetalhe\bin\Debug\MestreDetalhe.pdb
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.Form1.resources
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+W:\Professores\Prof. Eduardo\2014-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+W:\Professores\Prof. Eduardo\2014-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+W:\Professores\Prof. Eduardo\2014-S1\Tecprog\DataTable e GridView\MestreDetalhe\bin\Debug\MestreDetalhe.exe
+W:\Professores\Prof. Eduardo\2014-S1\Tecprog\DataTable e GridView\MestreDetalhe\bin\Debug\MestreDetalhe.pdb
+W:\Professores\Prof. Eduardo\2014-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2014-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.Form1.resources
+W:\Professores\Prof. Eduardo\2014-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2014-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.csproj.GenerateResource.Cache
+Z:\AULAS\2014-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+Z:\AULAS\2014-S1\Tecprog\DataTable e GridView\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\Mestre-Detalhe\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\Gridview,  DataTable e XML\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+W:\Professores\Prof. Eduardo\2014-S2\TecProg\Gridview,  DataTable e XML\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+X:\Professores\Prof. Eduardo\2014-S2\TecProg\Gridview,  DataTable e XML\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+X:\Professores\Prof. Eduardo\2014-S2\TecProg\Gridview,  DataTable e XML\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\Gridview,  DataTable e XML\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\Gridview,  DataTable e XML\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Gridview,  DataTable e XML\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Gridview,  DataTable e XML\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Gridview,  DataTable e XML\MestreDetalhe\bin\Debug\MestreDetalhe.exe
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Gridview,  DataTable e XML\MestreDetalhe\bin\Debug\MestreDetalhe.pdb
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Gridview,  DataTable e XML\MestreDetalhe\obj\Debug\MestreDetalhe.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Gridview,  DataTable e XML\MestreDetalhe\obj\Debug\MestreDetalhe.Form1.resources
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Gridview,  DataTable e XML\MestreDetalhe\obj\Debug\MestreDetalhe.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2015-S1\TecProg\Gridview,  DataTable e XML\MestreDetalhe\obj\Debug\MestreDetalhe.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\Gridview,  DataTable e XML\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+W:\Professores\Prof. Eduardo\2015-S2\TecProg\Gridview,  DataTable e XML\MestreDetalhe\obj\Debug\MestreDetalhe.pdb
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\Gridview,  DataTable e XML\MestreDetalhe\obj\Debug\MestreDetalhe.exe
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\Gridview,  DataTable e XML\MestreDetalhe\obj\Debug\MestreDetalhe.pdb

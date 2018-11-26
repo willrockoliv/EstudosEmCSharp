@@ -1,0 +1,21 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10\EX_10\bin\Debug\EX_10.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10\EX_10\bin\Debug\EX_10.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10\EX_10\bin\Debug\EX_10.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10\EX_10\obj\Debug\EX_10.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10\EX_10\obj\Debug\EX_10.Form1.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10\EX_10\obj\Debug\EX_10.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10\EX_10\obj\Debug\EX_10.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10\EX_10\obj\Debug\EX_10.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10\EX_10\obj\Debug\EX_10.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10 - Lista\EX_10\bin\Debug\EX_10.exe.config
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10 - Lista\EX_10\obj\Debug\EX_10.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10 - Lista\EX_10\obj\Debug\EX_10.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10 - Lista\EX_10\obj\Debug\EX_10.csprojResolveAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10 - Lista\EX_10\obj\Debug\EX_10.Form1.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10 - Lista\EX_10\obj\Debug\EX_10.Properties.Resources.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10 - Lista\EX_10\obj\Debug\EX_10.csproj.GenerateResource.Cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10 - Lista\EX_10\bin\Debug\EX_10.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_10 - Lista\EX_10\bin\Debug\EX_10.pdb
+C:\Users\082160033\Desktop\EX_10 - Lista\EX_10\bin\Debug\EX_10.exe.config
+C:\Users\082160033\Desktop\EX_10 - Lista\EX_10\obj\Debug\EX_10.exe
+C:\Users\082160033\Desktop\EX_10 - Lista\EX_10\obj\Debug\EX_10.pdb

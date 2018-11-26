@@ -1,0 +1,10 @@
+C:\eduardo\LP1\CadTecnicoDaoVOPadrao\CadTecnicoDaoVOPadrao\bin\Debug\CadTecnicoDaoVOPadrao.exe.config
+C:\eduardo\LP1\CadTecnicoDaoVOPadrao\CadTecnicoDaoVOPadrao\bin\Debug\CadTecnicoDaoVOPadrao.exe
+C:\eduardo\LP1\CadTecnicoDaoVOPadrao\CadTecnicoDaoVOPadrao\bin\Debug\CadTecnicoDaoVOPadrao.pdb
+C:\eduardo\LP1\CadTecnicoDaoVOPadrao\CadTecnicoDaoVOPadrao\obj\Debug\CadTecnicoDaoVOPadrao.csprojAssemblyReference.cache
+C:\eduardo\LP1\CadTecnicoDaoVOPadrao\CadTecnicoDaoVOPadrao\obj\Debug\CadTecnicoDaoVOPadrao.Properties.Resources.resources
+C:\eduardo\LP1\CadTecnicoDaoVOPadrao\CadTecnicoDaoVOPadrao\obj\Debug\CadTecnicoDaoVOPadrao.csproj.GenerateResource.cache
+C:\eduardo\LP1\CadTecnicoDaoVOPadrao\CadTecnicoDaoVOPadrao\obj\Debug\CadTecnicoDaoVOPadrao.csproj.CoreCompileInputs.cache
+C:\eduardo\LP1\CadTecnicoDaoVOPadrao\CadTecnicoDaoVOPadrao\obj\Debug\CadTecnicoDaoVOPadrao.exe
+C:\eduardo\LP1\CadTecnicoDaoVOPadrao\CadTecnicoDaoVOPadrao\obj\Debug\CadTecnicoDaoVOPadrao.pdb
+C:\eduardo\LP1\CadTecnicoDaoVOPadrao\CadTecnicoDaoVOPadrao\obj\Debug\CadTecnicoDaoVOPadrao.Form1.resources

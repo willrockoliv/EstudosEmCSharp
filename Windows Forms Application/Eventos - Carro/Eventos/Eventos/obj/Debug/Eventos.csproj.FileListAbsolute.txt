@@ -1,0 +1,9 @@
+Z:\AULAS\2014-S2\POO\Eventos - Carro\Eventos\Eventos\bin\Debug\Eventos.exe.config
+Z:\AULAS\2014-S2\POO\Eventos - Carro\Eventos\Eventos\bin\Debug\Eventos.exe
+Z:\AULAS\2014-S2\POO\Eventos - Carro\Eventos\Eventos\bin\Debug\Eventos.pdb
+Z:\AULAS\2014-S2\POO\Eventos - Carro\Eventos\Eventos\obj\Debug\Eventos.csprojResolveAssemblyReference.cache
+Z:\AULAS\2014-S2\POO\Eventos - Carro\Eventos\Eventos\obj\Debug\Eventos.Form1.resources
+Z:\AULAS\2014-S2\POO\Eventos - Carro\Eventos\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+Z:\AULAS\2014-S2\POO\Eventos - Carro\Eventos\Eventos\obj\Debug\Eventos.csproj.GenerateResource.Cache
+Z:\AULAS\2014-S2\POO\Eventos - Carro\Eventos\Eventos\obj\Debug\Eventos.exe
+Z:\AULAS\2014-S2\POO\Eventos - Carro\Eventos\Eventos\obj\Debug\Eventos.pdb

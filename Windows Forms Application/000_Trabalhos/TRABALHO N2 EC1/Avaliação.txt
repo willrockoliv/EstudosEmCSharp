@@ -1,0 +1,341 @@
+- Adriano  
+- Nota:   9,0
+
+O tempo é para responder o Quiz e não por pergunta
+O padrão de comentários está fora do padrão do C#, como ensinado em aula
+Catch  sem tratamento
+
+
+
+- ALLAN SUEDER RODRIGUES 
+- Nota: 6,0
+
+Entrega depois do prazo
+AC/DC - devia ganhar mais 3 pontos :)
+Há poucos métodos
+Faltou um TRIM na hora de comparar a resposta correta, o que, dependendo do arquivo QUIZ.TXT não vai funcionar.
+O tempo é para responder o Quiz e não por pergunta
+
+
+
+- BRUNO BARRETO DE AMORIM 
+- Nota: 6,0
+
+Há problemas de identação
+Falta de controle de tempo
+Praticamente não há métodos e os que existem não estão comentados
+
+
+
+CHRISTIAN DO NASCIMENTO PRIMANI
+- Nota:  7,0
+
+Entrega depois do prazo
+O padrão de comentários está fora do padrão do C#, como ensinado em aula
+Não funciona se utilizarmos o teclado numérico para responder
+
+
+
+DANIEL DA SILVA SHAMIS 
+- Nota:  6,0
+
+Há poucos métodos
+O jogo não funciona corretamente se as perguntas não estiverem organizadas por tema. 
+Ele apresenta temas repetidos e perguntas do tema que não foi escolhido.
+
+
+
+
+
+DIEGO DE PAULA 
+- Nota:   9,0
+
+Métodos sem comentários
+
+
+
+
+
+EDMILSON FRANCINO DA SILVA FILHO 
+- Nota:   8,0
+
+O jogo não funciona corretamente se as perguntas não estiverem organizadas por tema. Apresentou o mesmo tema de forma repetida.
+Faltou um TRIM na hora de comparar a resposta correta, o que, dependendo do arquivo QUIZ.TXT não vai funcionar.
+
+
+
+ELOAH KAORI NOGUCHI .
+- Nota:   6,0
+
+O método jogar está grande demais
+Há métodos sem comentário
+Qdo ele solicita a resposta, ele aceita inclusive ENTER. mas não computa como errada.
+Não dá para dar uma resposta de 2 dígitos na qtde de perguntas para jogar
+Não foi implementado o controle do tempo
+
+
+
+GABRIEL DEMARCHI MAIA
+- Nota:  8,0
+
+Há métodos sem comentário
+O jogo não funciona corretamente se as perguntas não estiverem organizadas por tema. Ele apresenta temas repetidos.
+Algumas respostas, mesmo corretas, não são computadas, talvez pelo problema relatado abaixo. 
+O algoritmo de retirar dados do arquivo está errado no momento que faz os substrings. Ele está comendo letras.
+Está bonito, mas de nada adianta se não funciona direito.
+
+
+
+
+GABRIEL RODRIGUES FAUSTO
+- Nota: 8,0
+
+O padrão de comentários está fora do padrão do C#, como ensinado em aula
+Está mostrando tema repetido
+Não está computando as respostas corretamente, talvez tenha faltado um Trim na comparação...
+
+
+
+GUSTAVO LOTTO CARDOSO
+- Nota:  8,0
+O método main está muito grande
+Está apresentando temas repetidos
+Exibir mensagens de erro pertinentes
+
+
+
+
+GUSTAVO MESQUITA FRANCA
+- Nota:  9,0
+Está apresentando temas repetidos
+Exibir mensagens de erro pertinentes
+
+
+
+IGOR MARTINS FERREIRA
+- Nota:  0
+
+
+
+
+
+JEFFERSON VIEIRA SANTOS DO CARMO
+- Nota:   0
+
+
+JOAO VICTOR FANCHINI DE AZEVEDO
+- Nota:  5,0
+Não rodou com o meu arquivo
+Está exibindo temas repetidos
+O programa está com erro, parando em uma exceção e fechando. Não consegui rodá-lo, mesmo com o seu arquivo. Coloquei "desenho" com 5 perguntas.
+Método main muito grande
+
+
+
+JONATAS PRADO DOS SANTOS 
+- Nota:  9,0
+
+Há métodos sem comentário
+Método main muito grande
+
+
+JONATHAN GUEDES BEZERRA
+- Nota:  6,0
+
+Está mostrando temas repetidos
+Há poucos métodos e os existentes estão sem comentários
+Está aceitando alternativas que não existem, como F
+Não está apresentando a resposta dada pelo usuário
+Mesmo acertando o sistema não computa como acerto
+
+
+
+
+KAIQUE CIRTO MAFRA
+- Nota:  10,0
+
+
+
+LEO DE OLIVEIRA CARATIN
+- Nota:  10,0
+!!!!!!!!!!!
+
+
+LEONARDO DE OLIVEIRA SIMONATO
+- Nota:  
+
+
+LETICIA BATISTA LIMA
+- Nota:  8,0
+
+Não está apresentando os temas de forma distinta.
+Não funciona com outro arquivo de quiz sem ser o seu
+
+
+LUCAS FERNANDO FAVORETTO BARRETO
+- Nota:  4,0
+
+Métodos?
+Falta controle de exceção
+Não funciona com outro arquivo de quiz
+está apresentando temas repetidos
+Com o seu arquivo não funciona
+
+
+
+
+LUCAS OLIVEIRA BISPO
+- Nota:  8,0
+
+Métodos sem comentário
+Método "jogo" grande demais
+Tenho 10 perguntas do tema "jogos",  mas ele só me sugeriu 9.
+Posso ter até 100 perguntas, e não apenas 9 perguntas...
+
+
+
+
+
+
+
+MARCUS VINICIUS CITOLINO
+- Nota: 9,0
+
+Nem todos os métodos possuem comentário
+Método main grande demais 
+ 
+
+
+
+MATHEUS BOARETO
+- Nota:  10,0
+
+
+NATALIA ALVES STRASSACAPA
+- Nota:  
+
+Está mostrando temas repetidos
+A resposta deve ser dada por uma alternativa, e não pelo texto 
+Ele não limita as alternativas, sendo assim posso digitar qualquer coisa
+Métodos estão sem comentário
+Método main grande demais
+Sem controle de tempo
+
+
+
+
+
+PATRICK NORIYUKI GOIA
+- Nota:  9,0
+
+
+Método main grande demais
+
+
+
+
+
+PEDRO HENRIQUE DOS SANTOS SILVA
+- Nota:  6,0
+
+Falta comentário nos métodos
+Está repetindo temas, quando uso outro arquivo de quiz.txt difente do enviado.
+Mesmo respondendo certo ele considera como errado. Faltou um Trim na comparação da resposta certa.
+Sem controle de tempo
+
+
+
+RODRIGO MAESTRO ALVES
+- Nota:  7,0
+
+Há poucos métodos e os existentes estão sem comentário
+Está repetindo temas, quando uso outro arquivo de quiz.txt difente do enviado.
+
+
+
+
+SABRINA ROBERTA MONTEIRO SILVA
+- Nota: 6,0
+Método main grande demais
+Se eu errar na digiração da opção inicial, não consigo mais prosseguir
+com um arquivo diferente do seu, está dizendo que há zero perguntas sendo que há 10
+Mesmo eu acertando ele considera como errado. Pode ter faltado um Trim na hora de comparar as respostas
+Falta o controle do tempo
+ 
+
+
+
+THAINA FRANCA CHAVES DAMASIO
+- Nota:  10,0
+
+
+
+THALES DA SILVA NEVES
+- Nota:  8,0
+Está repetindo temas, quando uso outro arquivo de quiz.txt difente do enviado.
+Mesmo eu acertando ele considera como errado. Pode ter faltado um Trim na hora de comparar as respostas
+Faltou: Exiba também quantas perguntas o usuário acertou e quantas ele errou
+Obs: há semelhanças demais para o meu gosto com o trabalho do aluno Ygor...
+
+
+
+
+THIAGO NUNES PEREIRA
+
+- Nota:  0
+O programa enviado não é o quiz
+
+
+
+VINICIUS DE SOUSA ROSA
+
+- Nota:  6,5
+
+Está repetindo temas, quando uso outro arquivo de quiz.txt difente do enviado.
+Mesmo eu acertando ele considera como errado. Pode ter faltado um Trim na hora de comparar as respostas
+Falta o controle do tempo
+
+
+
+
+
+VINICIUS NASCIMENTO SILVA
+- Nota:  6,0
+
+O padrão de comentários está fora do padrão do C#, como ensinado em aula
+Temas fixos!?!?!?!?
+Está calculando errado a quantidade de perguntas do tema
+Está dando exceção, não consigo executar a aplicação até o final
+Só funciona se eu usar o arquivo quiz que veio com a app.
+
+
+
+VINICIUS SENA RIBEIRO DE CARVALHO
+
+- Nota:  10,0
+
+
+
+WILLIAM ROCHA DE OLIVEIRA
+- Nota:  9,0
+
+Está contabilizando de forma errada a quantidade de perguntas do tema quando uso outro arquivo
+
+
+
+YGOR DE PIERI
+- Nota: 3,0
+Entrega depois do prazo
+Falta o controle do tempo
+Falta comentário nos métodos
+Faltou: Exiba também quantas perguntas o usuário acertou e quantas ele errou
+Está repetindo temas, quando uso outro arquivo de quiz.txt difente do enviado.
+Mesmo eu acertando ele considera como errado. Pode ter faltado um Trim na hora de comparar as respostas
+Obs: há semelhanças demais para o meu gosto com o trabalho do aluno Thales...
+
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Transactions;
+
+namespace Mestre_Detalhe
+{
+    static class PedidoDAO
+    {
+        public static void Insere(PedidoVO pedido)
+        {
+            //transações
+            //https://msdn.microsoft.com/pt-br/library/system.transactions.transactionscope(v=vs.110).aspx
+            // É necessário adicionar a ref. System.Transactions
+
+            using (TransactionScope transacao = new TransactionScope()) // início da transação
+            {
+                string sql = "insert into pedido (pedidoId, clienteId, data) values " +
+                         "(@pedidoId, @clienteid, @data)";
+                MetodosBD.ExecutaSQL(sql, CriaParametros(pedido));
+
+                foreach(PedidoItemVO item in pedido.ItensDoPedido)                
+                   PedidoItemDAO.InsereItemPedido(item);
+
+                transacao.Complete(); // efetua o commit. Se der uma exception neste código, ou ele não passar por esta linha, será considerado rollback
+            }
+        }
+
+
+        private static SqlParameter[] CriaParametros(PedidoVO pedido)
+        {
+            SqlParameter[] parametros = new SqlParameter[3];
+            parametros[0] = new SqlParameter("pedidoId", pedido.Id);
+            parametros[1] = new SqlParameter("clienteId", pedido.ClienteId);
+            parametros[2] = new SqlParameter("data", pedido.Data);            
+            return parametros;
+        }
+    }
+}

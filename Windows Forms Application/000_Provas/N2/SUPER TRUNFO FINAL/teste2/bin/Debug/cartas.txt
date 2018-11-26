@@ -1,0 +1,24 @@
+0 | 3B | O JAÚ | 100 | 80 | 10 | 20 | 50 | \Imagens\Cartas\25.jpg
+1 | 2B | IGOR DAS NOVINHA | 90 | 50 | 20 | 80 | 60 | \Imagens\Cartas\1.gif
+2 | 5A | FELIZ MAS PUTO | 30 | 70 | 80 | 70 | 60 | \Imagens\Cartas\2.jpg
+3 | 4B | MUITO LOKO | 10 | 20 | 20 | 30 | 90 | \Imagens\Cartas\3.jpg
+4 | 7D | DIDICO DA PONTE | 100 | 60 | 40 | 50 | 10 | \Imagens\Cartas\4.jpeg
+5 | 1D | PERGUNTADO | 20 | 90 | 50 | 60 | 70 | \Imagens\Cartas\5.jpeg
+6 | 7C | GAROTO TINDER | 20 | 40 | 30 | 60 | 50 | \Imagens\Cartas\6.jpeg
+7 | 6D | 5 É 10 | 40 | 30 | 20 | 100 | 40 | \Imagens\Cartas\7.jpeg
+8 | 2C | TORTA DE MAÇA | 50 | 100 | 20 | 40 | 60 | \Imagens\Cartas\8.jpeg
+9 | 5C | OLHOS VERMELHOS | 30 | 40 | 100 | 50 | 20 | \Imagens\Cartas\9.JPG
+10 | 1C | AVISTEI A NOVINHA NO GRAU | 100 | 30 | 10 | 70 | 40 | \Imagens\Cartas\10.JPG
+11 | 6C | CADÊ O VIOLÃO??? | 20 | 40 | 30 | 60 | 50 | \Imagens\Cartas\27.JPG
+12 | 4D | $$$$$$ | 40 | 50 | 20 | 50 | 40 | \Imagens\Cartas\26.jpg
+13 | 4C | 2ª AULA | 50 | 40 | 30 | 60 | 30 | \Imagens\Cartas\28.jpg
+14 | 2A | SHERMINATOR | 40 | 30 | 20 | 50 | 30 | \Imagens\Cartas\29.jpg
+15 | 8D | ALADDIN | 40 | 30 | 20 | 50 | 40 | \Imagens\Cartas\30.jpg
+16 | 1A | EU E MAIS 15 | 50 | 40 | 30 | 60 | 20 | \Imagens\Cartas\31.jpg
+17 | 4A | MR CARTOLA | 30 | 40 | 20 | 50 | 40 | \Imagens\Cartas\32.jpg
+18 | 5D | PRIMEIRO LUGAR | 40 | 30 | 20 | 60 | 40 | \Imagens\Cartas\33.jpg
+19 | 1B | CAIÇARA | 40 | 30 | 30 | 60 | 50 | \Imagens\Cartas\34.jpg
+20 | 6A | LELE | 50 | 30 | 60 | 40 | 30 | \Imagens\Cartas\35.jpg
+21 | 3C | POLIMONIO | 50 | 40 | 10 | 60 | 100 | \Imagens\Cartas\36.jpg
+22 | 8B | Dani | 50 | 20 | 80 | 10 | 50 | \Imagens\Cartas\37.jpg
+23 | 7B | SUPER TRUNFO | 100 | 100 | 100 | 100 | 100 | \Imagens\Cartas\38.png

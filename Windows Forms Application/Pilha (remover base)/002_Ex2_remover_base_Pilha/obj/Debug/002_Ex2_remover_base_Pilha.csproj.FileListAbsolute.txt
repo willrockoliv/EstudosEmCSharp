@@ -1,0 +1,10 @@
+C:\Users\William.Rocha\Desktop\002_Ex2_remover_base_Pilha\002_Ex2_remover_base_Pilha\bin\Debug\002_Ex2_remover_base_Pilha.exe.config
+C:\Users\William.Rocha\Desktop\002_Ex2_remover_base_Pilha\002_Ex2_remover_base_Pilha\bin\Debug\002_Ex2_remover_base_Pilha.exe
+C:\Users\William.Rocha\Desktop\002_Ex2_remover_base_Pilha\002_Ex2_remover_base_Pilha\bin\Debug\002_Ex2_remover_base_Pilha.pdb
+C:\Users\William.Rocha\Desktop\002_Ex2_remover_base_Pilha\002_Ex2_remover_base_Pilha\bin\Debug\ClassLibrary.dll
+C:\Users\William.Rocha\Desktop\002_Ex2_remover_base_Pilha\002_Ex2_remover_base_Pilha\bin\Debug\ClassLibrary.pdb
+C:\Users\William.Rocha\Desktop\002_Ex2_remover_base_Pilha\002_Ex2_remover_base_Pilha\obj\Debug\002_Ex2_remover_base_Pilha.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\002_Ex2_remover_base_Pilha\002_Ex2_remover_base_Pilha\obj\Debug\002_Ex2_remover_base_Pilha.exe
+C:\Users\William.Rocha\Desktop\002_Ex2_remover_base_Pilha\002_Ex2_remover_base_Pilha\obj\Debug\002_Ex2_remover_base_Pilha.pdb
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Exercicios\001_Exercícios_Estr_Dados\002_Ex2_remover_base_Pilha\002_Ex2_remover_base_Pilha\obj\Debug\002_Ex2_remover_base_Pilha.exe
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Exercicios\001_Exercícios_Estr_Dados\002_Ex2_remover_base_Pilha\002_Ex2_remover_base_Pilha\obj\Debug\002_Ex2_remover_base_Pilha.pdb

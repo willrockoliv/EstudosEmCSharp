@@ -1,0 +1,13 @@
+Agenda telefônica.
+
+Nome
+Telefone Celular
+
+create table Agenda
+( codigo int not null primary key,
+   nome varchar(100) not null,
+   telefone varchar(100) not null
+);
+
+Fazer o crud com navegação, completo.
+Não precisa separar em 2 projetos, pode fazer tudo em um único projeto.

@@ -1,0 +1,7 @@
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Fila_Dinamica\FilaCircularEstatica\bin\Debug\FilaCircularEstatica.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Fila_Dinamica\FilaCircularEstatica\bin\Debug\FilaCircularEstatica.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Fila_Dinamica\FilaCircularEstatica\obj\Debug\FilaCircularEstatica.csprojResolveAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Fila_Dinamica\FilaCircularEstatica\obj\Debug\FilaCircularEstatica.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Fila_Dinamica\FilaCircularEstatica\obj\Debug\FilaCircularEstatica.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Fila_Dinamica\FilaCircularEstatica\obj\Debug\FilaCircularEstatica.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Fila_Dinamica\FilaCircularEstatica\obj\Debug\FilaCircularEstatica.pdb

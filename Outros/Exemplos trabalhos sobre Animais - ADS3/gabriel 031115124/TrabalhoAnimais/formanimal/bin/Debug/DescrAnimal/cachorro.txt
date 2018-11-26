@@ -1,0 +1,13 @@
+﻿$1;Reino; Animalia 
+$1;Filo; Chordata 
+$1;Classe; Mammalia 
+$1;Ordem; Carnivora 
+$1;Subordem; Caniformia 
+$1;Família; Canidae 
+$1;Género; Canis 
+$1;Espécie; C. lupus 
+$1;Subespécie; C. l. familiaris
+$2;Cachorro
+$3;O cão (Canis lupus familiaris), no Brasil também chamado de cachorro, é um
+$3;mamífero canídeo e talvez o mais antigo animal domesticado pelo ser humano. Teorias $3;postulam que surgiu do lobo cinzento no continente asiático há mais de 100 000 anos. $3;Ao longo dos séculos, através da domesticação, o ser humano realizou uma seleção $3;artificial dos cães por suas aptidões, características físicas ou tipos de $3;comportamentos. O resultado foi uma grande diversidade de raças caninas, as quais $3;variam em pelagem e tamanho dentro de suas próprias raças, atualmente classificadas $3;em diferentes grupos ou categorias. As designações vira-lata (no Brasil) ou rafeiro $3;(em Portugal) são dadas aos cães sem raça definida ou mestiços descendentes.
+$3;Com expectativa de vida que varia entre dez e vinte anos, o cão é um animal social $3;que, na maioria das vezes, aceita o seu dono como o "chefe da matilha" e possui $3;várias características que o tornam de grande utilidade para o homem. Possui $3;excelente olfato e audição, é bom caçador e corredor vigoroso, relativamente dócil e $3;leal, inteligente e com boa capacidade de aprendizagem. Deste modo, o cão pode ser $3;adestrado para executar um grande número de tarefas úteis, como um cão de caça, de $3;guarda ou pastor de rebanhos, por exemplo. Assim como o ser humano, também é vítima $3;de doenças como o resfriado, a depressão e o mal de Alzheimer, bem como das $3;características do envelhecimento, como problemas de visão e audição, artrite e $3;mudanças de humor.

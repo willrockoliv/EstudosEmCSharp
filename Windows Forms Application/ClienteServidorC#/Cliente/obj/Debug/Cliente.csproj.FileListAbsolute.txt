@@ -1,0 +1,22 @@
+C:\eduardo\ADS5\Servidor\Cliente\bin\Debug\Cliente.exe.config
+C:\eduardo\ADS5\Servidor\Cliente\bin\Debug\Cliente.exe
+C:\eduardo\ADS5\Servidor\Cliente\bin\Debug\Cliente.pdb
+C:\eduardo\ADS5\Servidor\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\eduardo\ADS5\Servidor\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\eduardo\ADS5\Servidor\Cliente\obj\Debug\Cliente.exe
+C:\eduardo\ADS5\Servidor\Cliente\obj\Debug\Cliente.pdb
+C:\eduardo\ADS5\Servidor\Cliente\obj\Debug\Cliente.frCliente.resources
+C:\eduardo\ADS5\Servidor\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\eduardo\ADS5\Servidor\Cliente\bin\Debug\Bibliotecas.dll
+C:\eduardo\ADS5\Servidor\Cliente\bin\Debug\Bibliotecas.pdb
+W:\Professores\Prof. Eduardo\ClienteServidorC#\Cliente\bin\Debug\Cliente.exe.config
+W:\Professores\Prof. Eduardo\ClienteServidorC#\Cliente\bin\Debug\Cliente.exe
+W:\Professores\Prof. Eduardo\ClienteServidorC#\Cliente\bin\Debug\Cliente.pdb
+W:\Professores\Prof. Eduardo\ClienteServidorC#\Cliente\bin\Debug\Bibliotecas.dll
+W:\Professores\Prof. Eduardo\ClienteServidorC#\Cliente\bin\Debug\Bibliotecas.pdb
+W:\Professores\Prof. Eduardo\ClienteServidorC#\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\ClienteServidorC#\Cliente\obj\Debug\Cliente.frCliente.resources
+W:\Professores\Prof. Eduardo\ClienteServidorC#\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\ClienteServidorC#\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\ClienteServidorC#\Cliente\obj\Debug\Cliente.exe
+W:\Professores\Prof. Eduardo\ClienteServidorC#\Cliente\obj\Debug\Cliente.pdb

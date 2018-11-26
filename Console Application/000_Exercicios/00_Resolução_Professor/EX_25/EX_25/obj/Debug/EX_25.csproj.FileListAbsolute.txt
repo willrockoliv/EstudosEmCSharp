@@ -1,0 +1,6 @@
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_25\EX_25\bin\Debug\EX_25.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_25\EX_25\bin\Debug\EX_25.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_25\EX_25\bin\Debug\EX_25.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_25\EX_25\obj\Debug\EX_25.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_25\EX_25\obj\Debug\EX_25.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_25\EX_25\obj\Debug\EX_25.pdb

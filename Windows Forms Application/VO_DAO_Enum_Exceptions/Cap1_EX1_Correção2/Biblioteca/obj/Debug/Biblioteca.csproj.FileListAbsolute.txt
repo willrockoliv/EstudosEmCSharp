@@ -1,0 +1,18 @@
+C:\EDUARDO\LP1\CadAlunosBD1\Biblioteca\bin\Debug\Biblioteca.dll
+C:\EDUARDO\LP1\CadAlunosBD1\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\EDUARDO\LP1\CadAlunosBD1\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\EDUARDO\LP1\CadAlunosBD1\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\EDUARDO\LP1\CadAlunosBD1\Biblioteca\obj\Debug\Biblioteca.dll
+C:\EDUARDO\LP1\CadAlunosBD1\Biblioteca\obj\Debug\Biblioteca.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadAlunosBD2\Biblioteca\bin\Debug\Biblioteca.dll
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadAlunosBD2\Biblioteca\bin\Debug\Biblioteca.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadAlunosBD2\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadAlunosBD2\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadAlunosBD2\Biblioteca\obj\Debug\Biblioteca.dll
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadAlunosBD2\Biblioteca\obj\Debug\Biblioteca.pdb
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadAlunosBD2\Biblioteca\bin\Debug\Biblioteca.dll
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadAlunosBD2\Biblioteca\bin\Debug\Biblioteca.pdb
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadAlunosBD2\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadAlunosBD2\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadAlunosBD2\Biblioteca\obj\Debug\Biblioteca.dll
+X:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadAlunosBD2\Biblioteca\obj\Debug\Biblioteca.pdb

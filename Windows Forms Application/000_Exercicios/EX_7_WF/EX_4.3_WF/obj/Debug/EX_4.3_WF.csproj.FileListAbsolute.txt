@@ -1,0 +1,35 @@
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_4.3_WF\EX_4.3_WF\bin\Debug\EX_4.3_WF.exe.config
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_4.3_WF\EX_4.3_WF\bin\Debug\EX_4.3_WF.exe
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_4.3_WF\EX_4.3_WF\bin\Debug\EX_4.3_WF.pdb
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_4.3_WF\EX_4.3_WF\obj\Debug\EX_4.3_WF.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_4.3_WF\EX_4.3_WF\obj\Debug\EX_4._3_WF.Form1.resources
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_4.3_WF\EX_4.3_WF\obj\Debug\EX_4._3_WF.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_4.3_WF\EX_4.3_WF\obj\Debug\EX_4.3_WF.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_4.3_WF\EX_4.3_WF\obj\Debug\EX_4.3_WF.exe
+W:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_4.3_WF\EX_4.3_WF\obj\Debug\EX_4.3_WF.pdb
+X:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_4.3_WF\EX_4.3_WF\bin\Debug\EX_4.3_WF.exe.config
+X:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_4.3_WF\EX_4.3_WF\obj\Debug\EX_4.3_WF.exe
+X:\Professores\Prof. Eduardo\2016-S1\EC-2\EX_4.3_WF\EX_4.3_WF\obj\Debug\EX_4.3_WF.pdb
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\bin\Debug\EX_4.3_WF.exe.config
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\obj\Debug\EX_4.3_WF.exe
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\obj\Debug\EX_4.3_WF.pdb
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\bin\Debug\EX_4.3_WF.exe.config
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\obj\Debug\EX_4.3_WF.exe
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\obj\Debug\EX_4.3_WF.pdb
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\bin\Debug\EX_4.3_WF.exe
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\bin\Debug\EX_4.3_WF.pdb
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\obj\Debug\EX_4.3_WF.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\obj\Debug\EX_4._3_WF.frCadFuncionario.resources
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\obj\Debug\EX_4._3_WF.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\obj\Debug\EX_4.3_WF.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\obj\Debug\EX_4._3_WF.frResumo.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\bin\Debug\EX_4.3_WF.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\obj\Debug\EX_4.3_WF.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\obj\Debug\EX_4.3_WF.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\obj\Debug\EX_4.3_WF.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\obj\Debug\EX_4._3_WF.frCadFuncionario.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\obj\Debug\EX_4._3_WF.frResumo.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\obj\Debug\EX_4._3_WF.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\obj\Debug\EX_4.3_WF.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\bin\Debug\EX_4.3_WF.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_7_WF\EX_4.3_WF\bin\Debug\EX_4.3_WF.pdb

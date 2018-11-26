@@ -1,0 +1,5 @@
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Lista para simular Pilha e Fila\ListaEstatica\ListaEstatica\bin\Debug\ListaEstatica.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Lista para simular Pilha e Fila\ListaEstatica\ListaEstatica\bin\Debug\ListaEstatica.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Lista para simular Pilha e Fila\ListaEstatica\ListaEstatica\obj\Debug\ListaEstatica.csprojResolveAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Lista para simular Pilha e Fila\ListaEstatica\ListaEstatica\obj\Debug\ListaEstatica.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Lista para simular Pilha e Fila\ListaEstatica\ListaEstatica\obj\Debug\ListaEstatica.pdb

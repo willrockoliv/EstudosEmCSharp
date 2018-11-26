@@ -1,0 +1,16 @@
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ExemploTimer\ExemploTimer\bin\Debug\ExemploTimer.exe.config
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ExemploTimer\ExemploTimer\bin\Debug\ExemploTimer.exe
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ExemploTimer\ExemploTimer\bin\Debug\ExemploTimer.pdb
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ExemploTimer\ExemploTimer\obj\Debug\ExemploTimer.Form1.resources
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ExemploTimer\ExemploTimer\obj\Debug\ExemploTimer.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ExemploTimer\ExemploTimer\obj\Debug\ExemploTimer.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ExemploTimer\ExemploTimer\obj\Debug\ExemploTimer.exe
+W:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ExemploTimer\ExemploTimer\obj\Debug\ExemploTimer.pdb
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ExemploTimer\ExemploTimer\bin\Debug\ExemploTimer.exe.config
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ExemploTimer\ExemploTimer\obj\Debug\ExemploTimer.exe
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ExemploTimer\ExemploTimer\obj\Debug\ExemploTimer.pdb
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ExemploTimer\ExemploTimer\bin\Debug\ExemploTimer.exe
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ExemploTimer\ExemploTimer\bin\Debug\ExemploTimer.pdb
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ExemploTimer\ExemploTimer\obj\Debug\ExemploTimer.Form1.resources
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ExemploTimer\ExemploTimer\obj\Debug\ExemploTimer.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ExemploTimer\ExemploTimer\obj\Debug\ExemploTimer.csproj.GenerateResource.Cache

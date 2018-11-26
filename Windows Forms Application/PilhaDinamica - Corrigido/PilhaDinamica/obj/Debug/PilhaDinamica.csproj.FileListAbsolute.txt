@@ -1,0 +1,8 @@
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaDinamica - Corrigido\PilhaDinamica\bin\Debug\PilhaDinamica.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaDinamica - Corrigido\PilhaDinamica\bin\Debug\PilhaDinamica.pdb
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaDinamica - Corrigido\PilhaDinamica\obj\Debug\PilhaDinamica.csprojResolveAssemblyReference.cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaDinamica - Corrigido\PilhaDinamica\obj\Debug\PilhaDinamica.Form1.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaDinamica - Corrigido\PilhaDinamica\obj\Debug\PilhaDinamica.Properties.Resources.resources
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaDinamica - Corrigido\PilhaDinamica\obj\Debug\PilhaDinamica.csproj.GenerateResource.Cache
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaDinamica - Corrigido\PilhaDinamica\obj\Debug\PilhaDinamica.exe
+\\CEFSAFSACAD\comumFTT$\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\PilhaDinamica - Corrigido\PilhaDinamica\obj\Debug\PilhaDinamica.pdb

@@ -1,0 +1,6 @@
+Z:\William EC II\Algoritmos II\TestadorDeLetrasMaiusculas\TestadorDeLetrasMaiusculas\bin\Debug\TestadorDeLetrasMaiusculas.exe.config
+Z:\William EC II\Algoritmos II\TestadorDeLetrasMaiusculas\TestadorDeLetrasMaiusculas\bin\Debug\TestadorDeLetrasMaiusculas.exe
+Z:\William EC II\Algoritmos II\TestadorDeLetrasMaiusculas\TestadorDeLetrasMaiusculas\bin\Debug\TestadorDeLetrasMaiusculas.pdb
+Z:\William EC II\Algoritmos II\TestadorDeLetrasMaiusculas\TestadorDeLetrasMaiusculas\obj\Debug\TestadorDeLetrasMaiusculas.csprojResolveAssemblyReference.cache
+Z:\William EC II\Algoritmos II\TestadorDeLetrasMaiusculas\TestadorDeLetrasMaiusculas\obj\Debug\TestadorDeLetrasMaiusculas.exe
+Z:\William EC II\Algoritmos II\TestadorDeLetrasMaiusculas\TestadorDeLetrasMaiusculas\obj\Debug\TestadorDeLetrasMaiusculas.pdb

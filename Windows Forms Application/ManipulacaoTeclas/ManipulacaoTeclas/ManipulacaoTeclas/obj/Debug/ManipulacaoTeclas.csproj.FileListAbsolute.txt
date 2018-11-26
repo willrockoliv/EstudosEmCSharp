@@ -1,0 +1,54 @@
+c:\Eduardo\2012_S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\bin\Debug\ManipulacaoTeclas.exe
+c:\Eduardo\2012_S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\bin\Debug\ManipulacaoTeclas.pdb
+c:\Eduardo\2012_S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ResolveAssemblyReference.cache
+c:\Eduardo\2012_S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.Form1.resources
+c:\Eduardo\2012_S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.Properties.Resources.resources
+c:\Eduardo\2012_S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.csproj.GenerateResource.Cache
+c:\Eduardo\2012_S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.exe
+c:\Eduardo\2012_S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.pdb
+X:\Professores\Prof. Eduardo\2012-S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.exe
+X:\Professores\Prof. Eduardo\2012-S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.pdb
+X:\Professores\Prof. Eduardo\2012-S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\bin\Debug\ManipulacaoTeclas.exe
+X:\Professores\Prof. Eduardo\2012-S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\bin\Debug\ManipulacaoTeclas.pdb
+X:\Professores\Prof. Eduardo\2012-S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2012-S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.Form1.resources
+X:\Professores\Prof. Eduardo\2012-S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2012-S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2013-S1\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.exe
+X:\Professores\Prof. Eduardo\2013-S1\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.pdb
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.exe
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.pdb
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\bin\Debug\ManipulacaoTeclas.exe
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\bin\Debug\ManipulacaoTeclas.pdb
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.Form1.resources
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2013-S2\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.exe
+X:\Professores\Prof. Eduardo\2013-S2\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.pdb
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.exe
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.pdb
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\bin\Debug\ManipulacaoTeclas.exe
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\bin\Debug\ManipulacaoTeclas.pdb
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.Form1.resources
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2014-S1\Tecprog\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.exe
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.pdb
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\bin\Debug\ManipulacaoTeclas.exe
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\bin\Debug\ManipulacaoTeclas.pdb
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.Form1.resources
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2015-S1\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.exe
+X:\Professores\Prof. Eduardo\2015-S2\TecProg\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.pdb
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.exe
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.pdb
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\bin\Debug\ManipulacaoTeclas.exe
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\bin\Debug\ManipulacaoTeclas.pdb
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.Form1.resources
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2016-S2\EC-2 - Algoritmos II\ManipulacaoTeclas\ManipulacaoTeclas\ManipulacaoTeclas\obj\Debug\ManipulacaoTeclas.csproj.GenerateResource.Cache

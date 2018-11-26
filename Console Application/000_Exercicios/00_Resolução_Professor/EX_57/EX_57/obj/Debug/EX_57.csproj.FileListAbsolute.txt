@@ -1,0 +1,6 @@
+c:\eduardo\EC2\EX_57\EX_57\bin\Debug\EX_57.exe.config
+c:\eduardo\EC2\EX_57\EX_57\bin\Debug\EX_57.exe
+c:\eduardo\EC2\EX_57\EX_57\bin\Debug\EX_57.pdb
+c:\eduardo\EC2\EX_57\EX_57\obj\Debug\EX_57.csprojResolveAssemblyReference.cache
+c:\eduardo\EC2\EX_57\EX_57\obj\Debug\EX_57.exe
+c:\eduardo\EC2\EX_57\EX_57\obj\Debug\EX_57.pdb

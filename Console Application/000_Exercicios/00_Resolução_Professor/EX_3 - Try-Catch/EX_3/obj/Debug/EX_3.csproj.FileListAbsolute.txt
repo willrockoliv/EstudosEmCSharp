@@ -1,0 +1,11 @@
+c:\eduardo\EC2\EX_3\EX_3\bin\Debug\EX_3.exe.config
+c:\eduardo\EC2\EX_3\EX_3\bin\Debug\EX_3.exe
+c:\eduardo\EC2\EX_3\EX_3\bin\Debug\EX_3.pdb
+c:\eduardo\EC2\EX_3\EX_3\obj\Debug\EX_3.exe
+c:\eduardo\EC2\EX_3\EX_3\obj\Debug\EX_3.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_3 - Try-Catch\EX_3\bin\Debug\EX_3.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_3 - Try-Catch\EX_3\obj\Debug\EX_3.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_3 - Try-Catch\EX_3\obj\Debug\EX_3.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_3 - Try-Catch\EX_3\bin\Debug\EX_3.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_3 - Try-Catch\EX_3\bin\Debug\EX_3.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_3 - Try-Catch\EX_3\obj\Debug\EX_3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Form1.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\bin\Debug\EX_6_TimeFutebol.exe.config
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.exe
+X:\Professores\Prof. Eduardo\2017-S2\EC-5 - LP I\EX_6_TimeFutebol\EX_6_TimeFutebol\obj\Debug\EX_6_TimeFutebol.pdb

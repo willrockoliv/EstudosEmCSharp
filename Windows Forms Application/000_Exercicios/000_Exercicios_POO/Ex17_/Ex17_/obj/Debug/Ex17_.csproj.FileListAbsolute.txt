@@ -1,0 +1,9 @@
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\000_Exercicios_POO\Ex17_\Ex17_\bin\Debug\Ex17_.exe.config
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\000_Exercicios_POO\Ex17_\Ex17_\bin\Debug\Ex17_.exe
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\000_Exercicios_POO\Ex17_\Ex17_\bin\Debug\Ex17_.pdb
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\000_Exercicios_POO\Ex17_\Ex17_\obj\Debug\Ex17_.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\000_Exercicios_POO\Ex17_\Ex17_\obj\Debug\Ex17_.Form1.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\000_Exercicios_POO\Ex17_\Ex17_\obj\Debug\Ex17_.Properties.Resources.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\000_Exercicios_POO\Ex17_\Ex17_\obj\Debug\Ex17_.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\000_Exercicios_POO\Ex17_\Ex17_\obj\Debug\Ex17_.exe
+C:\Users\William.Rocha\Google Drive\Computação\FTT\Prof. Eduardo\Windows Forms Application\000_Exercicios\000_Exercicios_POO\Ex17_\Ex17_\obj\Debug\Ex17_.pdb

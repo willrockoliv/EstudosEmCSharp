@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <tbDados> 
+    <ProdutoID>1</ProdutoID>
+    <ProdutoDescricao>Borracha</ProdutoDescricao>
+    <Quantidade>156</Quantidade>
+  </tbDados>
+  <tbDados>
+    <ProdutoID>2</ProdutoID>
+    <ProdutoDescricao>Lápis</ProdutoDescricao>
+    <Quantidade>13</Quantidade>
+  </tbDados>
+  <tbDados>
+    <ProdutoID>3</ProdutoID>
+    <ProdutoDescricao>Caneta</ProdutoDescricao>
+    <Quantidade>1</Quantidade>
+  </tbDados>
+</DocumentElement>

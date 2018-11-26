@@ -1,0 +1,6 @@
+Z:\William EC II\Algoritmos II\OpcaoValida\OpcaoValida\bin\Debug\OpcaoValida.exe.config
+Z:\William EC II\Algoritmos II\OpcaoValida\OpcaoValida\bin\Debug\OpcaoValida.exe
+Z:\William EC II\Algoritmos II\OpcaoValida\OpcaoValida\bin\Debug\OpcaoValida.pdb
+Z:\William EC II\Algoritmos II\OpcaoValida\OpcaoValida\obj\Debug\OpcaoValida.csprojResolveAssemblyReference.cache
+Z:\William EC II\Algoritmos II\OpcaoValida\OpcaoValida\obj\Debug\OpcaoValida.exe
+Z:\William EC II\Algoritmos II\OpcaoValida\OpcaoValida\obj\Debug\OpcaoValida.pdb

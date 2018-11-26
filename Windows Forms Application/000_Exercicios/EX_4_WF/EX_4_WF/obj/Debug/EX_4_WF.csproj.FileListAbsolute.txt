@@ -1,0 +1,9 @@
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_4_WF\EX_4_WF\bin\Debug\EX_4_WF.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_4_WF\EX_4_WF\bin\Debug\EX_4_WF.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_4_WF\EX_4_WF\bin\Debug\EX_4_WF.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_4_WF\EX_4_WF\obj\Debug\EX_4_WF.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_4_WF\EX_4_WF\obj\Debug\EX_4_WF.Form1.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_4_WF\EX_4_WF\obj\Debug\EX_4_WF.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_4_WF\EX_4_WF\obj\Debug\EX_4_WF.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_4_WF\EX_4_WF\obj\Debug\EX_4_WF.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_4_WF\EX_4_WF\obj\Debug\EX_4_WF.pdb

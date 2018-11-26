@@ -1,0 +1,30 @@
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz\obj\Debug\Quiz.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.1\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.1\Quiz\obj\Debug\Quiz.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.1\Quiz\obj\Debug\Quiz.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.1\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.1\Quiz\bin\Debug\Quiz.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.1\Quiz\bin\Debug\Quiz.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.2\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.2\Quiz\bin\Debug\Quiz.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.2\Quiz\bin\Debug\Quiz.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.2\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.2\Quiz\obj\Debug\Quiz.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.2\Quiz\obj\Debug\Quiz.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.4\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.4\Quiz\bin\Debug\Quiz.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.4\Quiz\bin\Debug\Quiz.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.4\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.4\Quiz\obj\Debug\Quiz.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.4\Quiz\obj\Debug\Quiz.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.5\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.5\Quiz\obj\Debug\Quiz.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.5\Quiz\obj\Debug\Quiz.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.5\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.5\Quiz\bin\Debug\Quiz.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Quiz\Quiz 1.5\Quiz\bin\Debug\Quiz.pdb

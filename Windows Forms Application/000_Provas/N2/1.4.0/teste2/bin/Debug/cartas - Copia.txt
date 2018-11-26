@@ -1,0 +1,12 @@
+0 | 3B | THE JAÚ | 100 | 80 | 10 | 20 | 50 | \Imagens\Cartas\0.jpg
+1 | 2B | IGOR DAS NOVINHA | 90 | 50 | 20 | 80 | 60 | \Imagens\Cartas\1.gif
+2 | 5A | HAPPY BUT ANGRY | 30 | 70 | 80 | 70 | 60 | \Imagens\Cartas\2.jpg
+3 | 4B | MUITO LOKO | 10 | 20 | 20 | 30 | 90 | \Imagens\Cartas\3.jpg
+4 | 7D | DIDICO OF BRIDGE | 100 | 60 | 40 | 50 | 10 | \Imagens\Cartas\4.jpeg
+5 | 1D | PERGUNTADO | 20 | 90 | 50 | 60 | 70 | \Imagens\Cartas\5.jpeg
+6 | 7C | TINDER BOY | 20 | 40 | 30 | 60 | 50 | \Imagens\Cartas\6.jpeg
+7 | 6D | 5 É 10 | 40 | 30 | 20 | 100 | 40 | \Imagens\Cartas\7.jpeg
+8 | 2C | APPLE PIE | 50 | 100 | 20 | 40 | 60 | \Imagens\Cartas\8.jpeg
+9 | 5C | RED EYES | 30 | 40 | 100 | 50 | 20 | \Imagens\Cartas\9.JPG
+10 | 1C | FUNK BOY | 100 | 30 | 10 | 70 | 40 | \Imagens\Cartas\10.JPG
+11 | 6C | WHERE IS THE GUITAR ? | 20 | 40 | 30 | 60 | 50 | \Imagens\Cartas\11.JPG

@@ -1,0 +1,10 @@
+﻿$1;Reino;Animalia
+$1;Filo;Chordata
+$1;Classe;Aves
+$1;Ordem;Anseriformes
+$1;Família;Anatidae
+$2;Pato
+$3;Os patos possuem carúnculas ("verrugas vermelhas") na cabeça e ao redor dos olhos, o $3;macho mais que a fêmea, e seu bico é fino e comprido. A cauda dos patos é comprida e $3;tem uma forma que se assemelha a de um leque.
+$3;Em média, os patos adultos alcançam 58 cm de comprimento, 95 cm de envergadura, e $3;podem pesar mais de 6 quilos. Chegam a viver 15 anos.
+$3;Os patos alimentam-se de ervas, raízes, caracóis, crustáceos, insetos, pequenos peixes $3;e plantas aquáticas.
+$3;São encontrados em todas as partes do mundo.

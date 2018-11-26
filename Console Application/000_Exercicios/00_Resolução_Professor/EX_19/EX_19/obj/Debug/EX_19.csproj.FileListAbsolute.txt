@@ -1,0 +1,6 @@
+c:\eduardo\ec2\EX_19\EX_19\bin\Debug\EX_19.exe.config
+c:\eduardo\ec2\EX_19\EX_19\bin\Debug\EX_19.exe
+c:\eduardo\ec2\EX_19\EX_19\bin\Debug\EX_19.pdb
+c:\eduardo\ec2\EX_19\EX_19\obj\Debug\EX_19.csprojResolveAssemblyReference.cache
+c:\eduardo\ec2\EX_19\EX_19\obj\Debug\EX_19.exe
+c:\eduardo\ec2\EX_19\EX_19\obj\Debug\EX_19.pdb

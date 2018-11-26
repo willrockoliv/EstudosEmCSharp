@@ -1,0 +1,10 @@
+Quem ganhou a copa do mundo de 2002| futebol | Brasil | Itália |Peru | Argentina | Brasil
+Quanto é 5+5?| matemática | 10 | 55 | 0 | 5+5 | 10
+Quanto é 3+3?| matemática | 6 | 23 | 0 | 2+3| 6
+Qual o maior inimigo do batman? | desenho | coringa | bozo | fura tripa|superman|coringa
+Quem da jogadora de futebol feminino que mais vezes ganhou o prêmio Bola de Ouro? | futebol | Marta | Cris | Formiga | Marta | Elaine
+Qual jogador ficou foi penalizado em uma Copa do Mundo por agredir outro jogador com uma cabeçada no peito? | futebol | Zidane | Ronaldo | Zidade | Roberto Carlos | Suarez
+Quem é o joador considerado Rei do Futebol? | futebol | Pelé | Messi | Neymar | Pelé | Maradona
+Quanto é 2^3? | matemática | 8 | 6 | 5 | 8 | 10
+Qual é a derivada de 2x^2 + 3 | matemática | 4x | 4x + 3 | 4x | 2x^3 | 5x
+Quanto é a derivada de e^2x | matemática | 2 * e^2x | e^2 | 2x * e | 2 * e^2x | 2 * e

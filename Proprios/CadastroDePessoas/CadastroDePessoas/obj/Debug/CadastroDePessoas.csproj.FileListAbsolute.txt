@@ -1,0 +1,6 @@
+Z:\William EC II\Algoritmos II\000_Proprios\CadastroDePessoas\CadastroDePessoas\bin\Debug\CadastroDePessoas.exe.config
+Z:\William EC II\Algoritmos II\000_Proprios\CadastroDePessoas\CadastroDePessoas\bin\Debug\CadastroDePessoas.exe
+Z:\William EC II\Algoritmos II\000_Proprios\CadastroDePessoas\CadastroDePessoas\bin\Debug\CadastroDePessoas.pdb
+Z:\William EC II\Algoritmos II\000_Proprios\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.csprojResolveAssemblyReference.cache
+Z:\William EC II\Algoritmos II\000_Proprios\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.exe
+Z:\William EC II\Algoritmos II\000_Proprios\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.pdb

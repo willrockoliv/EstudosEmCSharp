@@ -1,0 +1,5 @@
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Ex62\Ex62\bin\Debug\Ex62.exe.config
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Ex62\Ex62\bin\Debug\Ex62.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Ex62\Ex62\bin\Debug\Ex62.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Ex62\Ex62\obj\Debug\Ex62.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Ex62\Ex62\obj\Debug\Ex62.pdb

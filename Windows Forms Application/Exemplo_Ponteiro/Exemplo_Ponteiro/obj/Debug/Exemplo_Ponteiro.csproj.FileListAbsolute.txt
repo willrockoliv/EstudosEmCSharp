@@ -1,0 +1,6 @@
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Exemplo_Ponteiro\Exemplo_Ponteiro\bin\Debug\Exemplo_Ponteiro.exe.config
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Exemplo_Ponteiro\Exemplo_Ponteiro\obj\Debug\Exemplo_Ponteiro.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Exemplo_Ponteiro\Exemplo_Ponteiro\bin\Debug\Exemplo_Ponteiro.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Exemplo_Ponteiro\Exemplo_Ponteiro\bin\Debug\Exemplo_Ponteiro.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Exemplo_Ponteiro\Exemplo_Ponteiro\obj\Debug\Exemplo_Ponteiro.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - Estrutura de Dados\Exemplo_Ponteiro\Exemplo_Ponteiro\obj\Debug\Exemplo_Ponteiro.pdb

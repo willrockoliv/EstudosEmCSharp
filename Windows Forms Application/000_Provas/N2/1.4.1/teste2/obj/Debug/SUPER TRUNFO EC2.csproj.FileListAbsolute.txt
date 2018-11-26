@@ -1,0 +1,679 @@
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\bin\Debug\teste2.exe.config
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\bin\Debug\teste2.exe
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\bin\Debug\teste2.pdb
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.Tela_Principal.resources
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.Properties.Resources.resources
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.exe
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.pdb
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.Tela_cadastro.resources
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.Tela_info.resources
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.Tela_Jogo.resources
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.Tela_Manual.resources
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.Tela_programadores.resources
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.Tela_Recordes.resources
+c:\users\rodrigues_notebook\documents\visual studio 2017\Projects\teste2\teste2\obj\Debug\teste2.Tela_sobre.resources
+C:\Users\William.Rocha\Desktop\SUPER TRUNFO EC2\teste2\bin\Debug\teste2.exe.config
+C:\Users\William.Rocha\Desktop\SUPER TRUNFO EC2\teste2\bin\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\SUPER TRUNFO EC2\teste2\bin\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.Tela_cadastro.resources
+C:\Users\William.Rocha\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.Tela_info.resources
+C:\Users\William.Rocha\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.Tela_Jogo.resources
+C:\Users\William.Rocha\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.Tela_Manual.resources
+C:\Users\William.Rocha\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.Tela_Principal.resources
+C:\Users\William.Rocha\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.Tela_programadores.resources
+C:\Users\William.Rocha\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.Tela_Recordes.resources
+C:\Users\William.Rocha\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.Tela_sobre.resources
+C:\Users\William.Rocha\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.pdb
+C:\Users\082160033\Downloads\0.0.3-20170518T001450Z-001\0.0.3\SUPER TRUNFO EC2\SUPER TRUNFO EC2\teste2\bin\Debug\teste2.exe.config
+C:\Users\082160033\Downloads\0.0.3-20170518T001450Z-001\0.0.3\SUPER TRUNFO EC2\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.exe
+C:\Users\082160033\Downloads\0.0.3-20170518T001450Z-001\0.0.3\SUPER TRUNFO EC2\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.pdb
+C:\Users\082160033\Downloads\0.0.3-20170518T001450Z-001\0.0.3\SUPER TRUNFO EC2\SUPER TRUNFO EC2\teste2\bin\Debug\teste2.exe
+C:\Users\082160033\Downloads\0.0.3-20170518T001450Z-001\0.0.3\SUPER TRUNFO EC2\SUPER TRUNFO EC2\teste2\bin\Debug\teste2.pdb
+C:\Users\082160033\Downloads\0.0.3-20170518T001450Z-001\0.0.3\SUPER TRUNFO EC2\SUPER TRUNFO EC2\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\082160033\Downloads\0.0.3-20170518T001450Z-001\0.0.3\SUPER TRUNFO EC2\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\082160033\Downloads\0.0.3-20170518T001450Z-001\0.0.3\SUPER TRUNFO EC2\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\082160033\Downloads\0.0.3-20170518T001450Z-001\0.0.3\SUPER TRUNFO EC2\SUPER TRUNFO EC2\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\082160033\Downloads\0.0.3-20170518T001450Z-001\0.0.3\SUPER TRUNFO EC2\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\082160033\Downloads\0.0.3-20170518T001450Z-001\0.0.3\SUPER TRUNFO EC2\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\082160033\Downloads\0.0.3-20170518T001450Z-001\0.0.3\SUPER TRUNFO EC2\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\082160033\Downloads\0.0.3-20170518T001450Z-001\0.0.3\SUPER TRUNFO EC2\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\082160033\Downloads\0.0.3-20170518T001450Z-001\0.0.3\SUPER TRUNFO EC2\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\082160033\Downloads\0.0.3-20170518T001450Z-001\0.0.3\SUPER TRUNFO EC2\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\082160033\Downloads\0.0.3-20170518T001450Z-001\0.0.3\SUPER TRUNFO EC2\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Rodrigues_notebook\Desktop\SUPER TRUNFO EC2\teste2\bin\Debug\teste2.exe.config
+C:\Users\Rodrigues_notebook\Desktop\SUPER TRUNFO EC2\teste2\bin\Debug\teste2.exe
+C:\Users\Rodrigues_notebook\Desktop\SUPER TRUNFO EC2\teste2\bin\Debug\teste2.pdb
+C:\Users\Rodrigues_notebook\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigues_notebook\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\Rodrigues_notebook\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\Rodrigues_notebook\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\Rodrigues_notebook\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\Rodrigues_notebook\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\Rodrigues_notebook\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Rodrigues_notebook\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\Rodrigues_notebook\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\Rodrigues_notebook\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Rodrigues_notebook\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Rodrigues_notebook\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.exe
+C:\Users\Rodrigues_notebook\Desktop\SUPER TRUNFO EC2\teste2\obj\Debug\teste2.pdb
+C:\Users\Rodrigues_notebook\Desktop\0.0.5\teste2\bin\Debug\teste2.exe.config
+C:\Users\Rodrigues_notebook\Desktop\0.0.5\teste2\bin\Debug\teste2.exe
+C:\Users\Rodrigues_notebook\Desktop\0.0.5\teste2\bin\Debug\teste2.pdb
+C:\Users\Rodrigues_notebook\Desktop\0.0.5\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigues_notebook\Desktop\0.0.5\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\Rodrigues_notebook\Desktop\0.0.5\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\Rodrigues_notebook\Desktop\0.0.5\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\Rodrigues_notebook\Desktop\0.0.5\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\Rodrigues_notebook\Desktop\0.0.5\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\Rodrigues_notebook\Desktop\0.0.5\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Rodrigues_notebook\Desktop\0.0.5\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\Rodrigues_notebook\Desktop\0.0.5\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\Rodrigues_notebook\Desktop\0.0.5\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Rodrigues_notebook\Desktop\0.0.5\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Rodrigues_notebook\Desktop\0.0.5\teste2\obj\Debug\teste2.exe
+C:\Users\Rodrigues_notebook\Desktop\0.0.5\teste2\obj\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.0.5\teste2\bin\Debug\teste2.exe.config
+C:\Users\William.Rocha\Desktop\0.0.5\teste2\bin\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.0.5\teste2\bin\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.0.5\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\0.0.5\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\William.Rocha\Desktop\0.0.5\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\William.Rocha\Desktop\0.0.5\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\William.Rocha\Desktop\0.0.5\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\William.Rocha\Desktop\0.0.5\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\William.Rocha\Desktop\0.0.5\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\0.0.5\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\William.Rocha\Desktop\0.0.5\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\William.Rocha\Desktop\0.0.5\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\William.Rocha\Desktop\0.0.5\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\0.0.5\teste2\obj\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.0.5\teste2\obj\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.0.7\teste2\bin\Debug\teste2.exe.config
+C:\Users\William.Rocha\Desktop\0.0.7\teste2\bin\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.0.7\teste2\bin\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.0.7\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\0.0.7\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\William.Rocha\Desktop\0.0.7\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\William.Rocha\Desktop\0.0.7\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\William.Rocha\Desktop\0.0.7\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\William.Rocha\Desktop\0.0.7\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\William.Rocha\Desktop\0.0.7\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\0.0.7\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\William.Rocha\Desktop\0.0.7\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\William.Rocha\Desktop\0.0.7\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\William.Rocha\Desktop\0.0.7\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\0.0.7\teste2\obj\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.0.7\teste2\obj\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.0.8\teste2\bin\Debug\teste2.exe.config
+C:\Users\William.Rocha\Desktop\0.0.8\teste2\bin\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.0.8\teste2\bin\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.0.8\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\0.0.8\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\William.Rocha\Desktop\0.0.8\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\William.Rocha\Desktop\0.0.8\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\William.Rocha\Desktop\0.0.8\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\William.Rocha\Desktop\0.0.8\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\William.Rocha\Desktop\0.0.8\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\0.0.8\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\William.Rocha\Desktop\0.0.8\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\William.Rocha\Desktop\0.0.8\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\William.Rocha\Desktop\0.0.8\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\0.0.8\teste2\obj\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.0.8\teste2\obj\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.0.9\teste2\bin\Debug\teste2.exe.config
+C:\Users\William.Rocha\Desktop\0.0.9\teste2\bin\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.0.9\teste2\bin\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.0.9\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\0.0.9\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\William.Rocha\Desktop\0.0.9\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\William.Rocha\Desktop\0.0.9\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\William.Rocha\Desktop\0.0.9\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\William.Rocha\Desktop\0.0.9\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\William.Rocha\Desktop\0.0.9\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\0.0.9\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\William.Rocha\Desktop\0.0.9\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\William.Rocha\Desktop\0.0.9\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\William.Rocha\Desktop\0.0.9\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\0.0.9\teste2\obj\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.0.9\teste2\obj\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.1.0\teste2\bin\Debug\teste2.exe.config
+C:\Users\William.Rocha\Desktop\0.1.0\teste2\bin\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.1.0\teste2\bin\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.1.0\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\0.1.0\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\William.Rocha\Desktop\0.1.0\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\William.Rocha\Desktop\0.1.0\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\William.Rocha\Desktop\0.1.0\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\William.Rocha\Desktop\0.1.0\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\William.Rocha\Desktop\0.1.0\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\0.1.0\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\William.Rocha\Desktop\0.1.0\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\William.Rocha\Desktop\0.1.0\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\William.Rocha\Desktop\0.1.0\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\0.1.0\teste2\obj\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.1.0\teste2\obj\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\bin\Debug\teste2.exe.config
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\bin\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\bin\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\obj\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\obj\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\William.Rocha\Desktop\0.1.1\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\bin\Debug\teste2.exe.config
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\bin\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\bin\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\obj\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.1.2\teste2\obj\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\bin\Debug\teste2.exe.config
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\bin\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\bin\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\obj\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.1.3-20170523T153505Z-001\0.1.3\teste2\obj\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\bin\Debug\teste2.exe.config
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\bin\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\bin\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\obj\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.1 (1).4\0.1.3\teste2\obj\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\bin\Debug\teste2.exe.config
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\bin\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\bin\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\obj\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.1.5\0.1.3\teste2\obj\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\bin\Debug\teste2.exe.config
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\bin\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\bin\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\obj\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.1.6\teste2\obj\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\bin\Debug\teste2.exe.config
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\bin\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\bin\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\obj\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.1.7-20170524T110116Z-001\0.1.7\teste2\obj\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\obj\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\obj\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\bin\Debug\teste2.exe.config
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\bin\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.1.8\teste2\bin\Debug\teste2.pdb
+C:\Users\082160033\Desktop\0.1.9\teste2\bin\Debug\teste2.exe.config
+C:\Users\082160033\Desktop\0.1.9\teste2\obj\Debug\teste2.exe
+C:\Users\082160033\Desktop\0.1.9\teste2\obj\Debug\teste2.pdb
+C:\Users\082160033\Desktop\0.1.9\teste2\bin\Debug\teste2.exe
+C:\Users\082160033\Desktop\0.1.9\teste2\bin\Debug\teste2.pdb
+C:\Users\082160033\Desktop\0.1.9\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\082160033\Desktop\0.1.9\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\082160033\Desktop\0.1.9\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\082160033\Desktop\0.1.9\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\082160033\Desktop\0.1.9\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\082160033\Desktop\0.1.9\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\082160033\Desktop\0.1.9\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\082160033\Desktop\0.1.9\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\082160033\Desktop\0.1.9\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\082160033\Desktop\0.1.9\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\082160033\Desktop\0.1.9\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\082160033\Desktop\0.1.9\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\082160033\Desktop\0.1.9\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\bin\Debug\teste2.exe.config
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\bin\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\bin\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\obj\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.2.0\teste2\obj\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\bin\Debug\teste2.exe.config
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\bin\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\bin\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\obj\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\obj\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.2.1\0.2.1\teste2\obj\Debug\teste2.FrResultado.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\bin\Debug\teste2.exe.config
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\bin\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\bin\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\obj\Debug\teste2.FrResultado.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\obj\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.2.2\0.2.2\teste2\obj\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\bin\Debug\teste2.exe.config
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\bin\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\bin\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\teste2.FrResultado.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.2\teste2\obj\Debug\teste2.FrInsereRecorde.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\bin\Debug\teste2.exe.config
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\bin\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\bin\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\teste2.FrInsereRecorde.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\teste2.FrResultado.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.6\teste2\obj\Debug\teste2.FrEscolhaComp.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\bin\Debug\teste2.exe.config
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\bin\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\bin\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\teste2.FrEscolhaComp.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\teste2.FrInsereRecorde.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\teste2.FrResultado.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.2.8\teste2\obj\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\bin\Debug\teste2.exe.config
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\bin\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\bin\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\teste2.FrEscolhaComp.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\teste2.FrInsereRecorde.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\teste2.FrResultado.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.0\teste2\obj\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\bin\Debug\teste2.exe.config
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\bin\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\bin\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\teste2.FrEscolhaComp.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\teste2.FrInsereRecorde.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\teste2.FrResultado.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Downloads\0.2.3\0.3.2\teste2\obj\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\bin\Debug\teste2.exe.config
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\bin\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\bin\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\teste2.FrEscolhaComp.resources
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\teste2.FrInsereRecorde.resources
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\teste2.FrResultado.resources
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\0.3.3\0.3.3\teste2\obj\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\bin\Debug\teste2.exe.config
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\bin\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\bin\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\teste2.FrEscolhaComp.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\teste2.FrInsereRecorde.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\teste2.FrResultado.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Desktop\0.3.3\teste2\obj\Debug\teste2.pdb
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\bin\Debug\teste2.exe.config
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\teste2.exe
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\teste2.pdb
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\bin\Debug\teste2.exe
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\bin\Debug\teste2.pdb
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\teste2.FrEscolhaComp.resources
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\teste2.FrInsereRecorde.resources
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\teste2.FrResultado.resources
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\082160030\Downloads\0.3.4-20170530T010036Z-001\0.3.4\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\bin\Debug\teste2.exe.config
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\bin\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\bin\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\teste2.FrEscolhaComp.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\teste2.FrInsereRecorde.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\teste2.FrResultado.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Desktop\0.3.5 PARA CORRIGIR NUMERO IMPAR\0.3.4\teste2\obj\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\bin\Debug\teste2.exe.config
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\bin\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\bin\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\teste2.FrEscolhaComp.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\teste2.FrInsereRecorde.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\teste2.FrResultado.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Desktop\1.3.5\1.3.5\teste2\obj\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\bin\Debug\teste2.exe.config
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\bin\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\bin\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\teste2.FrEscolhaComp.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\teste2.FrInsereRecorde.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\teste2.FrResultado.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Desktop\1.3.6\1.3.5\teste2\obj\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\bin\Debug\teste2.exe.config
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\bin\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\bin\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\teste2.FrEscolhaComp.resources
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\teste2.FrInsereRecorde.resources
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\teste2.FrResultado.resources
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\1.3.9\teste2\obj\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\bin\Debug\teste2.exe.config
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\bin\Debug\teste2.exe.manifest
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\bin\Debug\teste2.application
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\bin\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\bin\Debug\teste2.pdb
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.FrEscolhaComp.resources
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.FrInsereRecorde.resources
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.FrResultado.resources
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.exe.manifest
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.application
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.exe
+C:\Users\William.Rocha\Desktop\1.4.0\teste2\obj\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\bin\Debug\teste2.exe.config
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\bin\Debug\teste2.exe.manifest
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\bin\Debug\teste2.application
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\bin\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\bin\Debug\teste2.pdb
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\SUPER TRUNFO EC2.csprojResolveAssemblyReference.cache
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.frCadastro.resources
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.frConfiguracao.resources
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.FrEscolhaComp.resources
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.frInfo.resources
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.FrInsereRecorde.resources
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.frJogo.resources
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.frManual.resources
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.frPrincipal.resources
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.frProcurarCadastro.resources
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.FrResultado.resources
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.frProgramadores.resources
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.frRecordes.resources
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.frSobre.resources
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\SUPER TRUNFO EC2.csproj.GenerateResource.Cache
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.exe.manifest
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.application
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.exe
+C:\Users\Notebook Rodrigues\Desktop\1.4.0\teste2\obj\Debug\teste2.pdb

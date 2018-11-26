@@ -1,0 +1,10 @@
+C:\Users\082160033\Desktop\Exercicio\Exercicio\bin\Debug\Exercicio.exe.config
+C:\Users\082160033\Desktop\Exercicio\Exercicio\bin\Debug\Exercicio.exe
+C:\Users\082160033\Desktop\Exercicio\Exercicio\bin\Debug\Exercicio.pdb
+C:\Users\082160033\Desktop\Exercicio\Exercicio\obj\Debug\Exercicio.csprojResolveAssemblyReference.cache
+C:\Users\082160033\Desktop\Exercicio\Exercicio\obj\Debug\Exercicio.Form1.resources
+C:\Users\082160033\Desktop\Exercicio\Exercicio\obj\Debug\Exercicio.Properties.Resources.resources
+C:\Users\082160033\Desktop\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.GenerateResource.Cache
+C:\Users\082160033\Desktop\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\082160033\Desktop\Exercicio\Exercicio\obj\Debug\Exercicio.exe
+C:\Users\082160033\Desktop\Exercicio\Exercicio\obj\Debug\Exercicio.pdb

@@ -1,0 +1,12 @@
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_20\EX_20\bin\Debug\EX_20.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_20\EX_20\bin\Debug\EX_20.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_20\EX_20\bin\Debug\EX_20.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_20\EX_20\obj\Debug\EX_20.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_20\EX_20\obj\Debug\EX_20.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_20\EX_20\obj\Debug\EX_20.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_20 - com Metodos\EX_20\bin\Debug\EX_20.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_20 - com Metodos\EX_20\obj\Debug\EX_20.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_20 - com Metodos\EX_20\obj\Debug\EX_20.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_20 - com Metodos\EX_20\bin\Debug\EX_20.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_20 - com Metodos\EX_20\bin\Debug\EX_20.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\EX_20 - com Metodos\EX_20\obj\Debug\EX_20.csprojResolveAssemblyReference.cache

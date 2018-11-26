@@ -1,0 +1,6 @@
+Z:\William EC II\Algoritmos II\VerificaEspaco\VerificaEspaco\bin\Debug\VerificaEspaco.exe.config
+Z:\William EC II\Algoritmos II\VerificaEspaco\VerificaEspaco\bin\Debug\VerificaEspaco.exe
+Z:\William EC II\Algoritmos II\VerificaEspaco\VerificaEspaco\bin\Debug\VerificaEspaco.pdb
+Z:\William EC II\Algoritmos II\VerificaEspaco\VerificaEspaco\obj\Debug\VerificaEspaco.csprojResolveAssemblyReference.cache
+Z:\William EC II\Algoritmos II\VerificaEspaco\VerificaEspaco\obj\Debug\VerificaEspaco.exe
+Z:\William EC II\Algoritmos II\VerificaEspaco\VerificaEspaco\obj\Debug\VerificaEspaco.pdb

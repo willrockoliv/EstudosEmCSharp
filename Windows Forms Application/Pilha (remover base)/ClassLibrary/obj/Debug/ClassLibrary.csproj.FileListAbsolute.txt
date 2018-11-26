@@ -1,0 +1,10 @@
+C:\Users\William.Rocha\Desktop\002_Ex2_remover_base_Pilha\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\William.Rocha\Desktop\002_Ex2_remover_base_Pilha\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\William.Rocha\Desktop\002_Ex2_remover_base_Pilha\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\002_Ex2_remover_base_Pilha\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\William.Rocha\Desktop\002_Ex2_remover_base_Pilha\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Exercicios\001_Exercícios_Estr_Dados\002_Ex2_remover_base_Pilha\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Exercicios\001_Exercícios_Estr_Dados\002_Ex2_remover_base_Pilha\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Exercicios\001_Exercícios_Estr_Dados\002_Ex2_remover_base_Pilha\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Exercicios\001_Exercícios_Estr_Dados\002_Ex2_remover_base_Pilha\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Exercicios\001_Exercícios_Estr_Dados\002_Ex2_remover_base_Pilha\ClassLibrary\obj\Debug\ClassLibrary.pdb

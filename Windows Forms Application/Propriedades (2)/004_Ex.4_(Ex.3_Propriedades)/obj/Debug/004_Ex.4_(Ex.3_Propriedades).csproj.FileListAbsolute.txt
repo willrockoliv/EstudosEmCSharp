@@ -1,0 +1,22 @@
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\bin\Debug\004_Ex.4_(Ex.3_Propriedades).exe.config
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\bin\Debug\004_Ex.4_(Ex.3_Propriedades).exe
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\bin\Debug\004_Ex.4_(Ex.3_Propriedades).pdb
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\bin\Debug\Classes.dll
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\bin\Debug\Classes.pdb
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\obj\Debug\004_Ex.4_(Ex.3_Propriedades).csprojResolveAssemblyReference.cache
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\obj\Debug\_004_Ex._4__Ex._3_Propriedades_.Form1.resources
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\obj\Debug\_004_Ex._4__Ex._3_Propriedades_.Properties.Resources.resources
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\obj\Debug\004_Ex.4_(Ex.3_Propriedades).csproj.GenerateResource.Cache
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\obj\Debug\004_Ex.4_(Ex.3_Propriedades).exe
+Z:\William EC II\Algoritmos II\WindowsFormsApplication\000_Exercicios\000_Exercicios_POO\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\obj\Debug\004_Ex.4_(Ex.3_Propriedades).pdb
+C:\Users\William.Rocha\Desktop\temp\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\bin\Debug\004_Ex.4_(Ex.3_Propriedades).exe.config
+C:\Users\William.Rocha\Desktop\temp\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\bin\Debug\004_Ex.4_(Ex.3_Propriedades).exe
+C:\Users\William.Rocha\Desktop\temp\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\bin\Debug\004_Ex.4_(Ex.3_Propriedades).pdb
+C:\Users\William.Rocha\Desktop\temp\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\bin\Debug\Classes.dll
+C:\Users\William.Rocha\Desktop\temp\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\bin\Debug\Classes.pdb
+C:\Users\William.Rocha\Desktop\temp\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\obj\Debug\004_Ex.4_(Ex.3_Propriedades).csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\temp\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\obj\Debug\_004_Ex._4__Ex._3_Propriedades_.Form1.resources
+C:\Users\William.Rocha\Desktop\temp\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\obj\Debug\_004_Ex._4__Ex._3_Propriedades_.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\temp\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\obj\Debug\004_Ex.4_(Ex.3_Propriedades).csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\temp\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\obj\Debug\004_Ex.4_(Ex.3_Propriedades).exe
+C:\Users\William.Rocha\Desktop\temp\004_Ex.4_(Ex.3_Propriedades)\004_Ex.4_(Ex.3_Propriedades)\obj\Debug\004_Ex.4_(Ex.3_Propriedades).pdb

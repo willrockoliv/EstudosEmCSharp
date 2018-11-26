@@ -1,0 +1,10 @@
+C:\eduardo\LP1\CadastroProdutosHeranca\CadastroProdutosHeranca\obj\Debug\CadastroProdutosHeranca.csprojAssemblyReference.cache
+C:\eduardo\LP1\CadastroProdutosHeranca\CadastroProdutosHeranca\obj\Debug\CadastroProdutosHeranca.Form1.resources
+C:\eduardo\LP1\CadastroProdutosHeranca\CadastroProdutosHeranca\obj\Debug\CadastroProdutosHeranca.Properties.Resources.resources
+C:\eduardo\LP1\CadastroProdutosHeranca\CadastroProdutosHeranca\obj\Debug\CadastroProdutosHeranca.csproj.GenerateResource.cache
+C:\eduardo\LP1\CadastroProdutosHeranca\CadastroProdutosHeranca\obj\Debug\CadastroProdutosHeranca.csproj.CoreCompileInputs.cache
+C:\eduardo\LP1\CadastroProdutosHeranca\CadastroProdutosHeranca\bin\Debug\CadastroProdutosHeranca.exe.config
+C:\eduardo\LP1\CadastroProdutosHeranca\CadastroProdutosHeranca\bin\Debug\CadastroProdutosHeranca.exe
+C:\eduardo\LP1\CadastroProdutosHeranca\CadastroProdutosHeranca\bin\Debug\CadastroProdutosHeranca.pdb
+C:\eduardo\LP1\CadastroProdutosHeranca\CadastroProdutosHeranca\obj\Debug\CadastroProdutosHeranca.exe
+C:\eduardo\LP1\CadastroProdutosHeranca\CadastroProdutosHeranca\obj\Debug\CadastroProdutosHeranca.pdb

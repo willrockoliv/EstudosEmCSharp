@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Biblioteca.DAO
+{
+    public static class CategoriaDAO
+    {
+        public static DataTable ListaCategorias()
+        {
+            string sql = "select * from Categorias order by nome";
+            DataTable tabela = Metodos.ExecutaSelect(sql, null);
+            return tabela;
+        }
+    }
+}

@@ -1,0 +1,8 @@
+c:\eduardo\EC2\EX_4\EX_4\bin\Debug\EX_4.exe.config
+c:\eduardo\EC2\EX_4\EX_4\bin\Debug\EX_4.exe
+c:\eduardo\EC2\EX_4\EX_4\bin\Debug\EX_4.pdb
+c:\eduardo\EC2\EX_4\EX_4\obj\Debug\EX_4.exe
+c:\eduardo\EC2\EX_4\EX_4\obj\Debug\EX_4.pdb
+Z:\William EC II\Algoritmos II\004_Foreach\EX_4\bin\Debug\EX_4.exe.config
+Z:\William EC II\Algoritmos II\004_Foreach\EX_4\obj\Debug\EX_4.exe
+Z:\William EC II\Algoritmos II\004_Foreach\EX_4\obj\Debug\EX_4.pdb

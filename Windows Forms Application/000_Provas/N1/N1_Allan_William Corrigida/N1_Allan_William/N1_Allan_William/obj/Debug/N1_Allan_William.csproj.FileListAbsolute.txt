@@ -1,0 +1,44 @@
+C:\Users\082160030\Desktop\N1_Allan_William\N1_Allan_William\bin\Debug\N1_Allan_William.exe.config
+C:\Users\082160030\Desktop\N1_Allan_William\N1_Allan_William\bin\Debug\N1_Allan_William.exe
+C:\Users\082160030\Desktop\N1_Allan_William\N1_Allan_William\bin\Debug\N1_Allan_William.pdb
+C:\Users\082160030\Desktop\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.csprojResolveAssemblyReference.cache
+C:\Users\082160030\Desktop\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.Form1.resources
+C:\Users\082160030\Desktop\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.frAgenda.resources
+C:\Users\082160030\Desktop\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.frPesquisa.resources
+C:\Users\082160030\Desktop\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.Properties.Resources.resources
+C:\Users\082160030\Desktop\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.csproj.GenerateResource.Cache
+C:\Users\082160030\Desktop\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.exe
+C:\Users\082160030\Desktop\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.pdb
+C:\Users\Rodrigues_notebook\Downloads\N1_Allan_William\N1_Allan_William\N1_Allan_William\bin\Debug\N1_Allan_William.exe.config
+C:\Users\Rodrigues_notebook\Downloads\N1_Allan_William\N1_Allan_William\N1_Allan_William\bin\Debug\N1_Allan_William.exe
+C:\Users\Rodrigues_notebook\Downloads\N1_Allan_William\N1_Allan_William\N1_Allan_William\bin\Debug\N1_Allan_William.pdb
+C:\Users\Rodrigues_notebook\Downloads\N1_Allan_William\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigues_notebook\Downloads\N1_Allan_William\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.Form1.resources
+C:\Users\Rodrigues_notebook\Downloads\N1_Allan_William\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.frAgenda.resources
+C:\Users\Rodrigues_notebook\Downloads\N1_Allan_William\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.frPesquisa.resources
+C:\Users\Rodrigues_notebook\Downloads\N1_Allan_William\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.Properties.Resources.resources
+C:\Users\Rodrigues_notebook\Downloads\N1_Allan_William\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.csproj.GenerateResource.Cache
+C:\Users\Rodrigues_notebook\Downloads\N1_Allan_William\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.exe
+C:\Users\Rodrigues_notebook\Downloads\N1_Allan_William\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.pdb
+C:\Users\William.Rocha\Desktop\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\bin\Debug\N1_Allan_William.exe.config
+C:\Users\William.Rocha\Desktop\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\bin\Debug\N1_Allan_William.exe
+C:\Users\William.Rocha\Desktop\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\bin\Debug\N1_Allan_William.pdb
+C:\Users\William.Rocha\Desktop\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.Form1.resources
+C:\Users\William.Rocha\Desktop\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.frAgenda.resources
+C:\Users\William.Rocha\Desktop\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.frPesquisa.resources
+C:\Users\William.Rocha\Desktop\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.Properties.Resources.resources
+C:\Users\William.Rocha\Desktop\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Desktop\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.exe
+C:\Users\William.Rocha\Desktop\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.pdb
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Provas\N1\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\bin\Debug\N1_Allan_William.exe.config
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Provas\N1\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\bin\Debug\N1_Allan_William.exe
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Provas\N1\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\bin\Debug\N1_Allan_William.pdb
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Provas\N1\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Provas\N1\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.Form1.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Provas\N1\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.frAgenda.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Provas\N1\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.frPesquisa.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Provas\N1\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.Properties.Resources.resources
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Provas\N1\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.csproj.GenerateResource.Cache
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Provas\N1\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.exe
+C:\Users\William.Rocha\Google Drive\Computação\FTT\EC - Algoritmos\Windows Forms Application\000_Provas\N1\N1_Allan_William Corrigida\N1_Allan_William\N1_Allan_William\obj\Debug\N1_Allan_William.pdb

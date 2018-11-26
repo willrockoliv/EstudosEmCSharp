@@ -1,0 +1,6 @@
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\ValidaEmail\ValidaEmail\bin\Debug\ValidaEmail.exe.config
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\ValidaEmail\ValidaEmail\obj\Debug\ValidaEmail.csprojResolveAssemblyReference.cache
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\ValidaEmail\ValidaEmail\bin\Debug\ValidaEmail.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\ValidaEmail\ValidaEmail\bin\Debug\ValidaEmail.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\ValidaEmail\ValidaEmail\obj\Debug\ValidaEmail.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\ValidaEmail\ValidaEmail\obj\Debug\ValidaEmail.pdb

@@ -1,0 +1,92 @@
+c:\eduardo\poo\EX_8\EX_8\EX_8\bin\Debug\EX_8.exe
+c:\eduardo\poo\EX_8\EX_8\EX_8\bin\Debug\EX_8.pdb
+c:\eduardo\poo\EX_8\EX_8\EX_8\obj\Debug\ResolveAssemblyReference.cache
+c:\eduardo\poo\EX_8\EX_8\EX_8\obj\Debug\EX_8.Form1.resources
+c:\eduardo\poo\EX_8\EX_8\EX_8\obj\Debug\EX_8.Properties.Resources.resources
+c:\eduardo\poo\EX_8\EX_8\EX_8\obj\Debug\EX_8.csproj.GenerateResource.Cache
+c:\eduardo\poo\EX_8\EX_8\EX_8\obj\Debug\EX_8.exe
+c:\eduardo\poo\EX_8\EX_8\EX_8\obj\Debug\EX_8.pdb
+C:\eduardo\POO\EX_8_old\EX_8\EX_8\obj\Debug\EX_8.exe
+C:\eduardo\POO\EX_8_old\EX_8\EX_8\obj\Debug\EX_8.pdb
+C:\eduardo\2012_S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.exe
+C:\eduardo\2012_S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.pdb
+C:\eduardo\2012_S1\POO\EX_7\EX_7\EX_8\bin\Debug\EX_8.exe
+C:\eduardo\2012_S1\POO\EX_7\EX_7\EX_8\bin\Debug\EX_8.pdb
+C:\eduardo\2012_S1\POO\EX_7\EX_7\EX_8\obj\Debug\ResolveAssemblyReference.cache
+C:\eduardo\2012_S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.Form1.resources
+C:\eduardo\2012_S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.Properties.Resources.resources
+C:\eduardo\2012_S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2012-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.exe
+X:\Professores\Prof. Eduardo\2012-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.pdb
+X:\Professores\Prof. Eduardo\2012-S1\POO\EX_7\EX_7\EX_8\bin\Debug\EX_8.exe
+X:\Professores\Prof. Eduardo\2012-S1\POO\EX_7\EX_7\EX_8\bin\Debug\EX_8.pdb
+X:\Professores\Prof. Eduardo\2012-S1\POO\EX_7\EX_7\EX_8\obj\Debug\ResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2012-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.Form1.resources
+X:\Professores\Prof. Eduardo\2012-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2012-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.csproj.GenerateResource.Cache
+Z:\AULAS\2012-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.exe
+Z:\AULAS\2012-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2012-s2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2012-s2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.pdb
+X:\Professores\Prof. Eduardo\2012-s2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.exe
+X:\Professores\Prof. Eduardo\2012-s2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.pdb
+X:\Professores\Prof. Eduardo\2013-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.exe
+X:\Professores\Prof. Eduardo\2013-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_7\EX_7\EX_8\bin\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_7\EX_7\EX_8\bin\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_7\EX_7\EX_8\obj\Debug\ResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.Form1.resources
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2013-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2013-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2013-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2013-S2\POO\EX_7\EX_7\EX_8\bin\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2013-S2\POO\EX_7\EX_7\EX_8\bin\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2013-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2013-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.Form1.resources
+W:\Professores\Prof. Eduardo\2013-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2013-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2013-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.exe
+X:\Professores\Prof. Eduardo\2013-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.pdb
+Z:\AULAS\2013-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.exe
+Z:\AULAS\2013-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2014-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2014-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2014-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2014-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.Form1.resources
+W:\Professores\Prof. Eduardo\2014-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2014-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2014-S2\POO\EX_7\EX_7\EX_8\bin\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2014-S2\POO\EX_7\EX_7\EX_8\bin\Debug\EX_8.pdb
+X:\Professores\Prof. Eduardo\2014-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.exe
+X:\Professores\Prof. Eduardo\2014-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.pdb
+X:\Professores\Prof. Eduardo\2014-S2\POO\EX_7\EX_7\EX_8\bin\Debug\EX_8.exe
+X:\Professores\Prof. Eduardo\2014-S2\POO\EX_7\EX_7\EX_8\bin\Debug\EX_8.pdb
+X:\Professores\Prof. Eduardo\2014-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.csprojResolveAssemblyReference.cache
+X:\Professores\Prof. Eduardo\2014-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.Form1.resources
+X:\Professores\Prof. Eduardo\2014-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.Properties.Resources.resources
+X:\Professores\Prof. Eduardo\2014-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_7\EX_7\EX_8\bin\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_7\EX_7\EX_8\bin\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.Form1.resources
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2015-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.csproj.GenerateResource.Cache
+X:\Professores\Prof. Eduardo\2015-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.exe
+X:\Professores\Prof. Eduardo\2015-S1\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.pdb
+X:\Professores\Prof. Eduardo\2015-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.exe
+X:\Professores\Prof. Eduardo\2015-S2\POO\EX_7\EX_7\EX_8\obj\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_14\EX_7\EX_8\obj\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_14\EX_7\EX_8\obj\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_14\EX_7\EX_8\bin\Debug\EX_8.exe
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_14\EX_7\EX_8\bin\Debug\EX_8.pdb
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_14\EX_7\EX_8\obj\Debug\EX_8.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_14\EX_7\EX_8\obj\Debug\EX_8.Form1.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_14\EX_7\EX_8\obj\Debug\EX_8.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2017-S2\EC-3 - POO\EX_14\EX_7\EX_8\obj\Debug\EX_8.csproj.GenerateResource.Cache
+C:\Users\082160033\Desktop\EX_14\EX_7\EX_8\obj\Debug\EX_8.exe
+C:\Users\082160033\Desktop\EX_14\EX_7\EX_8\obj\Debug\EX_8.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Ex2_remover_base_Pilha", "002_Ex2_remover_base_Pilha\002_Ex2_remover_base_Pilha.csproj", "{151234CA-2B4C-431C-9A86-6CF9F7CA72B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{8CE1039D-F2DB-4273-B89B-EEFF38DB9713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151234CA-2B4C-431C-9A86-6CF9F7CA72B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151234CA-2B4C-431C-9A86-6CF9F7CA72B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151234CA-2B4C-431C-9A86-6CF9F7CA72B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151234CA-2B4C-431C-9A86-6CF9F7CA72B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE1039D-F2DB-4273-B89B-EEFF38DB9713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE1039D-F2DB-4273-B89B-EEFF38DB9713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE1039D-F2DB-4273-B89B-EEFF38DB9713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE1039D-F2DB-4273-B89B-EEFF38DB9713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
