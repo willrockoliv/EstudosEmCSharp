@@ -1,0 +1,12 @@
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\REF_OUT\REF_OUT\bin\Debug\REF_OUT.exe.config
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\REF_OUT\REF_OUT\bin\Debug\REF_OUT.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\REF_OUT\REF_OUT\bin\Debug\REF_OUT.pdb
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\REF_OUT\REF_OUT\obj\Debug\REF_OUT.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\REF_OUT\REF_OUT\obj\Debug\REF_OUT.exe
+W:\Professores\Prof. Eduardo\2017-S1\EC-2 - Algoritmos II\REF_OUT\REF_OUT\obj\Debug\REF_OUT.pdb
+Z:\William EC II\Algoritmos II\017_REF_OUT\REF_OUT\bin\Debug\REF_OUT.exe.config
+Z:\William EC II\Algoritmos II\017_REF_OUT\REF_OUT\obj\Debug\REF_OUT.exe
+Z:\William EC II\Algoritmos II\017_REF_OUT\REF_OUT\obj\Debug\REF_OUT.pdb
+Z:\William EC II\Algoritmos II\017_REF_OUT\REF_OUT\obj\Debug\REF_OUT.csprojResolveAssemblyReference.cache
+Z:\William EC II\Algoritmos II\017_REF_OUT\REF_OUT\bin\Debug\REF_OUT.exe
+Z:\William EC II\Algoritmos II\017_REF_OUT\REF_OUT\bin\Debug\REF_OUT.pdb
