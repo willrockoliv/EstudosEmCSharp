@@ -1,0 +1,12 @@
+Z:\William EC II\001 Desafio Sequencia - O Desafio Final\001 Desafio Sequencia - O Desafio Final\bin\Debug\001 Desafio Sequencia - O Desafio Final.exe.config
+Z:\William EC II\001 Desafio Sequencia - O Desafio Final\001 Desafio Sequencia - O Desafio Final\bin\Debug\001 Desafio Sequencia - O Desafio Final.exe
+Z:\William EC II\001 Desafio Sequencia - O Desafio Final\001 Desafio Sequencia - O Desafio Final\bin\Debug\001 Desafio Sequencia - O Desafio Final.pdb
+Z:\William EC II\001 Desafio Sequencia - O Desafio Final\001 Desafio Sequencia - O Desafio Final\obj\Debug\001 Desafio Sequencia - O Desafio Final.csprojResolveAssemblyReference.cache
+Z:\William EC II\001 Desafio Sequencia - O Desafio Final\001 Desafio Sequencia - O Desafio Final\obj\Debug\001 Desafio Sequencia - O Desafio Final.exe
+Z:\William EC II\001 Desafio Sequencia - O Desafio Final\001 Desafio Sequencia - O Desafio Final\obj\Debug\001 Desafio Sequencia - O Desafio Final.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Desafio Sequencia - O Desafio Final\001 Desafio Sequencia - O Desafio Final\bin\Debug\001 Desafio Sequencia - O Desafio Final.exe.config
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Desafio Sequencia - O Desafio Final\001 Desafio Sequencia - O Desafio Final\obj\Debug\001 Desafio Sequencia - O Desafio Final.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Desafio Sequencia - O Desafio Final\001 Desafio Sequencia - O Desafio Final\obj\Debug\001 Desafio Sequencia - O Desafio Final.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Desafio Sequencia - O Desafio Final\001 Desafio Sequencia - O Desafio Final\bin\Debug\001 Desafio Sequencia - O Desafio Final.exe
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Desafio Sequencia - O Desafio Final\001 Desafio Sequencia - O Desafio Final\bin\Debug\001 Desafio Sequencia - O Desafio Final.pdb
+C:\Users\William.Rocha\Desktop\William\FTT\Algoritmos II\Desafio Sequencia - O Desafio Final\001 Desafio Sequencia - O Desafio Final\obj\Debug\001 Desafio Sequencia - O Desafio Final.csprojResolveAssemblyReference.cache
