@@ -1066,19 +1066,6 @@ as begin
 							v.data_hora between @data_ini and @data_fim and
 							a.status='C')
 	
-	/*
-						(select (sum(iv.quantidade) * p.vl_venda) as receitaProd
-						from item_venda iv 
-						inner join produto p
-						on iv.id_produto=p.id
-						inner join venda v
-						on iv.id_venda=v.id
-						where 
-							p.controla_estoque=1 and
-							v.data_hora between @data_ini and @data_fim
-						group by 
-							p.vl_venda)
-	*/
 
 	if(@receitaProd is null)
 		set @receitaProd = 0
@@ -1095,19 +1082,6 @@ as begin
 							p.controla_estoque=0 and
 							v.data_hora between @data_ini and @data_fim and
 							a.status='C')
-	
-	/*
-						(select (sum(iv.quantidade) * p.vl_venda) as receitaServ
-						from item_venda iv 
-						inner join produto p 
-						on iv.id_produto=p.id
-						inner join venda v
-						on iv.id_venda=v.id
-						where 
-							p.controla_estoque=0 and
-							v.data_hora between @data_ini and @data_fim
-						group by p.vl_venda)
-	*/
 
 	if(@receitaServ is null)
 		set @receitaServ = 0
@@ -1126,19 +1100,6 @@ as begin
 						p.controla_estoque=1 and
 						v.data_hora between @data_ini and @data_fim and
 						a.status='C')
-	
-	/*
-					 (select (sum(iv.quantidade) * p.vl_custo) as CustoProd 
-					  from item_venda iv 
-					  inner join produto p 
-					  on iv.id_produto=p.id 
-					  inner join venda v
-					  on iv.id_venda=v.id
-					  where 
-						p.controla_estoque=1 and
-						v.data_hora between @data_ini and @data_fim
-					  group by p.vl_custo)
-	*/
 
 	if(@CustoProd is null)
 		set @CustoProd = 0
@@ -1155,19 +1116,6 @@ as begin
 						p.controla_estoque=0 and
 						v.data_hora between @data_ini and @data_fim and
 						a.status='C')
-	
-	/*
-					 (select (sum(iv.quantidade) * p.vl_custo) as custoServ
-					  from item_venda iv 
-					  inner join produto p 
-					  on iv.id_produto=p.id
-					  inner join venda v
-					  on iv.id_venda=v.id
-					  where 
-						p.controla_estoque=0 and
-						v.data_hora between @data_ini and @data_fim
-					  group by p.vl_custo)
-	*/
 
 	if(@custoServ is null)
 		set @custoServ = 0;
